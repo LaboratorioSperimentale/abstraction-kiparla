@@ -1,0 +1,783 @@
+tu_id	speaker	start	end	duration	include	variation	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	W:moved_boundaries	W:switches	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	E:unmatched_overlaps	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	original	text	orthographic
+0	PKP057	2.25	3.29	1.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	sai che non mi dispiace?	sai che non mi dispiace?	sai che non mi dispiace
+1	PKP060	3.33	4.71	1.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	eh prendiamo la bottiglia	eh prendiamo la bottiglia	eh prendiamo la bottiglia
+2	PKP057	10.0	10.81	0.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	però è giotto eh	però è giotto eh	però è giotto eh
+3	PKP060	12.38	14.99	2.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	eh ma sarà una bottiglia da xx	eh ma sarà una bottiglia da xx	eh ma sarà una bottiglia da x
+4	PKP057	15.41	16.155	0.75	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	no neanch'io	no neanch'io	no neanch' io
+5	PKP060	16.155	17.44	1.29	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	sarà molt~ sarà molto piccola	sarà molt~ sarà molto piccola	sarà molt~ sarà molto piccola
+6	PKP060	18.793	19.893	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	una bottiglietta	una bottiglietta	una bottiglietta
+7	PKP057	19.907	21.007	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sarà una bottiglietta da sake tipo	sarà una bottiglietta da sake tipo	sarà una bottiglietta da sake tipo
+8	PKP060	26.76	28.77	2.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	poi oh se ce ne arriva tanto non si butta mica via	poi oh se ce ne arriva tanto non si butta mica via	poi oh se ce ne arriva tanto non si butta mica via
+9	PKP057	29.99	31.07	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	è vero si porta a casa	è vero si porta a casa	è vero si porta a casa
+10	PKP060	31.08	31.91	0.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+11	PKP060	33.63	35.0	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	mi piace un botto questo cappuccino	mi piace un botto questo cappuccino	mi piace un botto questo cappuccino
+12	PKP057	35.01	35.58	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mangialo tu	mangialo tu	mangialo tu
+13	PKP057	39.65	41.07	1.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	a me piace un botto quel fagiolino	a me piace un botto quel fagiolino	a me piace un botto quel fagiolino
+14	PKP060	43.65	45.76	2.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	come quelli che metti tu nel riso quando andiamo in montagna	come quelli che metti tu nel riso quando andiamo in montagna	come quelli che metti tu nel riso quando andiamo in montagna
+15	PKP060	46.8	48.21	1.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	x nel couscous non nel riso	x nel couscous non nel riso	x nel couscous non nel riso
+16	PKP057	49.41	49.74	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ma no,	ma no,	ma no
+17	PKP060	50.99	51.95	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	gli edamame	gli edamame	gli edamame
+18	PKP057	52.07	53.45	1.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	4	ma non sono quelli ((ride))	ma non sono quelli {ride}	ma non sono quelli {ride}
+19	PKP060	53.45	54.0	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+20	PKP060	57.46	58.67	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	vedi, ti ho già tradotto una parola	vedi, ti ho già tradotto una parola	vedi ti ho già tradotto una parola
+21	PKP057	58.86	60.6	1.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	1	esatto ((ride))	esatto {ride}	esatto {ride}
+22	PKP060	59.55	60.36	0.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+23	PKP057	65.0	65.3	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((si schiarisce la gola))	{si_schiarisce_la_gola}	{si_schiarisce_la_gola}
+24	PKP057	67.33	68.76	1.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ti lascio uno e uno	ti lascio uno e uno	ti lascio uno e uno
+25	PKP060	69.46	70.08	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	troppo gentile	troppo gentile	troppo gentile
+26	PKP060	76.41	78.71	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	comunque ti avverto (.) stasera ho una fame: atroce	comunque ti avverto {P} stasera ho una fame: atroce	comunque ti avverto {P} stasera ho una fame atroce
+27	PKP057	78.76	79.05	0.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì?	sì?	sì
+28	PKP057	80.16	80.98	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cos'hai fatto oggi?	cos'hai fatto oggi?	cos' hai fatto oggi
+29	PKP060	81.98	82.44	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	oggi?	oggi?	oggi
+30	PKP057	82.65	82.95	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+31	PKP060	83.62	86.48	2.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	stamattina (.) mi sono alzato molto tardi	stamattina {P} mi sono alzato molto tardi	stamattina {P} mi sono alzato molto tardi
+32	PKP057	86.5	86.83	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+33	PKP060	87.73	88.46	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	alle dieci e mezzo	alle dieci e mezzo	alle dieci e mezzo
+34	PKP057	88.97	89.33	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+35	PKP060	90.08	91.84	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	e sono andato (.) a fare gpl	e sono andato {P} a fare gpl	e sono andato {P} a fare gpl
+36	PKP057	92.12	92.46	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+37	PKP060	92.6	94.63	2.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	per venire qua (.) se no rimanevamo a piedi	per venire qua {P} se no rimanevamo a piedi	per venire qua {P} se no rimanevamo a piedi
+38	PKP057	94.93	95.31	0.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+39	PKP060	98.06	100.94	2.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	poi (.) sono tornato a casa	poi {P} sono tornato a casa	poi {P} sono tornato a casa
+40	PKP060	100.96	102.58	1.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ho pranzato	ho pranzato	ho pranzato
+41	PKP060	102.58	107.26	4.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ho mangiato: la pasta: con speck e zucca	ho mangiato: la pasta: con speck e zucca	ho mangiato la pasta con speck e zucca
+42	PKP060	109.19	109.68	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	poi	poi	poi
+43	PKP060	112.13	113.46	1.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	poi mi son messo a letto	poi mi son messo a letto	poi mi son messo a letto
+44	PKP060	113.46	116.02	2.56	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	e ho dormito ancora perchè non mi ero alzato abbaztanza tardi	e ho dormito ancora perché non mi ero alzato abbaztanza tardi	e ho dormito ancora perché non mi ero alzato abbaztanza tardi
+45	PKP057	116.26	116.86	0.6	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+46	PKP060	119.6	120.54	0.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh:	eh:	eh
+47	PKP060	122.79	126.56	3.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	e dopo mi sono messo lì a sistemare quel cazzo di ore del:	e dopo mi sono messo lì a sistemare quel cazzo di ore del:	e dopo mi sono messo lì a sistemare quel cazzo di ore del
+48	PKP057	126.56	127.49	0.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	del tirocinio?	del tirocinio?	del tirocinio
+49	PKP060	127.5	128.34	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	del resoconto ore,	del resoconto ore,	del resoconto ore
+50	PKP060	129.46	132.04500000000002	2.59	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	12	a informarmi un po' sui documenti che devo portare per la tesi,	a informarmi un po' sui documenti che devo portare per la tesi,	a informarmi un po' sui documenti che devo portare per la tesi
+51	PKP057	132.04500000000002	132.65	0.61	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+52	PKP057	133.98	135.03	1.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+53	PKP060	135.54	138.24	2.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	e: (.) e ho perso un botto di tempo	e: {P} e ho perso un botto di tempo	e {P} e ho perso un botto di tempo
+54	PKP057	138.27	138.67	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+55	PKP060	139.36	143.3	3.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	12	a fare ehm: ho fatto mh (.) almeno tre conti con la calcolatrice	a fare ehm: ho fatto mh {P} almeno tre conti con la calcolatrice	a fare ehm ho fatto mh {P} almeno tre conti con la calcolatrice
+56	PKP057	143.31	143.81	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+57	PKP060	144.86	145.93	1.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	e nessuno mi è venuto	e nessuno mi è venuto	e nessuno mi è venuto
+58	PKP060	149.39	149.87	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	poi:	poi:	poi
+59	PKP060	151.62	153.619	1.999	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	sono andato a far la doccia alle?	sono andato a far la doccia alle?	sono andato a far la doccia alle
+60	PKP060	153.619	155.446	1.827	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	alle sei e cinque	alle sei e cinque	alle sei e cinque
+61	PKP060	155.83	157.29	1.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	8	((ride)) e dovevo partire alle sei e un quarto	{ride} e dovevo partire alle sei e un quarto	{ride} e dovevo partire alle sei e un quarto
+62	PKP057	157.28	158.1	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+63	PKP057	163.74	165.68	1.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	vedi che portano anche la teiera?	vedi che portano anche la teiera?	vedi che portano anche la teiera
+64	PKP060	165.68	166.0	0.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+65	PKP057	166.0	168.95	2.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	buonissimo (.) è b~ è stupendo pasteggiare col tè	buonissimo {P} è b~ è stupendo pasteggiare col tè	buonissimo {P} è b~ è stupendo pasteggiare col tè
+66	PKP057	170.43	171.38	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	è stupendissimo	è stupendissimo	è stupendissimo
+67	PKP060	172.72	174.786	2.066	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	io l'avevo mangiato : °mangiato°	io l'avevo mangiato: °mangiato°	io l' avevo mangiato mangiato
+68	PKP060	174.786	178.746	3.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	13	avevo bevuto: a un pran~ ehm: a un pranzo al giappo (.) con raffa	avevo bevuto: a un pran~ ehm: a un pranzo al giappo {P} con raffa	avevo bevuto a un pran~ ehm a un pranzo al giappo {P} con raffa
+69	PKP057	178.96	179.26	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+70	PKP060	179.33	180.51	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	al posto dell'acqua	al posto dell'acqua	al posto dell' acqua
+71	PKP060	182.04	183.48	1.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sarà diverso sicuramente questo	sarà diverso sicuramente questo	sarà diverso sicuramente questo
+72	PKP057	183.63	183.93	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+73	PKP060	184.78	185.11	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	scusa,	scusa,	scusa
+74	PKP060	187.06	188.74	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ci porteresti una bottiglia di:vino,	ci porteresti una bottiglia di:vino,	ci porteresti una bottiglia divino
+75	PKP060	189.18	189.42	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+76	PKP057	189.52	189.86	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+77	PKP060	191.05	191.35	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	fatto	fatto	fatto
+78	PKP057	192.02	192.47	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	oh yeah	oh yeah	oh yeah
+79	PKP060	192.77	193.28	0.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+80	PKP057	200.41	206.43	6.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	14	>allora< per il primo secondo (.) mi sembra di (.) spezzare tipo un amare~ un amaretto	>allora< per il primo secondo {P} mi sembra di {P} spezzare tipo un amare~ un amaretto	allora per il primo secondo {P} mi sembra di {P} spezzare tipo un amare~ un amaretto
+81	PKP060	206.48	207.06	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	dopo:	dopo:	dopo
+82	PKP057	208.15	209.75	1.6	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	e poi (.) sa di prugna	e poi {P} sa di prugna	e poi {P} sa di prugna
+83	PKP060	211.77	213.3	1.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	84=0.820	False	0	1	0	4	sa anche di vino ((ride))	sa anche di vino {ride}	sa anche di vino {ride}
+84	PKP057	212.48	213.82	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	83=0.820	False	1	0	0	4	e poi però (.) mh	e poi però {P} mh	e poi però {P} mh
+85	PKP057	220.9	221.38	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	xx è buono	xx è buono	x è buono
+86	PKP057	222.3	222.62	0.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+87	PKP057	224.69	225.31	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+88	PKP060	226.35	226.79	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	visto?	visto?	visto
+89	PKP057	230.43	232.19	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	sì ma io la bottiglia la porto a casa	sì ma io la bottiglia la porto a casa	sì ma io la bottiglia la porto a casa
+90	PKP057	232.96	233.92	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cioè cento per cento	cioè cento per cento	cioè cento per cento
+91	PKP060	234.11	234.95	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ci mancherebbe	ci mancherebbe	ci mancherebbe
+92	PKP057	235.13	236.36	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ci devo fare una foto	ci devo fare una foto	ci devo fare una foto
+93	PKP060	238.69	240.11	1.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ah ci sta è tipo una lattina	ah ci sta è tipo una lattina	ah ci sta è tipo una lattina
+94	PKP057	241.25	241.62	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+95	PKP060	242.03	243.47	1.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	una lattina di vino di prugne	una lattina di vino di prugne	una lattina di vino di prugne
+96	PKP057	244.27	244.83	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxxx	xxxx	x
+97	PKP057	253.36	254.64	1.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cioè è troppo bello	cioè è troppo bello	cioè è troppo bello
+98	PKP057	260.55	261.35	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	fantastico	fantastico	fantastico
+99	PKP057	264.11	266.55	2.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ingredienti acqua alcol di prugna:	ingredienti acqua alcol di prugna:	ingredienti acqua alcol di prugna
+100	PKP060	267.0	268.0	1.0	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	stai leggendo il coreano?	stai leggendo il coreano?	stai leggendo il coreano
+101	PKP057	268.67	272.44	3.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	8	vino bia~ ((ride)) dai, vino bianco alcol neutrale diluito:	vino bia~ {ride} dai, vino bianco alcol neutrale diluito:	vino bia~ {ride} dai vino bianco alcol neutrale diluito
+102	PKP057	276.97	278.09	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	beh fantastico	beh fantastico	beh fantastico
+103	PKP057	278.98	280.03	1.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	prodotto in corea	prodotto in corea	prodotto in corea
+104	PKP060	280.03	281.23	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	guarda che bel tappo	guarda che bel tappo	guarda che bel tappo
+105	PKP057	284.45	285.53	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	mi piace un sacco ti giuro	mi piace un sacco ti giuro	mi piace un sacco ti giuro
+106	PKP060	295.39	297.73	2.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	dopo chiediamo se si può portare a casa se la riusi	dopo chiediamo se si può portare a casa se la riusi	dopo chiediamo se si può portare a casa se la riusi
+107	PKP057	301.39	307.49	6.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((canta sottovoce))	{canta_sottovoce}	{canta_sottovoce}
+108	PKP057	316.3	318.34	2.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non sa di? no di cantuccio	non sa di? no di cantuccio	non sa di no di cantuccio
+109	PKP060	318.85	319.73	0.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	di cantuccio	di cantuccio	di cantuccio
+110	PKP057	330.87	332.14	1.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	fa quattordici gradi	fa quattordici gradi	fa quattordici gradi
+111	PKP060	332.86	334.35	1.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ventisette e sette dice qui	ventisette e sette dice qui	ventisette e sette dice qui
+112	PKP057	334.37	334.77	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+113	PKP057	336.43	339.29	2.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	vedi dovrebbero farle così le bottiglie:	vedi dovrebbero farle così le bottiglie:	vedi dovrebbero farle così le bottiglie
+114	PKP057	341.24	343.87	2.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	di vino tipo (.) quando uno va a mangiare da solo	di vino tipo {P} quando uno va a mangiare da solo	di vino tipo {P} quando uno va a mangiare da solo
+115	PKP060	345.08	346.55	1.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	5	in mensa ce le hanno ((ride))	in mensa ce le hanno {ride}	in mensa ce le hanno {ride}
+116	PKP057	346.56	347.735	1.18	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	le bottiglie piccoline?	le bottiglie piccoline?	le bottiglie piccoline
+117	PKP060	347.735	348.96	1.23	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	6	le bottigliette di vino sì sì	le bottigliette di vino sì sì	le bottigliette di vino sì sì
+118	PKP057	348.97	349.47	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	fantastico	fantastico	fantastico
+119	PKP060	349.5	351.85	2.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	sì sono grosse tipo: così o un po' meno	sì sono grosse tipo: così o un po' meno	sì sono grosse tipo così o un po' meno
+120	PKP057	351.88	352.21	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+121	PKP060	352.51	353.99	1.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	duecentocinquanta trecento emme elle	duecentocinquanta trecento emme elle	duecentocinquanta trecento emme elle
+122	PKP057	355.29	357.49	2.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	ve ma: (.) l'hai:	ve ma: {P} l'hai:	ve ma {P} l' hai
+123	PKP060	359.77	360.07	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	che cosa?	che cosa?	che cosa
+124	PKP057	361.9	366.38	4.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	l'hai raccontato: ai tuoi colleghi, che ti hanno fatto la proposta ufficiale?	l'hai raccontato: ai tuoi colleghi, che ti hanno fatto la proposta ufficiale?	l' hai raccontato ai tuoi colleghi che ti hanno fatto la proposta ufficiale
+125	PKP060	367.05	368.92	1.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì sì sì gliel'ho raccontato	sì sì sì gliel'ho raccontato	sì sì sì gliel' ho raccontato
+126	PKP057	369.15	370.635	1.5	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	saran rimasti contenti	saran rimasti contenti	saran rimasti contenti
+127	PKP060	370.635	372.35	1.73	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	8	sì sì volevano che li portassi a bere	sì sì volevano che li portassi a bere	sì sì volevano che li portassi a bere
+128	PKP057	372.37	372.96	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+129	PKP060	373.09	374.18	1.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	o che gli portassi da bere	o che gli portassi da bere	o che gli portassi da bere
+130	PKP057	375.1	376.26	1.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	portagli DA bere	portagli DA bere	portagli da bere
+131	PKP060	376.98	377.43	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	°non si può°	°non si può°	non si può
+132	PKP060	378.51	379.73	1.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	°non si può portare da bere in azienda°	°non si può portare da bere in azienda°	non si può portare da bere in azienda
+133	PKP057	379.83	380.6	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	DAVVERO?	DAVVERO?	davvero
+134	PKP057	381.66	382.96	1.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	((sbuffa)) che regole	{sbuffa} che regole	{sbuffa} che regole
+135	PKP060	385.07	385.34	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	eh oh	eh oh	eh oh
+136	PKP060	388.01	392.873	4.863	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	22	eh: no l'ho detto a tutti: tranne a uno che non c'era mentre lo lo dicevo e mi son scordato	eh: no l'ho detto a tutti: tranne a uno che non c'era mentre lo lo dicevo e mi son scordato	eh no l' ho detto a tutti tranne a uno che non c' era mentre lo lo dicevo e mi son scordato
+137	PKP060	392.873	395.013	2.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	il mio amico lì che fa i versi degli animali	il mio amico lì che fa i versi degli animali	il mio amico lì che fa i versi degli animali
+138	PKP057	395.05	396.23	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	mh (.) e stefano	mh {P} e stefano	mh {P} e stefano
+139	PKP060	397.79	400.35	2.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	stefano: non gliel'ho detto esplicitamente	stefano: non gliel'ho detto esplicitamente	stefano non gliel' ho detto esplicitamente
+140	PKP060	401.72	408.0	6.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	20	però: mi ha già chiesto di fare: di continuare: di aggiungere una cosa al lavoro che ho fatto fino adesso	però: mi ha già chiesto di fare: di continuare: di aggiungere una cosa al lavoro che ho fatto fino adesso	però mi ha già chiesto di fare di continuare di aggiungere una cosa al lavoro che ho fatto fino adesso
+141	PKP057	408.02	408.49	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+142	PKP060	408.75	415.613	6.863	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	17	e: (.) quando gli ho detto che me ne sarei andato il <trentun> ottobre ha detto [no: peccato]	e: {P} quando gli ho detto che me ne sarei andato il <trentun> ottobre ha detto [no: peccato]	e {P} quando gli ho detto che me ne sarei andato il trentun ottobre ha detto no peccato
+143	PKP057	414.49	415.84	1.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	144=0.227,142=1.123	True	0	1	0	5	[si è messo a piangere, ((ride))]	[si è messo a piangere, {ride}]	si è messo a piangere {ride}
+144	PKP060	415.613	420.64	5.027	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	143=0.227	False	0	0	0	11	dai se riesci per quella data: almeno metterti un po' avanti	dai se riesci per quella data: almeno metterti un po' avanti	dai se riesci per quella data almeno metterti un po' avanti
+145	PKP060	420.64	426.293	5.653	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	20	a me dispiace quale e là (.) ho detto: eh: non lo so: io faccio di tut~ del mio meglio: ma	a me dispiace quale e là {P} ho detto: eh: non lo so: io faccio di tut~ del mio meglio: ma	a me dispiace quale e là {P} ho detto eh non lo so io faccio di tut~ del mio meglio ma
+146	PKP060	426.293	430.906	4.613	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	14	comunque ho: (.) sono un po' indietro con la tesi e vorrei concentrarmi su quello	comunque ho: {P} sono un po' indietro con la tesi e vorrei concentrarmi su quello	comunque ho {P} sono un po' indietro con la tesi e vorrei concentrarmi su quello
+147	PKP060	430.906	433.533	2.627	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	148=0.003	False	0	0	0	9	e fa ah dai fa quello che puoi dopo:	e fa ah dai fa quello che puoi dopo:	e fa ah dai fa quello che puoi dopo
+148	PKP057	433.53	435.4	1.87	True	False	0	0	1	0	0	0	0	0	False	False	False	False	True	147=0.003,149=0.815	True	0	0	0	3	eh anche [perchè:]	eh anche [perché:]	eh anche perché
+149	PKP060	434.585	435.52	0.935	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[dopo non] gliel'ho detto	[dopo non] gliel'ho detto	dopo non gliel' ho detto
+150	PKP057	435.81	437.613	1.803	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	se non finisci la tesi	se non finisci la tesi	se non finisci la tesi
+151	PKP057	437.613	440.293	2.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	dopo fai fatica anche a iniziare	dopo fai fatica anche a iniziare	dopo fai fatica anche a iniziare
+152	PKP060	440.33	441.15	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì son cazzi	sì son cazzi	sì son cazzi
+153	PKP057	441.26	442.25	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	son cazzi xx	son cazzi xx	son cazzi x
+154	PKP060	445.5	446.06	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no vabbè	no vabbè	no vabbè
+155	PKP057	447.63	448.05	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cosa?	cosa?	cosa
+156	PKP060	448.06	448.92	0.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non ci posso credere	non ci posso credere	non ci posso credere
+157	PKP060	452.77	453.74	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	l'acqua recoaro	l'acqua recoaro	l' acqua recoaro
+158	PKP057	454.31	454.92	0.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e: che acqua è?	e: che acqua è?	e che acqua è
+159	PKP060	456.91	460.87	3.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	9	praticamente (.) sai le interrogazioni che ci fanno: al mercoledì?	praticamente {P} sai le interrogazioni che ci fanno: al mercoledì?	praticamente {P} sai le interrogazioni che ci fanno al mercoledì
+160	PKP057	461.21	461.44	0.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+161	PKP060	462.74	466.39	3.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	11	c'è il nostro capo che ha chiamato questa cosa recoaro ((ride))	c'è il nostro capo che ha chiamato questa cosa recoaro {ride}	c' è il nostro capo che ha chiamato questa cosa recoaro {ride}
+162	PKP057	466.4	467.31	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+163	PKP060	467.27	471.99	4.72	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	perchè: lui si ricorda che quando era giovane facevano la pubblicità di quest'acqua recoaro	perché: lui si ricorda che quando era giovane facevano la pubblicità di quest'acqua recoaro	perché lui si ricorda che quando era giovane facevano la pubblicità di quest' acqua recoaro
+164	PKP060	473.315	476.47	3.155	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	e nella pubblicità dic~ dicevano chiaro limpido recoaro	e nella pubblicità dic~ dicevano chiaro limpido recoaro	e nella pubblicità dic~ dicevano chiaro limpido recoaro
+165	PKP057	476.5	476.83	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+166	PKP060	477.18	479.84	2.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	e lui vuole che spieghiamo le cose in modo chiaro [limpido]	e lui vuole che spieghiamo le cose in modo chiaro [limpido]	e lui vuole che spieghiamo le cose in modo chiaro limpido
+167	PKP057	479.59	481.36	1.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	[sto]malissimo (.) facci una foto	[sto]malissimo {P} facci una foto	stomalissimo {P} facci una foto
+168	PKP060	481.36	482.72	1.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	4	adesso gliela mando subito ((ride))	adesso gliela mando subito {ride}	adesso gliela mando subito {ride}
+169	PKP060	485.02	487.54	2.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	((ride)) pensa te	{ride} pensa te	{ride} pensa te
+170	PKP060	494.41	498.03	3.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	171=0.980	False	0	1	0	7	anzi la mando sul gruppo del recoaro ((ride))	anzi la mando sul gruppo del recoaro {ride}	anzi la mando sul gruppo del recoaro {ride}
+171	PKP057	496.47	497.45	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	170=0.980	False	0	0	0	3	>vai vai vai<	>vai vai vai<	vai vai vai
+172	PKP057	500.15	500.96	0.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	c'è anche lui?	c'è anche lui?	c' è anche lui
+173	PKP060	501.21	501.42	0.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°sì°	°sì°	sì
+174	PKP057	506.54	508.24	1.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	hai visto che ho i capelli più lisci del solito?	hai visto che ho i capelli più lisci del solito?	hai visto che ho i capelli più lisci del solito
+175	PKP060	509.77	510.92	1.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non l'avevo notato	non l'avevo notato	non l' avevo notato
+176	PKP060	510.92	512.065	1.16	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	6	ti sei fatta la piastra? no	ti sei fatta la piastra? no	ti sei fatta la piastra no
+177	PKP057	512.065	513.43	1.38	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	oh un girino di spazzola	oh un girino di spazzola	oh un girino di spazzola
+178	PKP060	514.09	516.01	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	un girino? quelli delle rane che nuotano?	un girino? quelli delle rane che nuotano?	un girino quelli delle rane che nuotano
+179	PKP057	516.02	516.28	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+180	PKP057	532.4	534.95	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	son proprio belli i capelli delle ragazze asiatiche	son proprio belli i capelli delle ragazze asiatiche	son proprio belli i capelli delle ragazze asiatiche
+181	PKP060	536.09	536.85	0.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sono liscissimi	sono liscissimi	sono liscissimi
+182	PKP057	537.6	538.84	1.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	sì ma poi son scuri	sì ma poi son scuri	sì ma poi son scuri
+183	PKP057	539.65	541.4	1.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sono spessi sono dritti	sono spessi sono dritti	sono spessi sono dritti
+184	PKP060	546.9	549.37	2.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	loro si alzano dal letto e non devono farci niente	loro si alzano dal letto e non devono farci niente	loro si alzano dal letto e non devono farci niente
+185	PKP057	549.47	550.05	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	esatto	esatto	esatto
+186	PKP057	554.3	556.15	1.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ti sta proprio bene quel maglione	ti sta proprio bene quel maglione	ti sta proprio bene quel maglione
+187	PKP060	558.81	559.95	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	si sta proprio bene xx	si sta proprio bene xx	si sta proprio bene x
+188	PKP057	559.96	560.87	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ti STA bene	ti STA bene	ti sta bene
+189	PKP060	562.01	562.29	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx	xx	x
+190	PKP057	562.76	563.02	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	miao	miao	miao
+191	PKP060	565.18	567.87	2.69	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	4	perchè? ((ride)) beh vabbè dai	perché? {ride} beh vabbè dai	perché {ride} beh vabbè dai
+192	PKP057	567.87	568.93	1.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+193	PKP060	568.93	571.49	2.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	194=0.968	False	0	1	0	6	potevo potevo dire ben di peggio ((ride))	potevo potevo dire ben di peggio {ride}	potevo potevo dire ben di peggio {ride}
+194	PKP057	570.522	571.752	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	193=0.968	False	0	0	0	2	è vero	è vero	è vero
+195	PKP057	572.29	574.35	2.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+196	PKP060	572.3	574.36	2.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+197	PKP060	578.19	580.2	2.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	gliel'ho mandata ((ride))	gliel'ho mandata {ride}	gliel' ho mandata {ride}
+198	PKP057	580.61	581.8	1.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	mandagli anche una foto mia	mandagli anche una foto mia	mandagli anche una foto mia
+199	PKP060	583.36	585.62	2.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	no che poi ti vedono tutti e ti vogliono	no che poi ti vedono tutti e ti vogliono	no che poi ti vedono tutti e ti vogliono
+200	PKP057	586.335	587.775	1.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	mi vogliono? ((ride))	mi vogliono? {ride}	mi vogliono {ride}
+201	PKP057	588.95	589.51	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°cosa dici?°	°cosa dici?°	cosa dici
+202	PKP060	591.12	591.56	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°sciocchino°	°sciocchino°	sciocchino
+203	PKP060	593.8	597.65	3.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	mh (.) hai visto le storie di filippo rossin di ieri sera?	mh {P} hai visto le storie di filippo rossin di ieri sera?	mh {P} hai visto le storie di filippo rossin di ieri sera
+204	PKP057	597.65	597.89	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+205	PKP057	598.81	602.75	3.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	9	NO (.) ho visto che era tipo travestito da autovelox	NO {P} ho visto che era tipo travestito da autovelox	no {P} ho visto che era tipo travestito da autovelox
+206	PKP060	602.76	608.1	5.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	207=0.640	False	0	0	0	21	da autovelox e dopo si è piazzato in mezzo alla tangenziale: al lato della strada: a fare: a ingannare le macchine	da autovelox e dopo si è piazzato in mezzo alla tangenziale: al lato della strada: a fare: a ingannare le macchine	da autovelox e dopo si è piazzato in mezzo alla tangenziale al lato della strada a fare a ingannare le macchine
+207	PKP057	605.14	605.78	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	206=0.640	False	0	0	0	2	°sto malissimo°	°sto malissimo°	sto malissimo
+208	PKP057	608.11	609.4925000000001	1.39	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	sto >malissimo< le ha ingannate?	sto >malissimo< le ha ingannate?	sto malissimo le ha ingannate
+209	PKP060	609.4925000000001	610.465	0.98	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	1	0	5	io ero già a casa ((ride))	io ero già a casa {ride}	io ero già a casa {ride}
+210	PKP057	611.01	611.23	0.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+211	PKP060	611.4	618.32	6.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	3	0	0	19	che siamo andati via dal ristorante e loro (.) andando a correggio che andavano a continuare la (.) °festa° (.) in via *****	che siamo andati via dal ristorante e loro {P} andando a correggio che andavano a continuare la {P} °festa° {P} in via	che siamo andati via dal ristorante e loro {P} andando a correggio che andavano a continuare la {P} festa {P} in via
+212	PKP060	619.33	621.24	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	casa di: sua n~ ex casa di sua nonna	casa di: sua n~ ex casa di sua nonna	casa di sua n~ ex casa di sua nonna
+213	PKP060	623.16	632.54	9.38	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	3	0	0	25	ehm: (.) >si son< fermati in tangenziale e hanno fatto >visto che<: (.) quella: (.) quel: gli hanno fatto st~ il costume da autovelox perchè lui li odia	ehm: {P} >si son< fermati in tangenziale e hanno fatto >visto che<: {P} quella: {P} quel: gli hanno fatto st~ il costume da autovelox perché lui li odia	ehm {P} si son fermati in tangenziale e hanno fatto visto che {P} quella {P} quel gli hanno fatto st~ il costume da autovelox perché lui li odia
+214	PKP057	632.97	633.29	0.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+215	PKP060	633.49	635.31	1.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	lui ha paurissima e:	lui ha paurissima e:	lui ha paurissima e
+216	PKP060	636.43	638.92	2.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	xxxxxxxxx e gli han fatto il costume così	xxxxxxxxx e gli han fatto il costume così	x e gli han fatto il costume così
+217	PKP060	638.92	643.48	4.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	18	e quindi già che ce l'avevano in macchina hanno avuto la brillante idea di fare sta cosa ((ride))	e quindi già che ce l'avevano in macchina hanno avuto la brillante idea di fare sta cosa {ride}	e quindi già che ce l' avevano in macchina hanno avuto la brillante idea di fare sta cosa {ride}
+218	PKP057	642.01	643.5	1.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+219	PKP060	648.44	650.22	1.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	poi: gli abbiamo regalato:	poi: gli abbiamo regalato:	poi gli abbiamo regalato
+220	PKP060	652.3	655.14	2.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	gli abbiam regalato: uno zaino (.) da medico	gli abbiam regalato: uno zaino {P} da medico	gli abbiam regalato uno zaino {P} da medico
+221	PKP057	655.16	655.46	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+222	PKP060	656.31	656.51	0.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	pieno d~	pieno d~	pieno d~
+223	PKP057	656.85	658.23	1.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	come sono gli zaini da medici?	come sono gli zaini da medici?	come sono gli zaini da medici
+224	PKP060	658.39	661.56	3.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	mah uno zaino: cioè che puoi usare per qualsiasi cosa alla fine	mah uno zaino: cioè che puoi usare per qualsiasi cosa alla fine	mah uno zaino cioè che puoi usare per qualsiasi cosa alla fine
+225	PKP057	661.59	661.88	0.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+226	PKP060	661.88	663.56	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	però quello che lo rendeva da medico	però quello che lo rendeva da medico	però quello che lo rendeva da medico
+227	PKP060	668.53	672.23	3.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	quello che lo rendeva da medico è stato riempirlo con attrezzi da medico	quello che lo rendeva da medico è stato riempirlo con attrezzi da medico	quello che lo rendeva da medico è stato riempirlo con attrezzi da medico
+228	PKP057	672.73	673.58	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah:	ah:	ah
+229	PKP060	673.59	674.38	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	tipo lo [stetos~]	tipo lo [stetos~]	tipo lo stetos~
+230	PKP057	674.26	676.19	1.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	229=0.120,231=1.090	True	2	0	0	5	[°lo stet~°] (.) eh (.) ma professionale?	[°lo stet~°] {P} eh {P} ma professionale?	lo stet~ {P} eh {P} ma professionale
+231	PKP060	674.88	675.97	1.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[°lo stetoscopio°]	[°lo stetoscopio°]	lo stetoscopio
+232	PKP060	676.23	677.62	1.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	professionale con inciso il suo nome	professionale con inciso il suo nome	professionale con inciso il suo nome
+233	PKP057	678.28	679.43	1.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	uh:	uh:	uh
+234	PKP060	680.21	683.373	3.163	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	il eh (.) il macchinino per mis~ per misurare la pressione:	il eh {P} il macchinino per mis~ per misurare la pressione:	il eh {P} il macchinino per mis~ per misurare la pressione
+235	PKP060	683.373	686.993	3.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	altri macchinini vari per misurare cose diverse (°e solo questo°)	altri macchinini vari per misurare cose diverse (°e solo questo°)	altri macchinini vari per misurare cose diverse e solo questo
+236	PKP060	688.67	691.26	2.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	xxx ((ride))	xxx {ride}	x {ride}
+237	PKP057	694.02	695.31	1.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	e: c'è rimasto bene?	e: c'è rimasto bene?	e c' è rimasto bene
+238	PKP060	695.78	696.9	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì gli è piaciuto un sacco	sì gli è piaciuto un sacco	sì gli è piaciuto un sacco
+239	PKP057	697.11	697.7	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°bene°	°bene°	bene
+240	PKP060	697.95	699.09	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	era: ben piegato	era: ben piegato	era ben piegato
+241	PKP057	699.93	700.55	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°immagino°	°immagino°	immagino
+242	PKP060	700.75	702.41	1.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	era ben piegato e:	era ben piegato e:	era ben piegato e
+243	PKP060	703.47	706.68	3.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	fatto: eravamo in un: circolo lì vicino ai petali	fatto: eravamo in un: circolo lì vicino ai petali	fatto eravamo in un circolo lì vicino ai petali
+244	PKP060	708.67	710.53	1.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	tipo: sembra una bociofila	tipo: sembra una bociofila	tipo sembra una bociofila
+245	PKP057	710.66	710.92	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+246	PKP060	711.16	718.07	6.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	18	è tipo un: grosso capann~ un capannone (.) sembra più una palestra (.) mh sì una palestra anche in altezza	è tipo un: grosso capann~ un capannone {P} sembra più una palestra {P} mh sì una palestra anche in altezza	è tipo un grosso capann~ un capannone {P} sembra più una palestra {P} mh sì una palestra anche in altezza
+247	PKP060	718.64	720.87	2.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	tutte le travi in legno (.) è un salone.	tutte le travi in legno {P} è un salone.	tutte le travi in legno {P} è un salone
+248	PKP057	720.87	721.18	0.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+249	PKP060	723.63	725.933	2.303	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	c'hanno: ci han piazzato:	c'hanno: ci han piazzato:	c' hanno ci han piazzato
+250	PKP060	725.933	727.899	1.966	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ha messo un separè tipo a metà	ha messo un separè tipo a metà	ha messo un separè tipo a metà
+251	PKP057	728.27	728.62	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh,	mh,	mh
+252	PKP060	728.8	730.36	1.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	han messo: han fatto dei tavoli	han messo: han fatto dei tavoli	han messo han fatto dei tavoli
+253	PKP060	734.88	738.22	3.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	ma sì han fatto tipo tre tavolate da: tre quattro tavoli l'una	ma sì han fatto tipo tre tavolate da: tre quattro tavoli l'una	ma sì han fatto tipo tre tavolate da tre quattro tavoli l' una
+254	PKP057	738.26	738.74	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah ah	ah ah	ah ah
+255	PKP060	738.97	741.12	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ci mettevano tre quattro persone per tavolo	ci mettevano tre quattro persone per tavolo	ci mettevano tre quattro persone per tavolo
+256	PKP057	741.265	741.57	0.305	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+257	PKP060	741.99	744.33	2.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e: ognuno col segnaposto	e: ognuno col segnaposto	e ognuno col segnaposto
+258	PKP057	744.635	744.95	0.315	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+259	PKP060	744.97	745.76	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	la bomboniera	la bomboniera	la bomboniera
+260	PKP057	746.44	747.83	1.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+261	PKP060	746.44	747.84	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+262	PKP060	748.13	752.44	4.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	9	abbiam mangiato lasagne (.) e (.) gnocco fritto con i salumi,	abbiam mangiato lasagne {P} e {P} gnocco fritto con i salumi,	abbiam mangiato lasagne {P} e {P} gnocco fritto con i salumi
+263	PKP057	752.55	752.99	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh,	mh,	mh
+264	PKP060	754.28	756.5	2.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	e: (.) vino bianco vino rosso c'era,	e: {P} vino bianco vino rosso c'era,	e {P} vino bianco vino rosso c' era
+265	PKP057	756.56	756.93	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°mh°	°mh°	mh
+266	PKP060	756.94	761.21	4.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	e il dolce che era tipo una spe~ una specie di mascapone con un petalo di rosa in mezzo	e il dolce che era tipo una spe~ una specie di mascapone con un petalo di rosa in mezzo	e il dolce che era tipo una spe~ una specie di mascapone con un petalo di rosa in mezzo
+267	PKP057	761.84	762.1	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+268	PKP060	762.12	763.49	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	°sapeva un sacco di (rosa)°	°sapeva un sacco di (rosa)°	sapeva un sacco di rosa
+269	PKP057	765.11	767.38	2.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ehm: e con chi eri in tavolo tu?	ehm: e con chi eri in tavolo tu?	ehm e con chi eri in tavolo tu
+270	PKP060	768.22	771.19	2.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	eh: ero con: un mio ex compagno di liceo	eh: ero con: un mio ex compagno di liceo	eh ero con un mio ex compagno di liceo
+271	PKP057	771.19	771.58	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°mh°	°mh°	mh
+272	PKP060	771.63	772.34	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	marco rossi	marco rossi	marco rossi
+273	PKP057	772.83	774.1	1.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ah: eh: me lo ricordo	ah: eh: me lo ricordo	ah eh me lo ricordo
+274	PKP060	774.9	776.82	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	adesso ha un botto di capelli bianchi	adesso ha un botto di capelli bianchi	adesso ha un botto di capelli bianchi
+275	PKP060	777.52	780.53	3.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxxxxxxxx	xxxxxxxxx	x
+276	PKP057	780.58	781.075	0.54	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	bianchi	bianchi	bianchi
+277	PKP060	781.075	783.08	2.05	True	False	0	0	0	0	0	0	1	0	False	False	False	False	True	278=0.510	False	0	0	0	8	anche se ne aveva tantissimi li sta perdendo	anche se ne aveva tantissimi li sta perdendo	anche se ne aveva tantissimi li sta perdendo
+278	PKP057	782.0	782.51	0.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	277=0.510	False	0	0	0	0	xxxx	xxxx	x
+279	PKP060	785.34	788.32	2.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e poi con una sua: compagna di corso di medicina	e poi con una sua: compagna di corso di medicina	e poi con una sua compagna di corso di medicina
+280	PKP060	788.733	790.773	2.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	tipo io ero qui e lei era lì	tipo io ero qui e lei era lì	tipo io ero qui e lei era lì
+281	PKP060	791.42	791.78	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:	e:	e
+282	PKP060	793.73	800.573	6.843	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	9	questa qua: è: xxx una ragazza molto (.) fine: garbata però	questa qua: è: xxx una ragazza molto {P} fine: garbata però	questa qua è x una ragazza molto {P} fine garbata però
+283	PKP060	800.573	804.613	4.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	cioè (.) esplicitava sempre il suo amore verso rossi	cioè {P} esplicitava sempre il suo amore verso rossi	cioè {P} esplicitava sempre il suo amore verso rossi
+284	PKP060	804.613	805.96	1.347	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e lui la rifiutava	e lui la rifiutava	e lui la rifiutava
+285	PKP057	806.81	810.19	3.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	c'è ma in che senso? MA (.) c'è scherzava lei,	c'è ma in che senso? MA {P} c'è scherzava lei,	c' è ma in che senso ma {P} c' è scherzava lei
+286	PKP060	810.5	813.86	3.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	gliela buttava come frecciatina ma in realtà:	gliela buttava come frecciatina ma in realtà:	gliela buttava come frecciatina ma in realtà
+287	PKP060	813.86	819.38	5.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	filippo: rossin m'ha detto che: che a lei lui piace m~ PIACE e questo:	filippo: rossin m'ha detto che: che a lei lui piace m~ PIACE e questo:	filippo rossin m' ha detto che che a lei lui piace m~ piace e questo
+288	PKP060	820.246	821.786	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e glielo dice [sempre ma lui:]	e glielo dice [sempre ma lui:]	e glielo dice sempre ma lui
+289	PKP057	820.55	822.45	1.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[e e] e: e a lui invece no?	[e e] e: e a lui invece no?	e e e e a lui invece no
+290	PKP060	822.71	823.56	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	lui la rifiuta	lui la rifiuta	lui la rifiuta
+291	PKP057	824.68	825.63	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	292=0.760	False	0	0	0	1	dai:	dai:	dai
+292	PKP060	824.87	826.11	1.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	291=0.760	False	0	0	0	4	è una cosa stranissima	è una cosa stranissima	è una cosa stranissima
+293	PKP057	827.25	828.8	1.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ma tipo, cosa diceva?	ma tipo, cosa diceva?	ma tipo cosa diceva
+294	PKP060	829.68	831.05	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	tipo diceva:	tipo diceva:	tipo diceva
+295	PKP060	831.72	836.02	4.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	12	ah vuoi venire con me: (.) la settimana prossima a mangiare un hamburger?	ah vuoi venire con me: {P} la settimana prossima a mangiare un hamburger?	ah vuoi venire con me {P} la settimana prossima a mangiare un hamburger
+296	PKP060	836.667	840.127	3.46	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	sì sì perchè no lui diceva dai c'è anche: questa mia amica qua	sì sì perché no lui diceva dai c'è anche: questa mia amica qua	sì sì perché no lui diceva dai c' è anche questa mia amica qua
+297	PKP060	840.933	843.247	2.314	True	False	0	0	0	0	0	0	0	0	True	False	False	False	False	_	False	0	0	0	11	però è sposata °io non ti lascerei mai a un'altra	però è sposata °io non ti lascerei mai a un'altra	però è sposata io non ti lascerei mai a un' altra
+298	PKP060	843.313	847.833	4.52	True	False	0	0	0	0	0	0	0	0	True	False	False	False	False	_	False	0	0	0	17	cioè non ti chiamerei mai se ci fosse un'altra libera xxx xx° tipo robe del genere del genere	cioè non ti chiamerei mai se ci fosse un'altra libera xxx xx° tipo robe del genere del genere	cioè non ti chiamerei mai se ci fosse un' altra libera x x tipo robe del genere del genere
+299	PKP057	848.16	849.39	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	uh (.) e lui?	uh {P} e lui?	uh {P} e lui
+300	PKP060	849.659	851.539	1.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx xx xx	xx xx xx	x x x
+301	PKP060	852.44	854.03	1.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	stava un po' sulle sue [lui]	stava un po' sulle sue [lui]	stava un po' sulle sue lui
+302	PKP057	853.87	855.77	1.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[cioè] ma proprio non: non le interessa.	[cioè] ma proprio non: non le interessa.	cioè ma proprio non non le interessa
+303	PKP057	857.19	858.6	1.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cioè non gli interessa	cioè non gli interessa	cioè non gli interessa
+304	PKP060	859.65	861.973	2.323	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	solo che: loro parlavano un po' per i fatti loro	solo che: loro parlavano un po' per i fatti loro	solo che loro parlavano un po' per i fatti loro
+305	PKP060	861.973	866.586	4.613	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	(anche perchè) sono compagni di corso (.) ehm:	(anche perché) sono compagni di corso {P} ehm:	anche perché sono compagni di corso {P} ehm
+306	PKP060	867.43	875.006	7.576	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	28	io in più con lui è tanto che non lo vedo °non c'è <tantissima> confidenza perchè è uno dei compagni cors~ eh: di liceo che vedo meno°	io in più con lui è tanto che non lo vedo °non c'è <tantissima> confidenza perché è uno dei compagni cors~ eh: di liceo che vedo meno°	io in più con lui è tanto che non lo vedo non c' è tantissima confidenza perché è uno dei compagni cors~ eh di liceo che vedo meno
+307	PKP060	875.313	878.326	3.013	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	da quando: (.) sono: sono uscito dalle scuole	da quando: {P} sono: sono uscito dalle scuole	da quando {P} sono sono uscito dalle scuole
+308	PKP060	879.47	882.16	2.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	e io sono stato un po' per: per i cazzi miei insomma	e io sono stato un po' per: per i cazzi miei insomma	e io sono stato un po' per per i cazzi miei insomma
+309	PKP057	882.17	882.58	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°mhmh°	°mhmh°	mhmh
+310	PKP060	883.33	886.31	2.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	mentre gli altri quelli che conoscevo di più erano nel tavolo a fianco	mentre gli altri quelli che conoscevo di più erano nel tavolo a fianco	mentre gli altri quelli che conoscevo di più erano nel tavolo a fianco
+311	PKP057	886.56	888.37	1.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ma scusa non erano tavoli da sei?	ma scusa non erano tavoli da sei?	ma scusa non erano tavoli da sei
+312	PKP060	889.22	890.18	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	tavoli da tre o quattro.	tavoli da tre o quattro.	tavoli da tre o quattro
+313	PKP057	890.51	890.8	0.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+314	PKP060	891.713	894.34	2.627	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx xx xx	xx xx xx	x x x
+315	PKP057	896.37	898.86	2.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ma: quindi ti sei sentito un po' abbandonato?	ma: quindi ti sei sentito un po' abbandonato?	ma quindi ti sei sentito un po' abbandonato
+316	PKP060	900.15	901.986	1.836	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	sì ma: niente di che (.) dopo alla fine:	sì ma: niente di che {P} dopo alla fine:	sì ma niente di che {P} dopo alla fine
+317	PKP060	901.986	910.02	8.034	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	18	dopo alla fine comunque siamo usciti: (.) siamo usciti dal ristorante e abbiamo fatto: due chiacchiere anche con (loro)	dopo alla fine comunque siamo usciti: {P} siamo usciti dal ristorante e abbiamo fatto: due chiacchiere anche con (loro)	dopo alla fine comunque siamo usciti {P} siamo usciti dal ristorante e abbiamo fatto due chiacchiere anche con loro
+318	PKP060	911.47	914.13	2.66	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	9	e: (.) è stato gentilissimo perchè ci ha offerto tutto	e: {P} è stato gentilissimo perché ci ha offerto tutto	e {P} è stato gentilissimo perché ci ha offerto tutto
+319	PKP057	914.86	915.33	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah sì?	ah sì?	ah sì
+320	PKP057	916.47	917.36	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	quanti eravate?	quanti eravate?	quanti eravate
+321	PKP060	918.12	920.27	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e: <ventidue> ventitre	e: <ventidue> ventitre	e ventidue ventitre
+322	PKP057	921.07	921.77	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ma cavolo,	ma cavolo,	ma cavolo
+323	PKP057	926.81	929.38	2.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	mi DISPIACE se sei stato un po' [da solo:]	mi DISPIACE se sei stato un po' [da solo:]	mi dispiace se sei stato un po' da solo
+324	PKP060	928.97	930.98	2.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[beh] vabbè alla fine abbiamo fatto due chiacchiere	[beh] vabbè alla fine abbiamo fatto due chiacchiere	beh vabbè alla fine abbiamo fatto due chiacchiere
+325	PKP057	931.16	935.49	4.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	8	hai un poì di patata sul: sul lì ((ride))	hai un poì di patata sul: sul lì {ride}	hai un poì di patata sul sul lì {ride}
+326	PKP057	940.47	941.5	1.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°mi dispiace:°	°mi dispiace:°	mi dispiace
+327	PKP060	941.94	942.75	0.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	eh oh	eh oh	eh oh
+328	PKP057	942.945	943.75	0.805	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cucciolo	cucciolo	cucciolo
+329	PKP060	946.92	948.13	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	<pocciona>	<pocciona>	pocciona
+330	PKP057	955.04	955.86	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+331	PKP060	955.04	956.96	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+332	PKP060	959.53	961.44	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	xxx mi ha risposto ((ride))	xxx mi ha risposto {ride}	x mi ha risposto {ride}
+333	PKP057	965.07	966.72	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride e sbuffa))	{ride_e_sbuffa}	{ride_e_sbuffa}
+334	PKP060	965.16	969.37	4.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	((ride)) dal millenovecentocinquantaquattro	{ride} dal millenovecentocinquantaquattro	{ride} dal millenovecentocinquantaquattro
+335	PKP060	974.48	977.219	2.739	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	quattro codici xx ((ride))	quattro codici xx {ride}	quattro codici x {ride}
+336	PKP060	977.219	981.166	3.947	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	7	perchè ha il codice civile e penale? ((ride))	perché ha il codice civile e penale? {ride}	perché ha il codice civile e penale {ride}
+337	PKP060	990.05	991.78	1.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	la sua ragazza è avvocato	la sua ragazza è avvocato	la sua ragazza è avvocato
+338	PKP057	994.69	996.14	1.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ed era buona: la roba?	ed era buona: la roba?	ed era buona la roba
+339	PKP060	997.22	1000.4	3.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	sì sì sì (.) il gnocco fritto era un po' strano cioè	sì sì sì {P} il gnocco fritto era un po' strano cioè	sì sì sì {P} il gnocco fritto era un po' strano cioè
+340	PKP057	1002.93	1003.14	0.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	per me	per me	per me
+341	PKP057	1004.55	1004.9	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+342	PKP060	1009.11	1009.73	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+343	PKP060	1010.66	1012.03	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	qua non ci va la salsa di soia?	qua non ci va la salsa di soia?	qua non ci va la salsa di soia
+344	PKP060	1013.13	1013.54	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+345	PKP057	1014.67	1015.07	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+346	PKP060	1015.07	1015.42	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+347	PKP060	1017.04	1017.98	0.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	scotta questa pietra?	scotta questa pietra?	scotta questa pietra
+348	PKP057	1019.02	1020.57	1.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ah tu ci hai messo:	ah tu ci hai messo:	ah tu ci hai messo
+349	PKP060	1023.64	1026.14	2.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	il: mh: (.) ti stavo dicendo	il: mh: {P} ti stavo dicendo	il mh {P} ti stavo dicendo
+350	PKP060	1028.91	1030.86	1.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ah sì che il gnocco fritto era un po' strano	ah sì che il gnocco fritto era un po' strano	ah sì che il gnocco fritto era un po' strano
+351	PKP057	1031.46	1032.54	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	nel senso che?	nel senso che?	nel senso che
+352	PKP060	1033.01	1035.35	2.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	c'è non era molto gonfio: era:	c'è non era molto gonfio: era:	c' è non era molto gonfio era
+353	PKP057	1035.95	1036.68	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	bassino?	bassino?	bassino
+354	PKP060	1036.68	1038.906	2.226	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	era bassino con qualche bollicina e:	era bassino con qualche bollicina e:	era bassino con qualche bollicina e
+355	PKP060	1039.307	1044.31	5.013	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	20	e i lati non erano tagliati a zig zag con la con la classica rotella da sfoglia ma eran dritti	e i lati non erano tagliati a zig zag con la con la classica rotella da sfoglia ma eran dritti	e i lati non erano tagliati a zig zag con la con la classica rotella da sfoglia ma eran dritti
+356	PKP057	1044.31	1044.72	0.42	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+357	PKP060	1046.4	1050.13	3.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	358=0.420	False	1	0	0	9	dopo me la mandi? (.) così evito di: scattarla io	dopo me la mandi? {P} così evito di: scattarla io	dopo me la mandi {P} così evito di scattarla io
+358	PKP057	1047.89	1048.31	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	357=0.420	False	0	0	0	1	mhmh	mhmh	mhmh
+359	PKP060	1051.95	1052.99	1.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sta ancora friggendo	sta ancora friggendo	sta ancora friggendo
+360	PKP057	1054.91	1055.39	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	calda eh?	calda eh?	calda eh
+361	PKP060	1056.57	1057.31	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	buon appetito	buon appetito	buon appetito
+362	PKP057	1057.31	1059.06	1.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	buon appetito (.) sorridi	buon appetito {P} sorridi	buon appetito {P} sorridi
+363	PKP060	1064.47	1065.84	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	quindi qua non c'è l'uovo eh?	quindi qua non c'è l'uovo eh?	quindi qua non c' è l' uovo eh
+364	PKP057	1068.02	1070.81	2.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	8	eh: NO (.) nel tuo no (.) neanche nel mio	eh: NO {P} nel tuo no {P} neanche nel mio	eh no {P} nel tuo no {P} neanche nel mio
+365	PKP057	1072.62	1073.9650000000001	1.435	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	<buon appetito>:	<buon appetito>:	buon appetito
+366	PKP060	1073.53	1073.62	0.18	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	anche a te	anche a te	anche a te
+367	PKP057	1075.15	1076.29	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	quindi questa è bollente.	quindi questa è bollente.	quindi questa è bollente
+368	PKP060	1076.29	1077.73	1.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	no è calda molto [calda]	no è calda molto [calda]	no è calda molto calda
+369	PKP057	1077.66	1079.45	1.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[no] la mia la mia è bollente	[no] la mia la mia è bollente	no la mia la mia è bollente
+370	PKP060	1081.01	1082.1	1.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	la mia è a ottanta gradi	la mia è a ottanta gradi	la mia è a ottanta gradi
+371	PKP060	1083.905	1085.2	1.295	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ho la mano che funge da termometro	ho la mano che funge da termometro	ho la mano che funge da termometro
+372	PKP057	1085.22	1085.53	0.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì?	sì?	sì
+373	PKP060	1085.55	1085.74	0.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+374	PKP057	1087.14	1087.68	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	fuma guarda	fuma guarda	fuma guarda
+375	PKP060	1089.79	1092.28	2.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	con (.) settanta gradi ci tieni la mano fino a quattro secondi	con {P} settanta gradi ci tieni la mano fino a quattro secondi	con {P} settanta gradi ci tieni la mano fino a quattro secondi
+376	PKP060	1092.867	1094.506	1.639	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	con ottanta fino a uno circia	con ottanta fino a uno circia	con ottanta fino a uno circia
+377	PKP057	1094.64	1098.19	3.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	beh (.) dipende dalla sopportazione: soggettiva	beh {P} dipende dalla sopportazione: soggettiva	beh {P} dipende dalla sopportazione soggettiva
+378	PKP060	1099.85	1101.59	1.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	379=0.280	False	0	1	0	5	io parlo della mia infatti ((ride))	io parlo della mia infatti {ride}	io parlo della mia infatti {ride}
+379	PKP057	1101.31	1101.9250000000002	0.62	True	False	0	0	0	0	0	0	1	0	False	False	False	False	True	378=0.280	False	0	0	0	3	ah (anch'io)	ah (anch'io)	ah anch' io
+380	PKP060	1101.9250000000002	1102.29	0.37	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	sì sì	sì sì	sì sì
+381	PKP060	1106.5	1107.75	1.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	oddio c'è anche il cetriolo	oddio c'è anche il cetriolo	oddio c' è anche il cetriolo
+382	PKP060	1112.59	1112.92	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	questo cos'è?	questo cos'è?	questo cos' è
+383	PKP060	1121.19	1122.58	1.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ma va mescolata sta cosa?	ma va mescolata sta cosa?	ma va mescolata sta cosa
+384	PKP057	1122.59	1124.96	2.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	mh: (.) secondo me la prendi su un po' come viene	mh: {P} secondo me la prendi su un po' come viene	mh {P} secondo me la prendi su un po' come viene
+385	PKP057	1126.04	1126.86	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	tipo come un pokè	tipo come un pokè	tipo come un pokè
+386	PKP057	1130.3	1132.41	2.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	mh, (.) non ti piace il cetriolo?	mh, {P} non ti piace il cetriolo?	mh {P} non ti piace il cetriolo
+387	PKP060	1133.15	1134.06	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	°no lo mangio lo mangio°	°no lo mangio lo mangio°	no lo mangio lo mangio
+388	PKP057	1134.16	1135.68	1.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	se non ti piace lo prendo io	se non ti piace lo prendo io	se non ti piace lo prendo io
+389	PKP060	1139.25	1140.55	1.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	vediamo cosa ti lascio alla fine	vediamo cosa ti lascio alla fine	vediamo cosa ti lascio alla fine
+390	PKP060	1152.43	1153.02	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	prendi prendi	prendi prendi	prendi prendi
+391	PKP057	1157.6	1158.88	1.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	quindi i tuoi sono piccanti?	quindi i tuoi sono piccanti?	quindi i tuoi sono piccanti
+392	PKP060	1159.13	1161.18	2.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	sì (.) ma sopportabile	sì {P} ma sopportabile	sì {P} ma sopportabile
+393	PKP057	1162.58	1162.84	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+394	PKP057	1165.31	1166.34	1.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	eh buono però	eh buono però	eh buono però
+395	PKP060	1173.75	1176.16	2.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	396=0.270	False	1	0	0	12	volevo anch'io la salsa di soia (.) però me l'han negata	volevo anch'io la salsa di soia {P} però me l'han negata	volevo anch' io la salsa di soia {P} però me l' han negata
+396	PKP057	1175.18	1175.45	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	395=0.270	False	0	0	0	1	ah,	ah,	ah
+397	PKP057	1176.22	1176.6	0.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+398	PKP057	1177.73	1178.52	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	>secondo me però< ha ragione	>secondo me però< ha ragione	secondo me però ha ragione
+399	PKP057	1178.52	1179.985	1.465	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non ci sta bene nel tuo	non ci sta bene nel tuo	non ci sta bene nel tuo
+400	PKP057	1179.985	1182.812	2.827	True	True	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	#perchè i tuoi sono già tacconenti e appiccicosi	perché i tuoi sono già tacconenti e appiccicosi	perché i tuoi sono già tacconenti e appiccicosi
+401	PKP060	1183.32	1184.3	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	lo saprà meglio di me	lo saprà meglio di me	lo saprà meglio di me
+402	PKP057	1184.58	1186.36	1.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	e son già belli saporiti	e son già belli saporiti	e son già belli saporiti
+403	PKP057	1186.987	1189.46	2.473	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	cioè secondo me è un po' inutile la salsa di soia xx	cioè secondo me è un po' inutile la salsa di soia xx	cioè secondo me è un po' inutile la salsa di soia x
+404	PKP057	1197.43	1200.0749999999998	2.65	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	1	0	0	9	hai anche il cucchiaio eh (.) se vuoi mescolarli meglio	hai anche il cucchiaio eh {P} se vuoi mescolarli meglio	hai anche il cucchiaio eh {P} se vuoi mescolarli meglio
+405	PKP060	1200.0749999999998	1203.3	3.23	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	1	0	0	9	no uso questi uso questi (.) il cucchiaio è vietato	no uso questi uso questi {P} il cucchiaio è vietato	no uso questi uso questi {P} il cucchiaio è vietato
+406	PKP057	1206.1	1209.57	3.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	che cos'ha detto: tua mamma che: quando le hai detto che mangiavamo coreano?	che cos'ha detto: tua mamma che: quando le hai detto che mangiavamo coreano?	che cos' ha detto tua mamma che quando le hai detto che mangiavamo coreano
+407	PKP057	1210.21	1211.19	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	uh quella roba lì	uh quella roba lì	uh quella roba lì
+408	PKP060	1211.19	1213.28	2.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	409=0.270	False	0	0	0	10	no non gliel'ho detto che mangiavamo coreano in realtà	no non gliel'ho detto che mangiavamo coreano in realtà	no non gliel' ho detto che mangiavamo coreano in realtà
+409	PKP057	1212.81	1213.08	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	408=0.270	False	0	0	0	1	mh	mh	mh
+410	PKP060	1216.47	1216.78	0.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	o sì?	o sì?	o sì
+411	PKP057	1217.61	1218.66	1.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cioè non lo sanno?	cioè non lo sanno?	cioè non lo sanno
+412	PKP060	1219.86	1222.04	2.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	sanno che~ sanno che sono a cena a bologna ma	sanno che~ sanno che sono a cena a bologna ma	sanno che~ sanno che sono a cena a bologna ma
+413	PKP057	1222.96	1224.08	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non a mangiare cosa,	non a mangiare cosa,	non a mangiare cosa
+414	PKP060	1224.09	1225.16	1.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	°non gliel'ho detto non gliel'ho detto°	°non gliel'ho detto non gliel'ho detto°	non gliel' ho detto non gliel' ho detto
+415	PKP057	1231.17	1232.85	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	bellissima sta ciotola comunque	bellissima sta ciotola comunque	bellissima sta ciotola comunque
+416	PKP060	1249.14	1251.32	2.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	417=0.330	False	0	0	0	8	ma gli antipasti se li sono scordati o:?	ma gli antipasti se li sono scordati o:?	ma gli antipasti se li sono scordati o
+417	PKP057	1250.95	1251.28	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	416=0.330	False	0	0	0	1	mh	mh	mh
+418	PKP060	1252.03	1253.17	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	o ci mettono più tempo a cuocerli?	o ci mettono più tempo a cuocerli?	o ci mettono più tempo a cuocerli
+419	PKP057	1253.17	1253.53	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	eh non lo so	eh non lo so	eh non lo so
+420	PKP057	1275.36	1276.48	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	i miei gamberi sono buonissimi	i miei gamberi sono buonissimi	i miei gamberi sono buonissimi
+421	PKP060	1276.88	1278.02	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	sì (.) ho sentito	sì {P} ho sentito	sì {P} ho sentito
+422	PKP057	1278.15	1279.27	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	anche i tuoi calamari	anche i tuoi calamari	anche i tuoi calamari
+423	PKP060	1292.77	1296.6	3.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	questo bicchiere è così piccolo che me lo: devo riemprire una volt~ una volta ogni sorso	questo bicchiere è così piccolo che me lo: devo riemprire una volt~ una volta ogni sorso	questo bicchiere è così piccolo che me lo devo riemprire una volt~ una volta ogni sorso
+424	PKP057	1297.29	1299.44	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	5	ma (.) no riempiti: (.) il grosso	ma {P} no riempiti: {P} il grosso	ma {P} no riempiti {P} il grosso
+425	PKP060	1302.19	1303.01	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	lo finisco subito	lo finisco subito	lo finisco subito
+426	PKP057	1315.4	1316.54	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	è in pietra proprio	è in pietra proprio	è in pietra proprio
+427	PKP060	1318.03	1319.24	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	rimane calda per un bel po'	rimane calda per un bel po'	rimane calda per un bel po'
+428	PKP057	1321.44	1322.07	0.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	guarda quanto fuma	guarda quanto fuma	guarda quanto fuma
+429	PKP060	1328.73	1329.89	1.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non vedo l'ora di far la griglia	non vedo l'ora di far la griglia	non vedo l' ora di far la griglia
+430	PKP060	1350.64	1350.9	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+431	PKP060	1355.33	1355.57	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	se	se	se
+432	PKP060	1356.64	1359.35	2.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	se la settimana prossima non si potrà più andare a cena fuori,	se la settimana prossima non si potrà più andare a cena fuori,	se la settimana prossima non si potrà più andare a cena fuori
+433	PKP060	1361.98	1366.41	4.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	3	0	0	11	ti invito da me (.) una sera (.) in appartamento (.) facciamo il tailandese	ti invito da me {P} una sera {P} in appartamento {P} facciamo il tailandese	ti invito da me {P} una sera {P} in appartamento {P} facciamo il tailandese
+434	PKP057	1366.41	1367.51	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	uh:	uh:	uh
+435	PKP057	1370.44	1371.56	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ma hai le ricette?	ma hai le ricette?	ma hai le ricette
+436	PKP060	1371.57	1373.27	1.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	sì (.) ce le ho sempre con me	sì {P} ce le ho sempre con me	sì {P} ce le ho sempre con me
+437	PKP057	1373.43	1374.02	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah sì?	ah sì?	ah sì
+438	PKP060	1375.64	1376.81	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	devo fare una capatina:	devo fare una capatina:	devo fare una capatina
+439	PKP060	1378.13	1380.22	2.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	al negozio (.) orientale	al negozio {P} orientale	al negozio {P} orientale
+440	PKP057	1380.96	1381.7	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	negozio dove?	negozio dove?	negozio dove
+441	PKP060	1382.32	1384.39	2.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	a reggio (.) quello da di fronte la stazione	a reggio {P} quello da di fronte la stazione	a reggio {P} quello da di fronte la stazione
+442	PKP057	1387.01	1387.24	0.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+443	PKP057	1390.27	1391.18	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ci sei già stato lì?	ci sei già stato lì?	ci sei già stato lì
+444	PKP060	1393.81	1394.78	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	indovina chi c'è andato?	indovina chi c'è andato?	indovina chi c' è andato
+445	PKP057	1396.31	1396.56	0.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	luca	luca	luca
+446	PKP057	1397.54	1397.89	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	classico	classico	classico
+447	PKP060	1398.79	1399.59	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	anche marco	anche marco	anche marco
+448	PKP057	1403.28	1403.54	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+449	PKP057	1405.22	1406.9	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	li aveva presi lì no gli ingredienti?	li aveva presi lì no gli ingredienti?	li aveva presi lì no gli ingredienti
+450	PKP060	1407.28	1407.53	0.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh?	eh?	eh
+451	PKP057	1409.13	1410.63	1.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	li aveva presi lì [no] gli ingredienti?	li aveva presi lì [no] gli ingredienti?	li aveva presi lì no gli ingredienti
+452	PKP060	1409.79	1410.29	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sì sì]	[sì sì]	sì sì
+453	PKP060	1415.61	1417.87	2.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	luca invece ha preso: quelli per fare i ravioli	luca invece ha preso: quelli per fare i ravioli	luca invece ha preso quelli per fare i ravioli
+454	PKP057	1420.15	1420.95	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ma quelli che ho fatto io?	ma quelli che ho fatto io?	ma quelli che ho fatto io
+455	PKP060	1421.72	1423.81	2.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	però non ci ha messo i gamberi ma la pancetta	però non ci ha messo i gamberi ma la pancetta	però non ci ha messo i gamberi ma la pancetta
+456	PKP057	1423.9	1424.25	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+457	PKP057	1427.6	1430.34	2.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	beh lì non c'è bisogno eh di andare in un negozio orientale	beh lì non c'è bisogno eh di andare in un negozio orientale	beh lì non c' è bisogno eh di andare in un negozio orientale
+458	PKP060	1430.92	1432.83	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	avrà preso degli ingredienti strani non lo so	avrà preso degli ingredienti strani non lo so	avrà preso degli ingredienti strani non lo so
+459	PKP060	1438.99	1442.62	3.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	14	la pasta ha detto che l'ha fatta in maniera semplicissima (.) farina e acqua	la pasta ha detto che l'ha fatta in maniera semplicissima {P} farina e acqua	la pasta ha detto che l' ha fatta in maniera semplicissima {P} farina e acqua
+460	PKP057	1444.16	1445.065	0.91	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	farina e acqua?	farina e acqua?	farina e acqua
+461	PKP060	1445.065	1446.09	1.03	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	il ripieno non lo so	il ripieno non lo so	il ripieno non lo so
+462	PKP057	1446.99	1447.34	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	grazie	grazie	grazie
+463	PKP057	1453.63	1454.79	1.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ehm:	ehm:	ehm
+464	PKP057	1456.03	1459.61	3.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	sì no ma guarda che è una pasta ignorantissima eh da fare pasta e acqua >farina e acqua<	sì no ma guarda che è una pasta ignorantissima eh da fare pasta e acqua >farina e acqua<	sì no ma guarda che è una pasta ignorantissima eh da fare pasta e acqua farina e acqua
+465	PKP060	1458.97	1459.41	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+466	PKP057	1461.54	1465.35	3.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	non ha: sale non ha: lieviti non ha niente	non ha: sale non ha: lieviti non ha niente	non ha sale non ha lieviti non ha niente
+467	PKP060	1466.22	1466.78	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	neutra	neutra	neutra
+468	PKP057	1466.84	1468.25	1.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	niente uovo niente	niente uovo niente	niente uovo niente
+469	PKP057	1469.97	1471.58	1.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	proprio funge solo [da]	proprio funge solo [da]	proprio funge solo da
+470	PKP060	1471.02	1472.23	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[come] si chiama?	[come] si chiama?	come si chiama
+471	PKP057	1472.84	1474.98	2.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	funge solo da: mh contenitore	funge solo da: mh contenitore	funge solo da mh contenitore
+472	PKP060	1476.26	1477.78	1.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	5	che a volte si rompe ((ride))	che a volte si rompe {ride}	che a volte si rompe {ride}
+473	PKP057	1480.48	1482.07	1.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	°quando non sei capace di chiuderli°	°quando non sei capace di chiuderli°	quando non sei capace di chiuderli
+474	PKP060	1488.7	1489.91	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	e li ha fatti con la sua morosina	e li ha fatti con la sua morosina	e li ha fatti con la sua morosina
+475	PKP057	1491.48	1492.32	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah:	ah:	ah
+476	PKP057	1493.14	1494.525	1.39	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	allora è seria la cosa	allora è seria la cosa	allora è seria la cosa
+477	PKP060	1494.525	1494.95	0.43	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	sì:	sì:	sì
+478	PKP060	1498.52	1498.93	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì sì	sì sì	sì sì
+479	PKP060	1499.97	1501.68	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	da più di un anno che si (vedono)	da più di un anno che si (vedono)	da più di un anno che si vedono
+480	PKP060	1507.33	1508.54	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	solo che lui non xxx	solo che lui non xxx	solo che lui non x
+481	PKP057	1512.86	1514.14	1.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	è molto riservato?	è molto riservato?	è molto riservato
+482	PKP060	1514.52	1515.25	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	su questo sì	su questo sì	su questo sì
+483	PKP057	1515.26	1515.92	0.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°mh:°	°mh:°	mh
+484	PKP060	1516.54	1518.4	1.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	se gli chiedi le cose magari te le dice però:	se gli chiedi le cose magari te le dice però:	se gli chiedi le cose magari te le dice però
+485	PKP057	1519.78	1522.65	2.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	non lo facevo così riservato luca è uno che ha la lingua facile	non lo facevo così riservato luca è uno che ha la lingua facile	non lo facevo così riservato luca è uno che ha la lingua facile
+486	PKP060	1522.73	1523.87	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	eh per le cose che vuole lui	eh per le cose che vuole lui	eh per le cose che vuole lui
+487	PKP057	1523.91	1524.48	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah:	ah:	ah
+488	PKP057	1532.43	1533.22	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ma questo?	ma questo?	ma questo
+489	PKP057	1534.15	1534.72	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	>[ah] è cipollotto<	>[ah] è cipollotto<	ah è cipollotto
+490	PKP060	1534.16	1534.44	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>[cipollotto]<	>[cipollotto]<	cipollotto
+491	PKP060	1561.93	1563.56	1.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ah qua puoi mangiare con calma che tanto:	ah qua puoi mangiare con calma che tanto:	ah qua puoi mangiare con calma che tanto
+492	PKP057	1586.58	1588.07	1.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	un po' di raffreddore ancora,	un po' di raffreddore ancora,	un po' di raffreddore ancora
+493	PKP060	1588.63	1590.01	1.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	me l'ha stimolato il piccante	me l'ha stimolato il piccante	me l' ha stimolato il piccante
+494	PKP060	1629.13	1630.96	1.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	li lascio raffreddare un secondo adesso	li lascio raffreddare un secondo adesso	li lascio raffreddare un secondo adesso
+495	PKP057	1630.97	1633.43	2.46	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	eh perchè quando arrivi il f~ al fondo è caldissimo	eh perché quando arrivi il f~ al fondo è caldissimo	eh perché quando arrivi il f~ al fondo è caldissimo
+496	PKP060	1636.41	1641.18	4.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	ma: come funziona la salsina? si pucciano lì dentro o: si prende il cucchiaino e xxxx	ma: come funziona la salsina? si pucciano lì dentro o: si prende il cucchiaino e xxxx	ma come funziona la salsina si pucciano lì dentro o si prende il cucchiaino e x
+497	PKP057	1641.28	1642.44	1.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	mi sa che si pucciano	mi sa che si pucciano	mi sa che si pucciano
+498	PKP060	1664.88	1665.59	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	<buona>	<buona>	buona
+499	PKP060	1671.81	1674.47	2.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	sai che mi sono scolato tutta la tua salsa teriyaki così?	sai che mi sono scolato tutta la tua salsa teriyaki così?	sai che mi sono scolato tutta la tua salsa teriyaki così
+500	PKP060	1676.19	1677.98	1.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	quella che mi avevi lasciato l'anno scorso,	quella che mi avevi lasciato l'anno scorso,	quella che mi avevi lasciato l' anno scorso
+501	PKP057	1679.59	1680.45	0.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	in che senso così?	in che senso così?	in che senso così
+502	PKP060	1681.34	1682.31	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°a cucchiaio°	°a cucchiaio°	a cucchiaio
+503	PKP057	1682.81	1683.4	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°sei fuori?°	°sei fuori?°	sei fuori
+504	PKP060	1683.46	1685.38	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	4	a me piace troppo ((ride))	a me piace troppo {ride}	a me piace troppo {ride}
+505	PKP057	1686.54	1687.66	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	SEI FUORI?	SEI FUORI?	sei fuori
+506	PKP057	1688.69	1689.99	1.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non l'hai usata a cucinare?	non l'hai usata a cucinare?	non l' hai usata a cucinare
+507	PKP060	1690.19	1691.35	1.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	oh ogni tanto sì	oh ogni tanto sì	oh ogni tanto sì
+508	PKP060	1692.86	1694.625	1.77	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	6	però: un cucchiaio tirava l'altro	però: un cucchiaio tirava l'altro	però un cucchiaio tirava l' altro
+509	PKP057	1694.625	1695.62	1.0	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	ma porca troia	ma porca troia	ma porca troia
+510	PKP060	1695.15	1696.05	0.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+511	PKP057	1696.79	1698.45	1.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	<non va bene mangiarla così>	<non va bene mangiarla così>	non va bene mangiarla così
+512	PKP060	1698.45	1698.9	0.45	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	perchè?	perché?	perché
+513	PKP057	1699.41	1700.4	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma è <sale>	ma è <sale>	ma è sale
+514	PKP060	1700.48	1701.11	0.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	beh vabbè	beh vabbè	beh vabbè
+515	PKP057	1701.45	1704.0	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non va bene mangiar troppo sale °soprattutto berlo°	non va bene mangiar troppo sale °soprattutto berlo°	non va bene mangiar troppo sale soprattutto berlo
+516	PKP060	1707.68	1708.1	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°ottimi°	°ottimi°	ottimi
+517	PKP057	1709.41	1709.64	0.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	buoni?	buoni?	buoni
+518	PKP060	1720.08	1721.89	1.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	non sei tu che dici sempre che il sale fa bene?	non sei tu che dici sempre che il sale fa bene?	non sei tu che dici sempre che il sale fa bene
+519	PKP057	1721.95	1722.42	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh,	mh,	mh
+520	PKP060	1722.42	1723.31	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+521	PKP057	1723.95	1725.49	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	in piccole quantità però:	in piccole quantità però:	in piccole quantità però
+522	PKP057	1729.7	1732.69	2.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	523=0.250	False	1	0	0	8	poi è preziosissima quella salsa costa un (.) fottio	poi è preziosissima quella salsa costa un {P} fottio	poi è preziosissima quella salsa costa un {P} fottio
+523	PKP060	1732.44	1732.84	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	522=0.250	False	0	0	0	1	davvero?	davvero?	davvero
+524	PKP057	1733.1	1733.8	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	eh: abba	eh: abba	eh abba
+525	PKP060	1733.8	1734.99	1.19	True	False	0	0	1	0	0	0	0	0	True	False	False	False	False	_	False	0	0	0	5	°ecco perchè era così buona	°ecco perché era così buona	ecco perché era così buona
+526	PKP057	1735.36	1735.54	0.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+527	PKP060	1757.81	1758.68	0.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	son droga questi	son droga questi	son droga questi
+528	PKP057	1759.37	1759.67	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	davvero?	davvero?	davvero
+529	PKP060	1759.73	1759.93	0.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+530	PKP057	1761.66	1762.88	1.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	hanno i gamberi dentro	hanno i gamberi dentro	hanno i gamberi dentro
+531	PKP057	1779.01	1779.94	0.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	è lui che fa questo rumore?	è lui che fa questo rumore?	è lui che fa questo rumore
+532	PKP060	1779.94	1780.11	0.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+533	PKP057	1801.25	1806.255	5.01	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	1	0	0	20	quanto è buono il riso sul fondo che si secca e fa la crosta (.) e tipo scrocchia sotto i denti	quanto è buono il riso sul fondo che si secca e fa la crosta {P} e tipo scrocchia sotto i denti	quanto è buono il riso sul fondo che si secca e fa la crosta {P} e tipo scrocchia sotto i denti
+534	PKP060	1806.255	1807.74	1.49	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	7	la parte che mi piace di meno	la parte che mi piace di meno	la parte che mi piace di meno
+535	PKP057	1807.9	1808.505	0.67	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	davvero?	davvero?	davvero
+536	PKP060	1808.505	1808.65	0.21	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+537	PKP057	1809.74	1810.66	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	a me piace abbuco	a me piace abbuco	a me piace abbuco
+538	PKP060	1815.01	1817.63	2.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	1	0	5	sembra crudo (.) in realtà no ((ride))	sembra crudo {P} in realtà no {ride}	sembra crudo {P} in realtà no {ride}
+539	PKP057	1819.28	1819.68	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	lascialo lì	lascialo lì	lascialo lì
+540	PKP060	1820.98	1821.94	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ho già mescolato prima	ho già mescolato prima	ho già mescolato prima
+541	PKP057	1856.52	1857.05	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+542	PKP057	1859.21	1859.51	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	buono.	buono.	buono
+543	PKP060	1861.07	1861.88	0.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	l'hai divorato	l'hai divorato	l' hai divorato
+544	PKP057	1863.33	1865.11	1.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	chè io ho usato fin da subito il cucchiaio	chè io ho usato fin da subito il cucchiaio	chè io ho usato fin da subito il cucchiaio
+545	PKP057	1894.19	1896.0	1.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	sai che però è onesto, ci sta bene	sai che però è onesto, ci sta bene	sai che però è onesto ci sta bene
+546	PKP057	1898.05	1898.82	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°dolcino°	°dolcino°	dolcino
+547	PKP060	1901.59	1902.12	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	(ci sta)	(ci sta)	ci sta
+548	PKP057	1911.83	1913.29	1.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sentiamo questi ravioli	sentiamo questi ravioli	sentiamo questi ravioli
+549	PKP060	1914.56	1915.21	0.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ti piaceranno	ti piaceranno	ti piaceranno
+550	PKP057	1917.33	1919.48	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	quanti ce n'erano? (.) sei	quanti ce n'erano? {P} sei	quanti ce n' erano {P} sei
+551	PKP060	1919.84	1921.55	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	552=0.240	False	1	0	0	2	no (.) quattro	no {P} quattro	no {P} quattro
+552	PKP057	1920.46	1920.7	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	551=0.240	False	0	0	0	1	sei	sei	sei
+553	PKP057	1923.8	1925.03	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sono adesso quattro	sono adesso quattro	sono adesso quattro
+554	PKP060	1925.34	1925.52	0.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+555	PKP060	1927.88	1928.41	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	due a testa	due a testa	due a testa
+556	PKP057	1934.61	1935.3	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	tu mi vuoi fregare	tu mi vuoi fregare	tu mi vuoi fregare
+557	PKP057	1944.72	1945.46	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+558	PKP057	1948.26	1949.1	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	<buoni>	<buoni>	buoni
+559	PKP060	1951.09	1953.5	2.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	questi qua son cotti al vapore e poi: saltati?	questi qua son cotti al vapore e poi: saltati?	questi qua son cotti al vapore e poi saltati
+560	PKP060	1955.15	1955.47	0.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no,	no,	no
+561	PKP057	1958.06	1959.28	1.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	son solo cotti al vapore	son solo cotti al vapore	son solo cotti al vapore
+562	PKP060	1959.28	1959.66	0.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah sì?	ah sì?	ah sì
+563	PKP060	1960.67	1962.62	1.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	sotto avevo visto un po' di marroncino	sotto avevo visto un po' di marroncino	sotto avevo visto un po' di marroncino
+564	PKP057	1964.65	1965.24	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	buoni però	buoni però	buoni però
+565	PKP057	1969.42	1969.88	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+566	PKP060	1975.03	1975.9	0.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	la pasta è spessa	la pasta è spessa	la pasta è spessa
+567	PKP057	1976.57	1978.18	1.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	2	mh (.) sì	mh {P} sì	mh {P} sì
+568	PKP057	1979.44	1981.18	1.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	eh poi diventa spessa qua nel nodino	eh poi diventa spessa qua nel nodino	eh poi diventa spessa qua nel nodino
+569	PKP057	1990.16	1992.03	1.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	buoni buonissimi mi piacciono un sacco	buoni buonissimi mi piacciono un sacco	buoni buonissimi mi piacciono un sacco
+570	PKP060	1992.06	1994.91	2.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	12	già (.) fai un'analisi della concorrenza e guarda cosa c'è dentro	già {P} fai un'analisi della concorrenza e guarda cosa c'è dentro	già {P} fai un' analisi della concorrenza e guarda cosa c' è dentro
+571	PKP057	2027.74	2028.16	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh,	mh,	mh
+572	PKP060	2028.85	2029.15	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì?	sì?	sì
+573	PKP057	2029.97	2031.33	1.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	se volevi aspettare	se volevi aspettare	se volevi aspettare
+574	PKP060	2031.8	2032.16	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh?	eh?	eh
+575	PKP057	2032.7	2033.81	1.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	se volevi finire	se volevi finire	se volevi finire
+576	PKP060	2034.17	2034.87	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	adesso finisco	adesso finisco	adesso finisco
+577	PKP060	2035.69	2037.72	2.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	mentre si cuoce così: finisco	mentre si cuoce così: finisco	mentre si cuoce così finisco
+578	PKP057	2047.09	2047.86	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì grazie	sì grazie	sì grazie
+579	PKP057	2052.66	2053.27	0.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+580	PKP057	2059.6	2060.59	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah: okay	ah: okay	ah okay
+581	PKP060	2069.1	2071.02	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	la temperatura va bene o: dobbiamo:	la temperatura va bene o: dobbiamo:	la temperatura va bene o dobbiamo
+582	PKP057	2075.17	2076.83	1.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	dai quindi quanti erano a testa?	dai quindi quanti erano a testa?	dai quindi quanti erano a testa
+583	PKP060	2077.35	2077.9	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	quelli?	quelli?	quelli
+584	PKP057	2077.91	2078.25	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+585	PKP060	2078.97	2079.45	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	te l'ho detto	te l'ho detto	te l' ho detto
+586	PKP057	2079.78	2081.78	2.0	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	ERAN SEI (.) in totale	ERAN SEI {P} in totale	eran sei {P} in totale
+587	PKP060	2083.29	2084.47	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ERAN QUATTRO in totale	ERAN QUATTRO in totale	eran quattro in totale
+588	PKP057	2084.48	2086.07	1.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	dai: [smettila:]	dai: [smettila:]	dai smettila
+589	PKP060	2084.79	2086.51	1.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[CHIEDILO] chiedilo alla cameriera	[CHIEDILO] chiedilo alla cameriera	chiedilo chiedilo alla cameriera
+590	PKP057	2086.62	2087.47	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	DAI:	DAI:	dai
+591	PKP060	2092.44	2093.55	1.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non gliel'hai chiesto eh	non gliel'hai chiesto eh	non gliel' hai chiesto eh
+592	PKP057	2094.63	2097.22	2.59	True	False	0	0	2	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	perchè lo so che son sei perchè li ho ordinati io	perché lo so che son sei perché li ho ordinati io	perché lo so che son sei perché li ho ordinati io
+593	PKP060	2097.66	2099.52	1.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	li ho ordinati io l'ho letto anche io il menù	li ho ordinati io l'ho letto anche io il menù	li ho ordinati io l' ho letto anche io il menù
+594	PKP057	2099.72	2100.67	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	595=0.490	False	0	0	0	3	ed erano sei	ed erano sei	ed erano sei
+595	PKP060	2100.18	2101.13	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	594=0.490	False	0	0	0	2	erano quattro	erano quattro	erano quattro
+596	PKP057	2101.35	2104.72	3.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	597=0.570	False	1	0	0	10	eran~ (.) ERAN QUATTRO chè tu ne avevi già mangiati DUE	eran~ {P} ERAN QUATTRO chè tu ne avevi già mangiati DUE	eran~ {P} eran quattro chè tu ne avevi già mangiati due
+597	PKP060	2104.15	2105.77	1.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	596=0.570	False	0	0	0	4	co~ conta le impronte	co~ conta le impronte	co~ conta le impronte
+598	PKP057	2106.45	2110.23	3.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	3	0	0	7	mh: (.) uno due tre (.) quattro cinque (.) SEI	mh: {P} uno due tre {P} quattro cinque {P} SEI	mh {P} uno due tre {P} quattro cinque {P} sei
+599	PKP060	2110.23	2110.73	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ops	ops	ops
+600	PKP057	2110.75	2111.38	0.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	<ops>	<ops>	ops
+601	PKP060	2111.21	2112.61	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+602	PKP057	2113.93	2115.1	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	te ne sei già bruciati due	te ne sei già bruciati due	te ne sei già bruciati due
+603	PKP060	2120.01	2122.53	2.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	oh (.) mettiamo su tutto se no	oh {P} mettiamo su tutto se no	oh {P} mettiamo su tutto se no
+604	PKP060	2129.98	2131.87	1.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ah pensavo che me lo stessi dando	ah pensavo che me lo stessi dando	ah pensavo che me lo stessi dando
+605	PKP057	2131.88	2133.87	1.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	no (.) vai uomo della griglia	no {P} vai uomo della griglia	no {P} vai uomo della griglia
+606	PKP057	2154.35	2155.68	1.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+607	PKP060	2184.75	2186.91	2.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxxxxx	xxxxxx	x
+608	PKP057	2186.98	2190.18	3.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	smettila non devo tradurlo devo trascrivere tutto quello che dici	smettila non devo tradurlo devo trascrivere tutto quello che dici	smettila non devo tradurlo devo trascrivere tutto quello che dici
+609	PKP060	2190.18	2190.77	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah sì?	ah sì?	ah sì
+610	PKP057	2190.78	2191.02	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+611	PKP060	2191.12	2194.02	2.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+612	PKP060	2199.1	2200.42	1.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	quest'insalata qua si mangia?	quest'insalata qua si mangia?	quest' insalata qua si mangia
+613	PKP057	2201.55	2202.07	0.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	°secondo me no°	°secondo me no°	secondo me no
+614	PKP057	2212.84	2218.66	5.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	cioè che poi lei ha dato per scontato che noi sappiamo come siano i ravioli: alla coreana ma:	cioè che poi lei ha dato per scontato che noi sappiamo come siano i ravioli: alla coreana ma:	cioè che poi lei ha dato per scontato che noi sappiamo come siano i ravioli alla coreana ma
+615	PKP060	2218.75	2221.39	2.64	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	perchè sa che hai uno smartphone bello su cui puoi guardare internet	perché sa che hai uno smartphone bello su cui puoi guardare internet	perché sa che hai uno smartphone bello su cui puoi guardare internet
+616	PKP057	2221.395	2222.14	0.745	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((fa il verso))	{fa_il_verso}	{fa_il_verso}
+617	PKP060	2222.15	2223.05	0.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((fa il verso))	{fa_il_verso}	{fa_il_verso}
+618	PKP057	2231.5	2233.9	2.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	mi passi la: (.) la pinza per favore,	mi passi la: {P} la pinza per favore,	mi passi la {P} la pinza per favore
+619	PKP060	2239.86	2243.45	3.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	verdi (.) in australia aveva una: coinquilina coreana	verdi {P} in australia aveva una: coinquilina coreana	verdi {P} in australia aveva una coinquilina coreana
+620	PKP057	2243.82	2244.31	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	davvero?	davvero?	davvero
+621	PKP060	2244.315	2244.62	0.305	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+622	PKP057	2245.66	2246.84	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	faceva da mangiare queste cose?	faceva da mangiare queste cose?	faceva da mangiare queste cose
+623	PKP060	2246.84	2248.02	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	alcune cose le facevano	alcune cose le facevano	alcune cose le facevano
+624	PKP060	2249.28	2250.82	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	però ha detto che odiano i giapponesi	però ha detto che odiano i giapponesi	però ha detto che odiano i giapponesi
+625	PKP057	2256.45	2258.66	2.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	i giapponesi stanno sulle palle a (tante persone)	i giapponesi stanno sulle palle a (tante persone)	i giapponesi stanno sulle palle a tante persone
+626	PKP060	2275.49	2278.82	3.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	8	è vero che ci litigheremo il fungo grosso? ((ride))	è vero che ci litigheremo il fungo grosso? {ride}	è vero che ci litigheremo il fungo grosso {ride}
+627	PKP057	2279.08	2281.79	2.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	ce ne sono due di funghi grossi questo è mio e questo è tuo	ce ne sono due di funghi grossi questo è mio e questo è tuo	ce ne sono due di funghi grossi questo è mio e questo è tuo
+628	PKP060	2281.8	2284.98	3.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	eh no quello grosso: (.) appunto ti stavo dicendo che era mio	eh no quello grosso: {P} appunto ti stavo dicendo che era mio	eh no quello grosso {P} appunto ti stavo dicendo che era mio
+629	PKP057	2325.27	2326.98	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	è rilassante questa cosa	è rilassante questa cosa	è rilassante questa cosa
+630	PKP060	2332.6	2333.95	1.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	lo compriamo un tavolo così?	lo compriamo un tavolo così?	lo compriamo un tavolo così
+631	PKP057	2334.62	2335.01	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°eh°	°eh°	eh
+632	PKP057	2340.61	2343.23	2.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	mama io vorrei essere in grado di saper fare lo shabu shabu	mama io vorrei essere in grado di saper fare lo shabu shabu	mama io vorrei essere in grado di saper fare lo shabu shabu
+633	PKP060	2343.43	2344.41	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	cos'è lo shabu shabu?	cos'è lo shabu shabu?	cos' è lo shabu shabu
+634	PKP057	2345.38	2346.09	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ehm:	ehm:	ehm
+635	PKP057	2347.58	2348.37	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	tipo mh:	tipo mh:	tipo mh
+636	PKP057	2349.47	2350.44	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	una sorta di:	una sorta di:	una sorta di
+637	PKP057	2351.28	2352.787	1.507	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	fonduta diciamo una:	fonduta diciamo una:	fonduta diciamo una
+638	PKP057	2352.787	2355.354	2.567	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	giappone~ ma non è una fonduta in realtà	giappone~ ma non è una fonduta in realtà	giappone~ ma non è una fonduta in realtà
+639	PKP057	2355.587	2357.32	1.733	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	si mette al centro del tavolo	si mette al centro del tavolo	si mette al centro del tavolo
+640	PKP057	2357.36	2362.62	5.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	una:: mega ciotolona con sotto il fuoco (.) piena di brodo	una:: mega ciotolona con sotto il fuoco {P} piena di brodo	una mega ciotolona con sotto il fuoco {P} piena di brodo
+641	PKP057	2364.41	2367.62	3.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	e: c'è in realtà (.) penso sia:	e: c'è in realtà {P} penso sia:	e c' è in realtà {P} penso sia
+642	PKP057	2367.62	2370.214	2.594	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	non è proprio un brodo è un'acqua salata	non è proprio un brodo è un'acqua salata	non è proprio un brodo è un' acqua salata
+643	PKP057	2371.634	2375.133	3.499	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	e ti danno un sacco di ingredienti crudi e tu li metti dentro	e ti danno un sacco di ingredienti crudi e tu li metti dentro	e ti danno un sacco di ingredienti crudi e tu li metti dentro
+644	PKP057	2376.047	2379.74	3.693	True	True	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	#subito metti le verdure che stan lì a padire eccetera eccetera eh,	subito metti le verdure che stan lì a padire eccetera eccetera eh,	subito metti le verdure che stan lì a padire eccetera eccetera eh
+645	PKP057	2380.74	2381.96	1.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ehm:	ehm:	ehm
+646	PKP060	2382.56	2383.25	0.69	True	True	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	#padire?	padire?	padire
+647	PKP057	2383.45	2385.47	2.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì ehm:	sì ehm:	sì ehm
+648	PKP057	2387.127	2389.327	2.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	e poi, pian piano metti la carne	e poi, pian piano metti la carne	e poi pian piano metti la carne
+649	PKP057	2389.414	2392.6	3.186	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	quindi (.) l'acqua si insaporisce	quindi {P} l'acqua si insaporisce	quindi {P} l' acqua si insaporisce
+650	PKP057	2392.753	2394.347	1.594	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e diventa un brodo	e diventa un brodo	e diventa un brodo
+651	PKP057	2394.847	2399.493	4.646	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	12	e la roba la (.) la la fai stufare praticamente dentro l'acqua	e la roba la {P} la la fai stufare praticamente dentro l'acqua	e la roba la {P} la la fai stufare praticamente dentro l' acqua
+652	PKP057	2399.954	2402.48	2.526	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e poi la pucci nelle salse	e poi la pucci nelle salse	e poi la pucci nelle salse
+653	PKP057	2402.48	2406.3	3.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	la tiri su con le bacchette le lasc~ la lasci lì un po' a bollire poi la tiri su	la tiri su con le bacchette le lasc~ la lasci lì un po' a bollire poi la tiri su	la tiri su con le bacchette le lasc~ la lasci lì un po' a bollire poi la tiri su
+654	PKP060	2411.41	2412.16	0.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	l'hai assaggiato?	l'hai assaggiato?	l' hai assaggiato
+655	PKP057	2412.81	2414.17	1.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	sì (.) l'abbiamo mangiato in casa	sì {P} l'abbiamo mangiato in casa	sì {P} l' abbiamo mangiato in casa
+656	PKP060	2417.78	2419.12	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	è un piatto da tutti i giorni questo,	è un piatto da tutti i giorni questo,	è un piatto da tutti i giorni questo
+657	PKP057	2420.42	2420.89	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	vuoi?	vuoi?	vuoi
+658	PKP060	2423.78	2424.37	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	è già pronto?	è già pronto?	è già pronto
+659	PKP057	2425.08	2426.3	1.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ah è tanto sottile	ah è tanto sottile	ah è tanto sottile
+660	PKP060	2443.37	2444.55	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	per me è un po' indietro	per me è un po' indietro	per me è un po' indietro
+661	PKP057	2445.3	2445.63	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cosa?	cosa?	cosa
+662	PKP060	2445.85	2446.51	0.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	la carne	la carne	la carne
+663	PKP057	2448.59	2449.11	0.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ah questa sì	ah questa sì	ah questa sì
+664	PKP060	2449.18	2450.32	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	io aspetterei un po'	io aspetterei un po'	io aspetterei un po'
+665	PKP057	2482.22	2483.95	1.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	>ma dici che si fa< (.) così?	>ma dici che si fa< {P} così?	ma dici che si fa {P} così
+666	PKP060	2485.39	2485.82	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non lo so	non lo so	non lo so
+667	PKP057	2490.22	2491.84	1.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	forse ne ho messa troppa	forse ne ho messa troppa	forse ne ho messa troppa
+668	PKP057	2496.32	2497.21	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	così, si fa?	così, si fa?	così si fa
+669	PKP060	2497.26	2497.62	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	boh	boh	boh
+670	PKP060	2499.59	2501.06	1.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	chiamiamo la cameriera e glielo chiediamo?	chiamiamo la cameriera e glielo chiediamo?	chiamiamo la cameriera e glielo chiediamo
+671	PKP057	2505.01	2505.93	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	no mi sento stupida	no mi sento stupida	no mi sento stupida
+672	PKP060	2506.87	2508.66	1.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	infatti è là che ti sta guardando e sta ridendo di te	infatti è là che ti sta guardando e sta ridendo di te	infatti è là che ti sta guardando e sta ridendo di te
+673	PKP057	2508.66	2511.21	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	non è vero: (.) dai:	non è vero: {P} dai:	non è vero {P} dai
+674	PKP060	2509.09	2510.11	1.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+675	PKP057	2514.9	2515.59	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	però è buono	però è buono	però è buono
+676	PKP060	2533.82	2535.4	1.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	che carina mi hai dato il fungo grosso	che carina mi hai dato il fungo grosso	che carina mi hai dato il fungo grosso
+677	PKP057	2535.41	2535.94	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+678	PKP057	2594.38	2595.02	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ti vedo:	ti vedo:	ti vedo
+679	PKP060	2627.02	2631.15	4.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	11	avevo proprio ragione su questa salsa (.) ha avuto l'effetto (.) previsto	avevo proprio ragione su questa salsa {P} ha avuto l'effetto {P} previsto	avevo proprio ragione su questa salsa {P} ha avuto l' effetto {P} previsto
+680	PKP060	2632.81	2634.54	1.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[sem~] sembra: gelato	[sem~] sembra: gelato	sem~ sembra gelato
+681	PKP057	2632.86	2633.38	0.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[tipo:]	[tipo:]	tipo
+682	PKP057	2642.03	2644.05	2.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ste questa care è cotta bisogna che la tiri via	ste questa care è cotta bisogna che la tiri via	ste questa care è cotta bisogna che la tiri via
+683	PKP060	2644.32	2644.867	0.547	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ah sì?	ah sì?	ah sì
+684	PKP060	2673.91	2675.55	1.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	tutt'e due? così tanto?	tutt'e due? così tanto?	tutt' e due così tanto
+685	PKP057	2689.747	2690.587	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx xx	xx xx	x x
+686	PKP060	2690.693	2691.433	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx xx	xx xx	x x
+687	PKP060	2692.307	2693.387	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	xx (spento)	xx (spento)	x spento
+688	PKP057	2697.267	2698.54	1.273	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	come fai a dire che è spenta?	come fai a dire che è spenta?	come fai a dire che è spenta
+689	PKP060	2698.715	2702.99	4.275	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	s'è spento il led su: sul: (.) sul tasto d'accensione	s'è spento il led su: sul: {P} sul tasto d'accensione	s' è spento il led su sul {P} sul tasto d' accensione
+690	PKP057	2711.97	2716.42	4.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	ma (.) dici che secondo te sono semi di sesamo nero, quelli:	ma {P} dici che secondo te sono semi di sesamo nero, quelli:	ma {P} dici che secondo te sono semi di sesamo nero quelli
+691	PKP060	2717.92	2718.4	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	quali?	quali?	quali
+692	PKP057	2718.47	2719.72	1.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	quelli nella salsa?	quelli nella salsa?	quelli nella salsa
+693	PKP060	2719.865	2720.21	0.345	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+694	PKP060	2723.23	2725.78	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	non so se sian sesamo ma sono semi neri	non so se sian sesamo ma sono semi neri	non so se sian sesamo ma sono semi neri
+695	PKP057	2727.88	2729.08	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	secondo me è sesamo nero	secondo me è sesamo nero	secondo me è sesamo nero
+696	PKP057	2741.23	2742.38	1.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	L'HAI FINITA:	L'HAI FINITA:	l' hai finita
+697	PKP060	2743.48	2745.31	1.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	io pensavo te la fossi messa tutta nel piatto	io pensavo te la fossi messa tutta nel piatto	io pensavo te la fossi messa tutta nel piatto
+698	PKP057	2745.31	2746.16	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	NO:	NO:	no
+699	PKP060	2746.26	2746.69	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°eh:°	°eh:°	eh
+700	PKP057	2746.71	2747.94	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	UN CUCCHIAINO:	UN CUCCHIAINO:	un cucchiaino
+701	PKP060	2748.08	2750.44	2.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	io questa qua è tut~ è tutta quella che ho preso eh	io questa qua è tut~ è tutta quella che ho preso eh	io questa qua è tut~ è tutta quella che ho preso eh
+702	PKP060	2752.7	2753.32	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ne ordiniamo ancora	ne ordiniamo ancora	ne ordiniamo ancora
+703	PKP057	2753.65	2753.91	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no	no	no
+704	PKP060	2754.09	2754.46	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	DAI	DAI	dai
+705	PKP057	2754.83	2756.0	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	la finisco io questa	la finisco io questa	la finisco io questa
+706	PKP060	2756.17	2757.04	0.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ma è già finita	ma è già finita	ma è già finita
+707	PKP057	2779.42	2782.39	2.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	9	((si schiarisce la voce)) i ravioli di prima mi sono piaciuti un sacco	{si_schiarisce_la_voce} i ravioli di prima mi sono piaciuti un sacco	{si_schiarisce_la_voce} i ravioli di prima mi sono piaciuti un sacco
+708	PKP060	2783.52	2784.17	0.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	facciamo il bis?	facciamo il bis?	facciamo il bis
+709	PKP057	2784.17	2785.35	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ma questo è un fagiolino	ma questo è un fagiolino	ma questo è un fagiolino
+710	PKP060	2786.91	2787.75	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	facciamo il bis?	facciamo il bis?	facciamo il bis
+711	PKP060	2790.23	2791.43	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	cambiam tipo di raviolo dai	cambiam tipo di raviolo dai	cambiam tipo di raviolo dai
+712	PKP057	2791.48	2795.82	4.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	17	non so se ci stan~ EH ma non ti piacciono (.) gli altri (.) che han la carne dentro	non so se ci stan~ EH ma non ti piacciono {P} gli altri {P} che han la carne dentro	non so se ci stan~ eh ma non ti piacciono {P} gli altri {P} che han la carne dentro
+713	PKP060	2798.17	2800.59	2.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	714=0.260	False	0	0	0	6	eran così buoni che potrei anche: xxx	eran così buoni che potrei anche: xxx	eran così buoni che potrei anche x
+714	PKP057	2799.98	2800.24	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	713=0.260	False	0	0	0	1	no	no	no
+715	PKP060	2802.72	2803.0	0.28	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	perchè no?	perché no?	perché no
+716	PKP057	2804.895	2807.18	2.285	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	non prendo una cosa che FORSE non ti piace	non prendo una cosa che FORSE non ti piace	non prendo una cosa che forse non ti piace
+717	PKP060	2807.19	2808.58	1.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	te la sto te lo sto chiedendo io	te la sto te lo sto chiedendo io	te la sto te lo sto chiedendo io
+718	PKP057	2812.71	2817.18	4.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	15	ma eh riprendiam quelli piuttosto (.) A PARTE CHE io secondo me con queste mi riempio	ma eh riprendiam quelli piuttosto {P} A PARTE CHE io secondo me con queste mi riempio	ma eh riprendiam quelli piuttosto {P} a parte che io secondo me con queste mi riempio
+719	PKP060	2820.41	2821.36	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	tu devi crescere	tu devi crescere	tu devi crescere
+720	PKP057	2822.94	2826.09	3.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	eh xx il fatto è che adesso cresco in larghezza non cresco in altezza	eh xx il fatto è che adesso cresco in larghezza non cresco in altezza	eh x il fatto è che adesso cresco in larghezza non cresco in altezza
+721	PKP060	2826.18	2827.33	1.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	benissimo lo stesso	benissimo lo stesso	benissimo lo stesso
+722	PKP057	2829.0	2829.76	0.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	vabbè	vabbè	vabbè
+723	PKP060	2830.026	2830.433	0.407	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+724	PKP057	2848.57	2850.87	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ti ricordi come si chiamava, mh:	ti ricordi come si chiamava, mh:	ti ricordi come si chiamava mh
+725	PKP057	2852.34	2853.26	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh:	mh:	mh
+726	PKP057	2854.78	2855.25	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	questo piatto?	questo piatto?	questo piatto
+727	PKP060	2856.42	2856.65	0.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no	no	no
+728	PKP060	2861.03	2862.25	1.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	devi riordinarlo?	devi riordinarlo?	devi riordinarlo
+729	PKP057	2866.91	2867.16	0.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no	no	no
+730	PKP057	2869.155	2871.113	1.958	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	son contenta che ne abbiamo presi solo due etti	son contenta che ne abbiamo presi solo due etti	son contenta che ne abbiamo presi solo due etti
+731	PKP057	2871.113	2873.106	1.993	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non ne avrei mangiati di più	non ne avrei mangiati di più	non ne avrei mangiati di più
+732	PKP057	2874.94	2875.23	0.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	tu?	tu?	tu
+733	PKP060	2877.63	2880.3	2.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	io sono a posto ma se: se ci fosse stata l'avrei finita	io sono a posto ma se: se ci fosse stata l'avrei finita	io sono a posto ma se se ci fosse stata l' avrei finita
+734	PKP060	2885.16	2887.13	1.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	se proprio devo prendere qualcosa preferisco dell'altro	se proprio devo prendere qualcosa preferisco dell'altro	se proprio devo prendere qualcosa preferisco dell' altro
+735	PKP057	2913.05	2914.37	1.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	dai però è divertente	dai però è divertente	dai però è divertente
+736	PKP060	2914.99	2915.33	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	far cosa?	far cosa?	far cosa
+737	PKP057	2915.43	2916.45	1.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cuocere la carne così	cuocere la carne così	cuocere la carne così
+738	PKP060	2918.78	2919.3	0.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì sì	sì sì	sì sì
+739	PKP057	2919.61	2920.01	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì sì	sì sì	sì sì
+740	PKP057	2921.83	2922.52	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non sfrigola più	non sfrigola più	non sfrigola più
+741	PKP057	2944.4	2946.01	1.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	a me piacciono anche queste ciotoline	a me piacciono anche queste ciotoline	a me piacciono anche queste ciotoline
+742	PKP060	2948.78	2950.32	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	le trovi facile nei negozi	le trovi facile nei negozi	le trovi facile nei negozi
+743	PKP057	2951.58	2951.96	0.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	queste?	queste?	queste
+744	PKP057	2968.15	2971.47	3.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	adesso so che non ti devo: lasciare mai più la salsa teriyaki	adesso so che non ti devo: lasciare mai più la salsa teriyaki	adesso so che non ti devo lasciare mai più la salsa teriyaki
+745	PKP060	2976.49	2978.05	1.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	se vuoi farmi un dispetto: esatto	se vuoi farmi un dispetto: esatto	se vuoi farmi un dispetto esatto
+746	PKP057	2981.51	2982.91	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ma io lo faccio per il tuo bene	ma io lo faccio per il tuo bene	ma io lo faccio per il tuo bene
+747	PKP060	2986.08	2987.45	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	se non lo fai tu la compro io	se non lo fai tu la compro io	se non lo fai tu la compro io
+748	PKP057	2991.44	2993.09	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non so dove trovarla a correggio	non so dove trovarla a correggio	non so dove trovarla a correggio
+749	PKP060	2994.3	2996.21	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	9	nel negozio che ti ho detto prima (.) a reggio	nel negozio che ti ho detto prima {P} a reggio	nel negozio che ti ho detto prima {P} a reggio
+750	PKP057	2998.51	2999.57	1.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	quindi non a correggio	quindi non a correggio	quindi non a correggio
+751	PKP057	3006.83	3008.35	1.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ah ah è entrato in bocca	ah ah è entrato in bocca	ah ah è entrato in bocca
+752	PKP060	3011.67	3013.21	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	scusa ma tu dove l'avevi comprata?	scusa ma tu dove l'avevi comprata?	scusa ma tu dove l' avevi comprata
+753	PKP057	3014.1	3014.74	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	a bologna	a bologna	a bologna
+754	PKP060	3015.11	3015.78	0.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°a bologna°	°a bologna°	a bologna
+755	PKP060	3019.57	3023.52	3.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	in quel negozio che abbiamo aspettato di vedere per un mezzo pomeriggio e poi non ha aperto	in quel negozio che abbiamo aspettato di vedere per un mezzo pomeriggio e poi non ha aperto	in quel negozio che abbiamo aspettato di vedere per un mezzo pomeriggio e poi non ha aperto
+756	PKP057	3026.43	3026.68	0.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx	xx	x
+757	PKP057	3033.82	3034.66	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	è stata colpa mia	è stata colpa mia	è stata colpa mia
+758	PKP060	3034.88	3035.34	0.46	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	perchè?	perché?	perché
+759	PKP057	3036.42	3039.18	2.76	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	perchè avevo dato per scontato che facessero l'orario continuato	perché avevo dato per scontato che facessero l'orario continuato	perché avevo dato per scontato che facessero l' orario continuato
+760	PKP060	3039.71	3040.24	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	beh ma:	beh ma:	beh ma
+761	PKP060	3042.06	3044.63	2.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	è sempre colpa tua (.) però niente di grave	è sempre colpa tua {P} però niente di grave	è sempre colpa tua {P} però niente di grave
+762	PKP060	3060.43	3061.45	1.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ho scordato questo	ho scordato questo	ho scordato questo
+763	PKP057	3102.67	3103.86	1.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	beh (.) mi è piaciuto	beh {P} mi è piaciuto	beh {P} mi è piaciuto
+764	PKP057	3109.98	3110.96	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	è stato divertente	è stato divertente	è stato divertente
+765	PKP060	3122.75	3124.26	1.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	chiediamo se possiamo fare un altro ordine?	chiediamo se possiamo fare un altro ordine?	chiediamo se possiamo fare un altro ordine
+766	PKP057	3125.35	3126.15	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	io sono piena	io sono piena	io sono piena
+767	PKP057	3130.97	3131.93	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	che cosa vorresti?	che cosa vorresti?	che cosa vorresti
+768	PKP060	3132.21	3133.52	1.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	vorrei consultare il menù	vorrei consultare il menù	vorrei consultare il menù
+769	PKP057	3138.49	3139.72	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non sei sazio ancora?	non sei sazio ancora?	non sei sazio ancora
+770	PKP060	3140.15	3140.93	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ho un buchino	ho un buchino	ho un buchino
+771	PKP057	3141.67	3142.15	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	davvero?	davvero?	davvero
+772	PKP060	3143.34	3144.44	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	te l'avevo detto che avevo fame	te l'avevo detto che avevo fame	te l' avevo detto che avevo fame
+773	PKP057	3146.04	3146.82	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	io mi fermo	io mi fermo	io mi fermo
+774	PKP057	3185.39	3186.28	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((sospira))	{sospira}	{sospira}
+775	PKP057	3199.4	3200.61	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	beh s'è riempito il locale	beh s'è riempito il locale	beh s' è riempito il locale
+776	PKP060	3208.11	3210.8	2.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	era la porta: questa qua era la porta da cui volevi entrare prima	era la porta: questa qua era la porta da cui volevi entrare prima	era la porta questa qua era la porta da cui volevi entrare prima
+777	PKP057	3211.0	3211.28	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+778	PKP060	3220.06	3221.32	1.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	allora domani che famo?	allora domani che famo?	allora domani che famo
+779	PKP060	3222.79	3225.01	2.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	partiamo verso le: nove e mezza?	partiamo verso le: nove e mezza?	partiamo verso le nove e mezza
+780	PKP057	3226.93	3228.14	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	quanto ci vuole andare là?	quanto ci vuole andare là?	quanto ci vuole andare là
+781	PKP060	3229.8	3230.81	1.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	poco meno di un'ora	poco meno di un'ora	poco meno di un' ora

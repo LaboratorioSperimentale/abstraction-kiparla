@@ -1,0 +1,804 @@
+tu_id	speaker	start	end	duration	include	variation	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	W:moved_boundaries	W:switches	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	E:unmatched_overlaps	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	original	text	orthographic
+0	BO139	3.52	4.01	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+1	BO145	4.05	6.32	2.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	devi riprendere adesso te? ah no devi stare così	devi riprendere adesso te? ah no devi stare così	devi riprendere adesso te ah no devi stare così
+2	BO139	6.33	8.13	1.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	no sì sì te stai come:	no sì sì te stai come:	no sì sì te stai come
+3	BO145	8.99	11.09	2.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non mi ricordo cosa stavo dicendo	non mi ricordo cosa stavo dicendo	non mi ricordo cosa stavo dicendo
+4	BO139	9.185	9.665	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+5	BO139	11.1	11.63	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+6	BO145	11.8	13.23	1.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	adesso mi sento:	adesso mi sento:	adesso mi sento
+7	BO139	13.59	14.29	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[osservata]	[osservata]	osservata
+8	BO145	13.6	15.89	2.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[ascolta]ta[: sì: giudicata]	[ascolta]t[a: sì: giudicata]	ascoltata sì giudicata
+9	BO139	14.495	16.03	1.535	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[eh devo farlo di nascosto forse]	[eh devo farlo di nascosto forse]	eh devo farlo di nascosto forse
+10	BO145	16.44	19.42	2.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	ah vabbè non è che adesso non è che c' ho problemi a parla' lo sai	ah vabbè non è che adesso non è che c' ho problemi a parla' lo sai	ah vabbè non è che adesso non è che c' ho problemi a parla' lo sai
+11	BO139	19.605	21.015	1.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+12	BO145	19.97	20.9	0.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	1	quindi ((ride))	quindi {ride}	quindi {ride}
+13	BO139	21.02	22.19	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	eh ho visto l' altra volta	eh ho visto l' altra volta	eh ho visto l' altra volta
+14	BO145	22.77	26.67	3.9	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	12	dai ma è venuta così male >cioè:< piena de parolacce quella con[versaz~?]	dai ma è venuta così male >cioè:< piena de parolacce quella con[versaz~]?	dai ma è venuta così male cioè piena de parolacce quella conversaz~
+15	BO139	26.175	30.595	4.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	14=0.495,16=0.685	True	0	1	0	20	[no non è que]llo è che c' è proprio il punto in cui e non lo ripeto adesso però perché ((ride))	[no non è que]llo è che c' è proprio il punto in cui e non lo ripeto adesso però perché {ride}	no non è quello è che c' è proprio il punto in cui e non lo ripeto adesso però perché {ride}
+16	BO145	29.91	31.21	1.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[okay] va bene	[okay] va bene	okay va bene
+17	BO139	32.01	32.46	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	che [fa]	che [fa]	che fa
+18	BO145	32.22	32.46	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[co~]	[co~]	co~
+19	BO139	32.67	34.35	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	la prossima volta ci registriamo mentre	la prossima volta ci registriamo mentre	la prossima volta ci registriamo mentre
+20	BO145	35.005	36.205	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	ah sì ((ride))	ah sì {ride}	ah sì {ride}
+21	BO139	35.27	36.2	0.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+22	BO145	37.34	39.64	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	vabbè io spero che la prof non sa chi sono io	vabbè io spero che la prof non sa chi sono io	vabbè io spero che la prof non sa chi sono io
+23	BO139	40.235	40.685	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	eh eh	eh eh	eh eh
+24	BO145	40.975	43.735	2.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	no dai ale levalo ti prego quel pe[zzo]	no dai ale levalo ti prego quel pe[zzo]	no dai ale levalo ti prego quel pezzo
+25	BO139	43.3	44.53	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[eh lo bi]pperò dai	[eh lo bi]pperò dai	eh lo bipperò dai
+26	BO139	44.79	45.24	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+27	BO145	45.34	47.55	2.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	1	0	5	non ti prego (.) ti prego ((ride))	non ti prego {P} ti prego {ride}	non ti prego {P} ti prego {ride}
+28	BO139	46.9	48.41	1.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+29	BO145	48.39	51.68	3.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	[un con]to è se l' avevo verbalizzato ma non l' ho verbalizzato	[un con]to è se l' avevo verbalizzato ma non l' ho verbalizzato	un conto è se l' avevo verbalizzato ma non l' ho verbalizzato
+30	BO139	48.41	48.76	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[oh]	[oh]	oh
+31	BO139	52.1	54.18	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	sono tutti minuti di tirocinio che se ne vanno	sono tutti minuti di tirocinio che se ne vanno	sono tutti minuti di tirocinio che se ne vanno
+32	BO139	54.625	55.641999999999996	1.019	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	4	no scherzo scherzo s~	no scherzo scherzo s~	no scherzo scherzo s~
+33	BO145	55.641999999999996	56.9	1.26	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	adesso c' hai quest' altr(a)	adesso c' hai quest' altr(a)	adesso c' hai quest' altra
+34	BO139	56.945	57.275	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+35	BO145	57.605	59.315	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	comunque dicevo che::	comunque dicevo che::	comunque dicevo che
+36	BO145	60.335	61.545	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh secondo me	mh secondo me	mh secondo me
+37	BO145	61.665	63.205	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ultimamente il valore delle cose	ultimamente il valore delle cose	ultimamente il valore delle cose
+38	BO145	63.46	64.44	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	il valore delle cose	il valore delle cose	il valore delle cose
+39	BO145	64.615	68.765	4.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	lo ripeto perché quando dico valore me se tipo mi s' intreccia blblbl cos[ì]	lo ripeto perché quando dico valore me se tipo mi s' intreccia blblbl cos[ì]	lo ripeto perché quando dico valore me se tipo mi s' intreccia blblbl così
+40	BO139	68.605	69.105	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[bl]blbl	[bl]blbl	blblbl
+41	BO145	69.29	69.73	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+42	BO145	70.385	72.345	1.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	>cioè< (.) il valore delle cose	>cioè< {P} il valore delle cose	cioè {P} il valore delle cose
+43	BO145	72.76	75.64	2.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	secondo me non è più compreso dalle persone	secondo me non è più compreso dalle persone	secondo me non è più compreso dalle persone
+44	BO145	75.955	76.265	0.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+45	BO145	77.885	79.925	2.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	oddio 'ste scale faccio sempre fatica a falle	oddio 'ste scale faccio sempre fatica a falle	oddio 'ste scale faccio sempre fatica a falle
+46	BO145	81.05	81.82	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	>cioè< nel senso	>cioè< nel senso	cioè nel senso
+47	BO145	84.31	86.42	2.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	in una >cioè< in un=m::h	in una >cioè< in un=m::h	in una cioè in un mh
+48	BO145	86.75	91.03	4.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	in un <periodo> non lo so in un' era probabilmente se po [chiama'] questa non lo [so]	in un <periodo> non lo so in un' era probabilmente se po [chiama'] questa non lo [so]	in un periodo non lo so in un' era probabilmente se po chiama' questa non lo so
+49	BO139	89.825	90.165	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+50	BO139	90.655	91.015	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+51	BO145	91.695	92.71	1.015	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e:h=m:h	e:h=m:h	eh mh
+52	BO145	92.895	93.385	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	dove	dove	dove
+53	BO145	93.915	97.595	3.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< il <ricircolo> dei del: dei vestiti	>cioè< il <ricircolo> dei del: dei vestiti	cioè il ricircolo dei del dei vestiti
+54	BO145	97.855	98.955	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	è altissimo	è altissimo	è altissimo
+55	BO139	99.28	99.7	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+56	BO145	101.495	102.225	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	secondo me	secondo me	secondo me
+57	BO145	102.485	105.725	3.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	le persone perdono i punti di riferimento no che	le persone perdono i punti di riferimento no che	le persone perdono i punti di riferimento no che
+58	BO145	105.91	107.2	1.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	durante la storia	durante la storia	durante la storia
+59	BO145	107.29	110.08	2.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	è stata anche la moda no te guarda gli anni venni gli ann~	è stata anche la moda no te guarda gli anni venni gli ann~	è stata anche la moda no te guarda gli anni venni gli ann~
+60	BO145	110.18	112.95	2.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e:h gli anni venti, gli anni tren[ta, gli anni quara]nta	e:h gli anni venti, gli anni tren[ta, gli anni quara]nta	eh gli anni venti gli anni trenta gli anni quaranta
+61	BO139	112.045	112.595	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+62	BO145	113.02	115.06	2.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< cambia tantissimo la moda in questi anni	>cioè< cambia tantissimo la moda in questi anni	cioè cambia tantissimo la moda in questi anni
+63	BO139	115.09	115.52	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+64	BO145	115.64	117.84	2.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	e lo stesso succede adesso però secondo me	e lo stesso succede adesso però secondo me	e lo stesso succede adesso però secondo me
+65	BO145	118.655	120.065	1.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	2	è (.) ul~	è {P} ul~	è {P} ul~
+66	BO145	120.275	124.945	4.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	>cioè< è anc:ora più velocizzato questo processo di:di cambiamento capito?	>cioè< è anc:ora più velocizzato questo processo di:di cambiamento capito?	cioè è ancora più velocizzato questo processo didi cambiamento capito
+67	BO139	125.095	125.655	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m[:h]	[m:h]	mh
+68	BO145	125.42	127.53	2.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[questo] cambiamento è anche più velocizzato	[questo] cambiamento è anche più velocizzato	questo cambiamento è anche più velocizzato
+69	BO145	128.28	129.22	0.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	no[n so come dire]	no[n so come dire]	non so come dire
+70	BO139	128.43	129.23	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[sì sì sì sì]	[sì sì sì sì]	sì sì sì sì
+71	BO139	130.225	131.545	1.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ah è così su tutto >cioè:<	ah è così su tutto >cioè:<	ah è così su tutto cioè
+72	BO139	132.35	137.28	4.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	chiaramente io penso sempre alla musica perché sono mononeurone ed è quello a cui penso sempre però	chiaramente io penso sempre alla musica perché sono mononeurone ed è quello a cui penso sempre però	chiaramente io penso sempre alla musica perché sono mononeurone ed è quello a cui penso sempre però
+73	BO139	137.78	139.54	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	anche lì >cioè< già adesso:	anche lì >cioè< già adesso:	anche lì cioè già adesso
+74	BO139	140.15	140.88	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	se (dici)	se (dici)	se dici
+75	BO139	141.17	145.23	4.06	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	15	dici una canzone: tu dici ah è dell' anno scorso uno dice ah beh dai=	dici una canzone: tu dici ah è dell' anno scorso uno dice ah beh dai	dici una canzone tu dici ah è dell' anno scorso uno dice ah beh dai
+76	BO139	145.23	149.0	3.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	anco~ ancora non è così vecchia se già è di due anni fa eh ma no	anco~ ancora non è così vecchia se già è di due anni fa eh ma no	anco~ ancora non è così vecchia se già è di due anni fa eh ma no
+77	BO139	149.26	152.75	3.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	è una vita fa perché nel frattempo ci son g~ s~ già state settantasei [hit]	è una vita fa perché nel frattempo ci son g~ s~ già state settantasei [hit]	è una vita fa perché nel frattempo ci son g~ s~ già state settantasei hit
+78	BO145	152.365	153.065	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[mh] mh mh	[mh] mh mh	mh mh mh
+79	BO139	153.23	154.47	1.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non c' è il tempo [per:]	non c' è il tempo [per:]	non c' è il tempo per
+80	BO145	154.035	154.605	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[hit]	[hit]	hit
+81	BO139	155.055	155.455	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	hit	hit	hit
+82	BO145	157.22	158.18	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no e:h	no e:h	no eh
+83	BO139	158.665	159.375	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	(as)petta	(as)petta	aspetta
+84	BO145	166.125	166.585	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	che c' è	che c' è	che c' è
+85	BO139	167.457	170.967	3.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	6	che registro da co[sì] ((ride)) xx[xx meno weir]d xx	che registro da co[sì] {ride} xx[xx meno weir]d xx	che registro da così {ride} x meno weird x
+86	BO145	168.427	169.167	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[ah okay]	[ah okay]	ah okay
+87	BO145	169.272	170.162	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[va bene]	[va bene]	va bene
+88	BO145	170.827	172.687	1.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+89	BO139	171.797	174.1695	2.38	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	8	è un po' tipo col fiato sul collo	è un po' tipo col fiato sul collo	è un po' tipo col fiato sul collo
+90	BO145	174.1695	175.162	1.0	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	no vabbè	no vabbè	no vabbè
+91	BO139	175.217	175.737	0.52	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	vai	vai	vai
+92	BO145	175.942	178.032	2.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	no comunque::=m:h	no comunque::=m:h	no comunque mh
+93	BO145	178.942	183.942	5.0	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	ecco poi: >cioè< continuando tipo a anda' avanti con: questo discorso:	ecco poi: >cioè< continuando tipo a anda' avanti con: questo discorso:	ecco poi cioè continuando tipo a anda' avanti con questo discorso
+94	BO145	185.387	185.807	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+95	BO145	187.282	192.39	5.108	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	non lo so a me me sta a da' quasi dando fastidio questo:: eccessivo::	non lo so a me me sta a da' quasi dando fastidio questo:: eccessivo::	non lo so a me me sta a da' quasi dando fastidio questo eccessivo
+96	BO145	193.001	196.731	3.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	cambiamento continuo tipo nella moda ma che poi >cioè< non è che dici	cambiamento continuo tipo nella moda ma che poi >cioè< non è che dici	cambiamento continuo tipo nella moda ma che poi cioè non è che dici
+97	BO145	196.801	201.861	5.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	viene inventato qualcosa di proprio strepitosto che non è s[tato mai] visto:	viene inventato qualcosa di proprio strepitosto che non è s[tato mai] visto:	viene inventato qualcosa di proprio strepitosto che non è stato mai visto
+98	BO139	200.481	200.881	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+99	BO145	202.286	205.896	3.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	m::h=nell=nelle epoche de precedenti a questa no?	m::h=nell=nelle epoche de precedenti a questa no?	mh nell nelle epoche de precedenti a questa no
+100	BO139	206.086	206.626	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+101	BO145	206.241	209.181	2.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[>cioè<] vengono comunque riproposti sempre gli stessi modelli	[>cioè<] vengono comunque riproposti sempre gli stessi modelli	cioè vengono comunque riproposti sempre gli stessi modelli
+102	BO139	209.476	209.746	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+103	BO145	209.756	211.576	1.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	uno dice sì vabbè tanto alla fine non è che	uno dice sì vabbè tanto alla fine non è che	uno dice sì vabbè tanto alla fine non è che
+104	BO145	212.031	213.681	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< una maglia tanto è fatta così ormai	>cioè< una maglia tanto è fatta così ormai	cioè una maglia tanto è fatta così ormai
+105	BO145	214.131	215.971	1.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	penso la scienza sia arrivata a dire	penso la scienza sia arrivata a dire	penso la scienza sia arrivata a dire
+106	BO145	216.186	220.446	4.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	14	okay la maglia deve essere fatta così e dà (.) fornisce il proptotipo che cambia	okay la maglia deve essere fatta così e dà {P} fornisce il proptotipo che cambia	okay la maglia deve essere fatta così e dà {P} fornisce il proptotipo che cambia
+107	BO145	220.811	221.371	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	in=eh	in=eh	in eh
+108	BO145	222.066	222.406	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+109	BO145	223.081	224.211	1.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	in tutti gli anni no?	in tutti gli anni no?	in tutti gli anni no
+110	BO139	224.291	224.711	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+111	BO145	224.836	225.246	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+112	BO145	225.696	226.456	0.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	in ogni anno	in ogni anno	in ogni anno
+113	BO145	226.531	227.001	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+114	BO145	228.231	229.911	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ad ogni a~ no come si dice?	ad ogni a~ no come si dice?	ad ogni a~ no come si dice
+115	BO145	230.246	230.506	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	(od)dio	(od)dio	oddio
+116	BO145	230.551	231.221	0.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	(v)abbè	(v)abbè	vabbè
+117	BO145	231.451	232.181	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	comunque	comunque	comunque
+118	BO145	232.361	232.621	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+119	BO145	234.586	235.506	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::h	m::h	mh
+120	BO145	236.171	238.101	1.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	dicevo vengono riforniti quindi tutte	dicevo vengono riforniti quindi tutte	dicevo vengono riforniti quindi tutte
+121	BO145	238.491	239.201	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	(i)nsomma	(i)nsomma	insomma
+122	BO145	239.641	240.561	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	tutti:	tutti:	tutti
+123	BO145	241.101	242.351	1.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	stili che comunque	stili che comunque	stili che comunque
+124	BO145	245.851	248.011	2.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	esistono già (no)n so come dire	esistono già (no)n so come dire	esistono già non so come dire
+125	BO139	248.086	248.676	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	m[h mh]	m[h mh]	mh mh
+126	BO145	248.196	250.116	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[magari ve]ngono mischiati un po' così	[magari ve]ngono mischiati un po' così	magari vengono mischiati un po' così
+127	BO145	250.446	252.06	1.614	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	quindi la vera moda secondo me non sta	quindi la vera moda secondo me non sta	quindi la vera moda secondo me non sta
+128	BO145	252.576	255.146	2.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	neanche nella maglietta di h and m	neanche nella maglietta di h and m	neanche nella maglietta di h and m
+129	BO145	255.536	256.666	1.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	o di zara >cioè<	o di zara >cioè<	o di zara cioè
+130	BO145	256.786	259.736	2.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	sta in tutt' altro quindi i veri	sta in tutt' altro quindi i veri	sta in tutt' altro quindi i veri
+131	BO145	261.486	266.246	4.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	neanche gli influencer=eh di oggi >cioè< secondo me proprio chi studia moda o comunque chi	neanche gli influencer=eh di oggi >cioè< secondo me proprio chi studia moda o comunque chi	neanche gli influencer eh di oggi cioè secondo me proprio chi studia moda o comunque chi
+132	BO145	266.941	269.571	2.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	11	>cioè< (.) chi fa la moda (.) che ne so  tipo dolc~ >cioè<	>cioè< {P} chi fa la moda {P} che ne so tipo dolc~ >cioè<	cioè {P} chi fa la moda {P} che ne so tipo dolc~ cioè
+133	BO145	270.301	271.331	1.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	anche::	anche::	anche
+134	BO145	271.801	276.551	4.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	versace per ese[mpio versac]e comunque ha fatto la storia resterà sempre lo stile versace	versace per ese[mpio versac]e comunque ha fatto la storia resterà sempre lo stile versace	versace per esempio versace comunque ha fatto la storia resterà sempre lo stile versace
+135	BO139	273.051	273.671	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+136	BO139	276.731	278.77	2.039	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	eh [quello della canzone di:] bruno mars vero?	eh [quello della canzone di:] bruno mars vero?	eh quello della canzone di bruno mars vero
+137	BO145	276.961	277.961	1.0	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[e comunque]	[e comunque]	e comunque
+138	BO145	278.776	279.646	0.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì però	sì però	sì però
+139	BO139	279.011	280.331	1.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+140	BO145	279.856	283.476	3.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	(qui) ci sono >delle< persone che ringraziano bruno mars di dire oh	(qui) ci sono >delle< persone che ringraziano bruno mars di dire oh	qui ci sono delle persone che ringraziano bruno mars di dire oh
+141	BO145	283.741	285.821	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	grazie bruno mars finalmente:	grazie bruno mars finalmente:	grazie bruno mars finalmente
+142	BO145	286.111	289.491	3.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	eh qualcunio che insegna al mondo come si dice versace	eh qualcunio che insegna al mondo come si dice versace	eh qualcunio che insegna al mondo come si dice versace
+143	BO139	290.201	290.701	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+144	BO145	290.216	291.576	1.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[>cioè< come si di]ce versaci	[>cioè< come si di]ce versaci	cioè come si dice versaci
+145	BO145	291.661	294.751	3.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	11	(io ho detto) scusa ma è italiana scusa si dice versace ((ride))	(io ho detto) scusa ma è italiana scusa si dice versace {ride}	io ho detto scusa ma è italiana scusa si dice versace {ride}
+146	BO139	292.341	293.201	0.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+147	BO139	295.296	295.996	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+148	BO145	295.296	295.996	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[vabbè >cioè<]	[vabbè >cioè<]	vabbè cioè
+149	BO145	296.331	298.821	2.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	no? si dice versace anche s[e lei parla:]	no? si dice versace anche s[e lei parla:]	no si dice versace anche se lei parla
+150	BO139	297.751	298.561	0.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[sì sì sì]	[sì sì sì]	sì sì sì
+151	BO139	299.201	299.991	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sì sì sì sì	sì sì sì sì	sì sì sì sì
+152	BO145	300.521	302.101	1.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	e lei aha antonella versace	e lei aha antonella versace	e lei aha antonella versace
+153	BO139	302.116	302.706	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+154	BO145	302.256	303.906	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	fa tutta così e molto	fa tutta così e molto	fa tutta così e molto
+155	BO145	304.196	307.996	3.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	americanizz~ americana: americanizzata sì	americanizz~ americana: americanizzata sì	americanizz~ americana americanizzata sì
+156	BO139	308.031	308.541	0.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+157	BO145	308.631	310.381	1.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	però è com~ resta comunque italiana	però è com~ resta comunque italiana	però è com~ resta comunque italiana
+158	BO145	310.72	311.501	0.781	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	che fai giriamo qua?	che fai giriamo qua?	che fai giriamo qua
+159	BO139	312.895	313.365	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+160	BO145	313.515	313.795	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+161	BO145	315.47	316.77	1.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	eh però >cioè<	eh però >cioè<	eh però cioè
+162	BO145	325.113	326.48	1.367	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	musica d' attesa ((ride))	musica d' attesa {ride}	musica d' attesa {ride}
+163	BO139	329.081	331.511	2.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((canta))	{canta}	{canta}
+164	BO145	330.411	331.501	1.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	eh forse adesso	eh forse adesso	eh forse adesso
+165	BO145	335.551	336.221	0.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	>cioè< comunque	>cioè< comunque	cioè comunque
+166	BO145	336.821	337.191	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xx	xx	x
+167	BO145	337.361	339.301	1.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	quando viene im:posta >cioè<	quando viene im:posta >cioè<	quando viene imposta cioè
+168	BO145	339.596	343.716	4.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	20	uno stile tipo come quello de versace comunque uno non dice ah madonna che bello mai vista questa cosa e	uno stile tipo come quello de versace comunque uno non dice ah madonna che bello mai vista questa cosa e	uno stile tipo come quello de versace comunque uno non dice ah madonna che bello mai vista questa cosa e
+169	BO145	344.121	345.779	1.658	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	va su tutti i giornali (n~) (e) comunque dicono	va su tutti i giornali (n~) (e) comunque dicono	va su tutti i giornali n~ e comunque dicono
+170	BO145	346.476	351.79	5.314	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	ah vabbè vedi questi: questi ghirigori rimandano a versace >cioè< è uno stile un po': vers~	ah vabbè vedi questi: questi ghirigori rimandano a versace >cioè< è uno stile un po': vers~	ah vabbè vedi questi questi ghirigori rimandano a versace cioè è uno stile un po' vers~
+171	BO145	351.851	354.071	2.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	di versace. capito? >cioè< non è che dici	di versace. capito? >cioè< non è che dici	di versace capito cioè non è che dici
+172	BO145	356.926	357.976	1.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+173	BO145	359.286	360.566	1.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	x=e~ >cioè<	x=e~ >cioè<	x e~ cioè
+174	BO145	361.481	363.161	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	c' è una x rielaborazione no	c' è una x rielaborazione no	c' è una x rielaborazione no
+175	BO145	363.226	365.82	2.594	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< nel senso è un:a copia: e qualche	>cioè< nel senso è un:a copia: e qualche	cioè nel senso è una copia e qualche
+176	BO145	366.511	368.811	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	cambiamento sporadico qua e là >cioè<	cambiamento sporadico qua e là >cioè<	cambiamento sporadico qua e là cioè
+177	BO145	369.596	370.046	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	capito	capito	capito
+178	BO139	370.226	370.756	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+179	BO139	372.356	376.666	4.31	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	ma sì anche perché io quello che mi >cioè< che:: son~ è da un po' che mi chiedo	ma sì anche perché io quello che mi >cioè< che:: son~ è da un po' che mi chiedo	ma sì anche perché io quello che mi cioè che son~ è da un po' che mi chiedo
+180	BO139	377.086	380.616	3.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	è se il concetto di vintage o vintage o come cazzo si dice	è se il concetto di vintage o vintage o come cazzo si dice	è se il concetto di vintage o vintage o come cazzo si dice
+181	BO139	381.076	383.226	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	<sia> sempre esistito perché >cioè< eh	<sia> sempre esistito perché >cioè< eh	sia sempre esistito perché cioè eh
+182	BO139	383.746	386.436	2.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	eh son sempre esistiti i negozi di antiquariato quelle robe lì	eh son sempre esistiti i negozi di antiquariato quelle robe lì	eh son sempre esistiti i negozi di antiquariato quelle robe lì
+183	BO139	386.946	387.206	0.275	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+184	BO145	387.206	388.031	0.84	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	ah okay	ah okay	ah okay
+185	BO139	388.406	393.146	4.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	21	non so da quan:t' è che ci sia la co~ perché comunque vintage non è che parliamo di cose capito antiche	non so da quan:t' è che ci sia la co~ perché comunque vintage non è che parliamo di cose capito antiche	non so da quant' è che ci sia la co~ perché comunque vintage non è che parliamo di cose capito antiche
+186	BO139	393.491	394.951	1.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	parliamo di cose di: >°che ne so°<	parliamo di cose di: >°che ne so°<	parliamo di cose di che ne so
+187	BO139	395.266	396.256	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	tren[ta:]	tren[ta:]	trenta
+188	BO145	395.746	397.886	2.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[cinquan]t' anni fa ma[ssimo]	[cinquan]t' anni fa ma[ssimo]	cinquant' anni fa massimo
+189	BO139	397.241	401.641	4.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	[ma a vo~ a vo]lte in realtà anche meno perché anche i vestiti anni novan[ta: per dire]	[ma a vo~ a vo]lte in realtà anche meno perché anche i vestiti anni novan[ta: per dire]	ma a vo~ a volte in realtà anche meno perché anche i vestiti anni novanta per dire
+190	BO145	400.416	401.596	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[a:h sì]	[a:h sì]	ah sì
+191	BO139	401.881	403.051	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	di [quando eravamo piccoli noi]	di [quando eravamo piccoli noi]	di quando eravamo piccoli noi
+192	BO145	402.001	404.19	2.189	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[eh ma infatti massimo] cinquant' anni ho detto	[eh ma infatti massimo] cinquant' anni ho detto	eh ma infatti massimo cinquant' anni ho detto
+193	BO139	404.221	404.661	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+194	BO139	405.321	408.221	2.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e quindi non so se prima esistesse questa cosa qui	e quindi non so se prima esistesse questa cosa qui	e quindi non so se prima esistesse questa cosa qui
+195	BO139	408.356	410.786	2.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	non so [perché era un mondo: diverso]	non so [perché era un mondo: diverso]	non so perché era un mondo diverso
+196	BO145	408.816	414.246	5.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	[secondo me è:in] concomitanza con=e:h il=e:h radical chic	[secondo me è:in] concomitanza con=e:h il=e:h radical chic	secondo me èin concomitanza con eh il eh radical chic
+197	BO139	414.506	415.006	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+198	BO145	414.506	415.006	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+199	BO145	415.101	417.021	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	>cioè< con quando è uscita questa:	>cioè< con quando è uscita questa:	cioè con quando è uscita questa
+200	BO139	417.101	417.891	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+201	BO145	417.5	418.571	1.071	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	nuova:	nuova:	nuova
+202	BO139	419.08	420.07	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	filone [della moda]	filone [della moda]	filone della moda
+203	BO145	419.39	420.08	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[e:h]	[e:h]	eh
+204	BO139	421.33	421.88	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[tendenza]	[tendenza]	tendenza
+205	BO145	421.4	422.64	1.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[locu]zione	[locu]zione	locuzione
+206	BO139	423.05	424.02	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	opzione? [xx]	opzione? [xx]	opzione x
+207	BO145	423.75	424.86	1.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[lo]cuzione	[lo]cuzione	locuzione
+208	BO139	424.88	425.705	0.9	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	1	0	2	ah okay ((ride))	ah okay {ride}	ah okay {ride}
+209	BO145	424.985	425.5	0.515	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+210	BO145	425.705	426.19	0.56	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	va bene	va bene	va bene
+211	BO139	426.415	427.115	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+212	BO145	426.89	428.61	1.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	xxx >cioè< questa nuova:	xxx >cioè< questa nuova:	x cioè questa nuova
+213	BO145	428.73	433.14	4.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	figura del radical chic secondo me s' è anche affermato il vintage	figura del radical chic secondo me s' è anche affermato il vintage	figura del radical chic secondo me s' è anche affermato il vintage
+214	BO145	433.315	439.535	6.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	18	[>cioè<] (.) in parte magari >poi non lo so adesso se< <precisamente> con~ sono <contemporanei> o no però comunque	[>cioè<] {P} in parte magari >poi non lo so adesso se< <precisamente> con~ sono <contemporanei> o no però comunque	cioè {P} in parte magari poi non lo so adesso se precisamente con~ sono contemporanei o no però comunque
+215	BO139	433.32	433.73	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+216	BO145	440.95	444.71	3.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	guarda caso chi è radical chic è sempre tende a essere un po' vintage	guarda caso chi è radical chic è sempre tende a essere un po' vintage	guarda caso chi è radical chic è sempre tende a essere un po' vintage
+217	BO139	444.545	445.345	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+218	BO145	445.41	447.34	1.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	vintag: lo so	vintag: lo so	vintag lo so
+219	BO145	447.405	452.565	5.16	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	20	[poi vintage secondo me è un sentimento quin]di come lo dici lo dici capito o vintage o vintage va bene ((ride))	[poi vintage secondo me è un sentimento quin]di come lo dici lo dici capito o vintage o vintage va bene {ride}	poi vintage secondo me è un sentimento quindi come lo dici lo dici capito o vintage o vintage va bene {ride}
+220	BO139	447.41	449.22	1.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[>(che)< pro~ probabilmente ogni era]	[>(che)< pro~ probabilmente ogni era]	che pro~ probabilmente ogni era
+221	BO139	451.78	452.53	0.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+222	BO139	453.17	454.05	0.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	vintace	vintace	vintace
+223	BO139	454.155	456.215	2.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	fra[tello di versac]e ((ride))	fra[tello di versac]e {ride}	fratello di versace {ride}
+224	BO145	454.34	456.21	1.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	1	[vintace] ((ride))	[vintace] {ride}	vintace {ride}
+225	BO139	456.72	457.9	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	((ride)) no ma	{ride} no ma	{ride} no ma
+226	BO139	459.125	461.635	2.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	probabilmente ogni era ha avuto il proprio:	probabilmente ogni era ha avuto il proprio:	probabilmente ogni era ha avuto il proprio
+227	BO139	462.365	464.275	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	tipo di=eh radical chic	tipo di=eh radical chic	tipo di eh radical chic
+228	BO139	464.645	469.305	4.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	però proprio questa cosa qui delle cose <non> così tanto vecchie ma: che comunque vanno di [moda]	però proprio questa cosa qui delle cose <non> così tanto vecchie ma: che comunque vanno di [moda]	però proprio questa cosa qui delle cose non così tanto vecchie ma che comunque vanno di moda
+229	BO145	468.93	469.81	0.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[s:]ì=[mh]	[s:]ì=[mh]	sì mh
+230	BO139	469.545	473.305	3.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	229=0.265,231=0.085	True	0	0	0	16	[non so se ci foss]e prima non sono do~ così documentato sulla storia di queste cose	[non so se ci foss]e prima non sono do~ così documentato sulla storia di queste cose	non so se ci fosse prima non sono do~ così documentato sulla storia di queste cose
+231	BO145	473.22	474.04	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	230=0.085	False	0	0	0	3	non lo so	non lo so	non lo so
+232	BO139	474.63	477.55	2.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[però: >cioè< è interessante anche dal] punto di vista:	[però: >cioè< è interessante anche dal] punto di vista:	però cioè è interessante anche dal punto di vista
+233	BO145	474.655	476.34	1.685	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	[xxxxxxxx]	[xxxxxxxx]	x
+234	BO139	478.715	479.545	0.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	>cioè< non lo so	>cioè< non lo so	cioè non lo so
+235	BO139	479.945	480.725	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m:h	m:h	mh
+236	BO145	480.85	481.28	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sai c~]	[sai c~]	sai c~
+237	BO139	480.88	481.16	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[un]	[un]	un
+238	BO139	481.3	483.94	2.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	un po' è un appunto interessante sull' effetto nostalgia	un po' è un appunto interessante sull' effetto nostalgia	un po' è un appunto interessante sull' effetto nostalgia
+239	BO145	481.37	482.34	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+240	BO139	484.31	484.88	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	per cui	per cui	per cui
+241	BO139	485.03	485.31	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cosa?	cosa?	cosa
+242	BO145	485.305	485.605	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+243	BO145	485.71	486.28	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	niente	niente	niente
+244	BO139	486.07	486.84	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+245	BO139	486.89	487.96	1.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non mi [volevi interrom~]	non mi [volevi interrom~]	non mi volevi interrom~
+246	BO145	487.2	489.02	1.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[penso che è mol]to finta come	[penso che è mol]to finta come	penso che è molto finta come
+247	BO145	489.413	491.273	1.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	come conversazione perché >cioè<	come conversazione perché >cioè<	come conversazione perché cioè
+248	BO145	491.628	494.858	3.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	parlaimo molto: >cioè< sembriamo tipo (u)na lezione:	parlaimo molto: >cioè< sembriamo tipo (u)na lezione:	parlaimo molto cioè sembriamo tipo una lezione
+249	BO139	495.238	495.41	0.172	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	vabbè	vabbè	vabbè
+250	BO145	495.415	502.23	6.815	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	28	frontale no no va bene ma ci sta nel senso almeno se parla de qualcosa (de) diverso rispetto a io che t' insulto te che m' insul[ti o]	frontale no no va bene ma ci sta nel senso almeno se parla de qualcosa (de) diverso rispetto a io che t' insulto te che m' insul[ti o]	frontale no no va bene ma ci sta nel senso almeno se parla de qualcosa de diverso rispetto a io che t' insulto te che m' insulti o
+251	BO139	497.27	499.23	1.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+252	BO139	499.985	501.495	1.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+253	BO139	501.925	504.895	2.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	9	[anche p]er~ io parlo così [normalmente non è che] ((ride))	[anche p]er~ io parlo così [normalmente non è che] {ride}	anche per~ io parlo così normalmente non è che {ride}
+254	BO145	502.955	504.965	2.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[te che me tocchi il culo >cioè< nel senso]	[te che me tocchi il culo >cioè< nel senso]	te che me tocchi il culo cioè nel senso
+255	BO139	505.397	506.767	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+256	BO145	505.807	507.17	1.363	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	257=0.273	False	0	1	0	1	capito? ((ride))	capito? {ride}	capito {ride}
+257	BO139	506.897	509.227	2.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	256=0.273,258=1.210	True	0	0	0	10	non è che cerco di parlare [meglio del solito eh]	non è che cerco di parlare [meglio del solito eh]	non è che cerco di parlare meglio del solito eh
+258	BO145	508.017	509.747	1.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[aspetta che c' è un po' di cas]ino qua	[aspetta che c' è un po' di cas]ino qua	aspetta che c' è un po' di casino qua
+259	BO139	510.257	511.297	1.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ci mettiamo qua [dietro]	ci mettiamo qua [dietro]	ci mettiamo qua dietro
+260	BO145	510.832	512.002	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[dove]::	[dove]::	dove
+261	BO139	513.152	515.232	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	vicini vicini al microfono così si sente	vicini vicini al microfono così si sente	vicini vicini al microfono così si sente
+262	BO145	515.402	515.992	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	b[ene]	b[ene]	bene
+263	BO139	515.57	516.01	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[ciao]	[ciao]	ciao
+264	BO145	516.282	516.672	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ciao	ciao	ciao
+265	BO139	516.742	517.462	0.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+266	BO139	518.477	519.297	0.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	questo è finto	questo è finto	questo è finto
+267	BO139	519.637	520.627	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però:	però:	però
+268	BO145	521.315	524.735	3.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	>cioè< boh secondo me sai cosa? vintage forse è=m:h	>cioè< boh secondo me sai cosa? vintage forse è=m:h	cioè boh secondo me sai cosa vintage forse è mh
+269	BO145	525.67	529.49	3.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	°è° è: inerente a tipo qualcosa (.) di usurato:	°è° è: inerente a tipo qualcosa {P} di usurato:	è è inerente a tipo qualcosa {P} di usurato
+270	BO145	529.915	531.325	1.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	utlizzato:	utlizzato:	utlizzato
+271	BO145	531.665	535.025	3.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	>cioè< una cosa vintage per esempio lo dico quando trovo:	>cioè< una cosa vintage per esempio lo dico quando trovo:	cioè una cosa vintage per esempio lo dico quando trovo
+272	BO145	535.49	537.73	2.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	che ne so una un paio de:	che ne so una un paio de:	che ne so una un paio de
+273	BO145	538.265	540.295	2.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	levi's che c' aveva mamma a vent' anni	levi's che c' aveva mamma a vent' anni	levi' s che c' aveva mamma a vent' anni
+274	BO139	540.315	540.705	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+275	BO145	540.735	545.685	4.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	>cioè< che uno dice sì è vintage però sì mamma negli anni <ottanta:> ottanta c' aveva vent' anni	>cioè< che uno dice sì è vintage però sì mamma negli anni <ottanta:> ottanta c' aveva vent' anni	cioè che uno dice sì è vintage però sì mamma negli anni ottanta ottanta c' aveva vent' anni
+276	BO145	546.785	547.145	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	quindi	quindi	quindi
+277	BO145	548.06	549.49	1.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	dico è vintage però	dico è vintage però	dico è vintage però
+278	BO145	549.82	552.53	2.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	è più l' apparenza capito, [della] cosa	è più l' apparenza capito, [della] cosa	è più l' apparenza capito della cosa
+279	BO139	551.65	551.95	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+280	BO139	552.575	552.925	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°mh°	°mh°	mh
+281	BO145	553.31	555.52	2.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	5	>cioè< magari (.) magari loro (.) magari	>cioè< magari {P} magari loro {P} magari	cioè magari {P} magari loro {P} magari
+282	BO145	556.84	558.73	1.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	viene venduto: sì	viene venduto: sì	viene venduto sì
+283	BO145	559.15	560.01	0.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	viene venduto	viene venduto	viene venduto
+284	BO145	561.0	563.4	2.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< viene spacciato qualcosa per vintage però	>cioè< viene spacciato qualcosa per vintage però	cioè viene spacciato qualcosa per vintage però
+285	BO145	563.775	567.865	4.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	realmente è stato costruito (.) >cioè< no fatto, prodotto in quel periodo	realmente è stato costruito {P} >cioè< no fatto, prodotto in quel periodo	realmente è stato costruito {P} cioè no fatto prodotto in quel periodo
+286	BO145	568.195	570.475	2.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	ma gli viene data la fattezza della cosa usurata	ma gli viene data la fattezza della cosa usurata	ma gli viene data la fattezza della cosa usurata
+287	BO139	570.62	571.08	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+288	BO145	571.115	574.625	3.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	quindi quello secondo me assume le caratteristiche del vintage però	quindi quello secondo me assume le caratteristiche del vintage però	quindi quello secondo me assume le caratteristiche del vintage però
+289	BO145	575.065	576.315	1.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	>cioè< effettivamente non lo è	>cioè< effettivamente non lo è	cioè effettivamente non lo è
+290	BO139	576.905	579.555	2.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[sì fa finta di dargl]i una s[toria: figa dietro]	[sì fa finta di dargl]i una s[toria: figa dietro]	sì fa finta di dargli una storia figa dietro
+291	BO145	576.945	577.895	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[perché comunque]	[perché comunque]	perché comunque
+292	BO145	578.225	579.565	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[esatto >cioè< viene magari]	[esatto >cioè< viene magari]	esatto cioè viene magari
+293	BO145	580.61	581.02	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+294	BO145	581.26	584.37	3.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	<martoriato> finché non arriva ad essere vintage ca[pito]	<martoriato> finché non arriva ad essere vintage ca[pito]	martoriato finché non arriva ad essere vintage capito
+295	BO139	583.96	584.59	0.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[m]:h	[m]:h	mh
+296	BO145	584.98	585.37	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+297	BO139	585.95	589.05	3.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	sì secondo me una cosa simile si vede: tipo=mh anche	sì secondo me una cosa simile si vede: tipo=mh anche	sì secondo me una cosa simile si vede tipo mh anche
+298	BO139	589.38	595.415	6.035	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	20	magari non n~ non nei film=eh ma nei video musicali e vabbè chiaramente arrivo sempre lì con l' argomento	magari non n~ non nei film=eh ma nei video musicali e vabbè chiaramente arrivo sempre lì con l' argomento	magari non n~ non nei film eh ma nei video musicali e vabbè chiaramente arrivo sempre lì con l' argomento
+299	BO139	595.752	598.092	2.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	perché tipo: >non< so se hai presente	perché tipo: >non< so se hai presente	perché tipo non so se hai presente
+300	BO139	599.287	603.827	4.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	>cioè:< si usano dei tipi di filtri adesso e non sono così esperto però del setto[re video]	>cioè:< si usano dei tipi di filtri adesso e non sono così esperto però del setto[re video]	cioè si usano dei tipi di filtri adesso e non sono così esperto però del settore video
+301	BO145	603.322	603.802	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+302	BO139	604.272	608.972	4.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	20	però che (è) co~ sempre come se ci fosse una patina sopra sono sem[pre: sempre (di] colori) non è mai	però che (è) co~ sempre come se ci fosse una patina sopra sono sem[pre: sempre (di] colori) non è mai	però che è co~ sempre come se ci fosse una patina sopra sono sempre sempre di colori non è mai
+303	BO145	607.157	607.857	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[sì sì sì]	[sì sì sì]	sì sì sì
+304	BO145	609.137	609.47	0.333	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	305=0.003	False	0	0	0	2	sì sì	sì sì	sì sì
+305	BO139	609.467	613.947	4.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	304=0.003,306=0.600	True	0	0	0	20	il ne~ il nero >non< è mai nero sempre un po' schiarito così [come s~ per s]imulare l' effetto di	il ne~ il nero >non< è mai nero sempre un po' schiarito così [come s~ per s]imulare l' effetto di	il ne~ il nero non è mai nero sempre un po' schiarito così come s~ per simulare l' effetto di
+306	BO145	612.092	612.692	0.6	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sì sì]	[sì sì]	sì sì
+307	BO139	614.362	616.342	1.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non so una: videocassetta vecchia[:]	non so una: videocassetta vecchi[a:]	non so una videocassetta vecchia
+308	BO145	616.117	616.697	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	307=0.225,309=0.005	True	0	0	0	3	[sì] sì sì	[sì] sì sì	sì sì sì
+309	BO139	616.692	618.792	2.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	308=0.005	False	0	0	0	8	o di alcune immagini: di un tempo così	o di alcune immagini: di un tempo così	o di alcune immagini di un tempo così
+310	BO139	619.987	624.837	4.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	secondo me viene fatto e funziona perché dà quel senso >come dire< di: familiare serve per	secondo me viene fatto e funziona perché dà quel senso >come dire< di: familiare serve per	secondo me viene fatto e funziona perché dà quel senso come dire di familiare serve per
+311	BO145	624.897	625.847	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	anch[e sì:]	anch[e sì:]	anche sì
+312	BO139	625.257	627.817	2.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[>non so< non sen]tirsi persi magari nel mondo moderno	[>non so< non sen]tirsi persi magari nel mondo moderno	non so non sentirsi persi magari nel mondo moderno
+313	BO145	628.507	629.847	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	sai che è vero sai?	sai che è vero sai?	sai che è vero sai
+314	BO145	630.172	632.842	2.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	(u)na buona:: (.) deduzione	(u)na buona:: {P} deduzione	una buona {P} deduzione
+315	BO139	633.332	636.662	3.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	>cioè::<=m:h eh lo vedo anche x con un sacco di:	>cioè::<=m:h eh lo vedo anche x con un sacco di:	cioè mh eh lo vedo anche x con un sacco di
+316	BO139	636.962	639.132	2.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	magari nuovi artisti che escono >cioè< alcuni	magari nuovi artisti che escono >cioè< alcuni	magari nuovi artisti che escono cioè alcuni
+317	BO139	640.032	642.332	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	non so è proprio una scelta volontaria quella di fare	non so è proprio una scelta volontaria quella di fare	non so è proprio una scelta volontaria quella di fare
+318	BO139	642.547	645.577	3.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	magari il video che sembra fatto in bassa qualità apposta o f~	magari il video che sembra fatto in bassa qualità apposta o f~	magari il video che sembra fatto in bassa qualità apposta o f~
+319	BO139	645.987	647.257	1.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	o:ppure >cioè< nel senso	o:ppure >cioè< nel senso	oppure cioè nel senso
+320	BO139	648.127	651.687	3.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	>nel senso< magari è fatto con una videocamera della miseria però poi è taroccato in modo	>nel senso< magari è fatto con una videocamera della miseria però poi è taroccato in modo	nel senso magari è fatto con una videocamera della miseria però poi è taroccato in modo
+321	BO139	651.977	654.217	2.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	che sembra tutto fatto male: così	che sembra tutto fatto male: così	che sembra tutto fatto male così
+322	BO139	654.572	657.042	2.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	perché gli dà quel senso di: di quella roba lì	perché gli dà quel senso di: di quella roba lì	perché gli dà quel senso di di quella roba lì
+323	BO139	657.312	658.222	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	>cioè< i~ per dire	>cioè< i~ per dire	cioè i~ per dire
+324	BO145	658.662	660.462	1.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	vedi questa foto del kebab com' è	vedi questa foto del kebab com' è	vedi questa foto del kebab com' è
+325	BO139	660.977	661.727	0.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+326	BO145	661.557	662.337	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	familiare	familiare	familiare
+327	BO139	662.462	663.197	0.735	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+328	BO139	663.197	667.617	4.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	<è tornata di moda anche:> >non so< tutti i videogame vecchissim[i::]	<è tornata di moda anche:> >non so< tutti i videogame vecchissim[i::]	è tornata di moda anche non so tutti i videogame vecchissimi
+329	BO145	667.257	669.167	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[sì ti]po crash bandicoot	[sì ti]po crash bandicoot	sì tipo crash bandicoot
+330	BO139	669.252	672.332	3.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	ah beh ma anche più vecchi di quello anche quelli bidimensionali così	ah beh ma anche più vecchi di quello anche quelli bidimensionali così	ah beh ma anche più vecchi di quello anche quelli bidimensionali così
+331	BO139	672.697	676.687	3.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	13	perché (.) >cioè< quella volta erano così frustranti da quanto erano limitati però adesso	perché {P} >cioè< quella volta erano così frustranti da quanto erano limitati però adesso	perché {P} cioè quella volta erano così frustranti da quanto erano limitati però adesso
+332	BO145	672.917	673.307	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+333	BO139	676.967	678.877	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	che: siamo andati molto più in là	che: siamo andati molto più in là	che siamo andati molto più in là
+334	BO139	679.227	680.667	1.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	è quas[i come se fossero]	è quas[i come se fossero]	è quasi come se fossero
+335	BO145	679.657	682.067	2.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[come se si si si ri]cerca::	[come se si si si ri]cerca::	come se si si si ricerca
+336	BO145	682.897	684.2945	1.4	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	4	la la radice dici	la la radice dici	la la radice dici
+337	BO139	684.2945	685.102	0.81	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	sì esatto	sì esatto	sì esatto
+338	BO139	685.382	687.112	1.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	a me dà quell' impress[ione lì almeno]	a me dà quell' impress[ione lì almeno]	a me dà quell' impressione lì almeno
+339	BO145	686.252	687.442	1.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[potrebbe ess]ere	[potrebbe ess]ere	potrebbe essere
+340	BO145	687.832	689.682	1.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	>cioè< secondo me è che: durante	>cioè< secondo me è che: durante	cioè secondo me è che durante
+341	BO145	690.312	691.022	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	questi:	questi:	questi
+342	BO145	691.312	692.27	0.958	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	questi <anni>	questi <anni>	questi anni
+343	BO145	692.421	695.881	3.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cio[è< (i)n genera]le anche parlan~ >cioè< dal decadentismo in poi secondo me	>cio[è< (i)n genera]le anche parlan~ >cioè< dal decadentismo in poi secondo me	cioè in generale anche parlan~ cioè dal decadentismo in poi secondo me
+344	BO139	692.601	693.011	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+345	BO139	695.956	696.306	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+346	BO145	696.486	698.136	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	si è osato talmente tanto	si è osato talmente tanto	si è osato talmente tanto
+347	BO145	698.566	700.806	2.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	che uno >cioè< sta ricercando delle	che uno >cioè< sta ricercando delle	che uno cioè sta ricercando delle
+348	BO145	701.621	703.721	2.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>delle< cose che già da da per assodate capito	>delle< cose che già da da per assodate capito	delle cose che già da da per assodate capito
+349	BO139	703.756	704.166	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+350	BO145	704.236	706.366	2.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	che gi:à da per cer[te]	che gi:à da per cer[te]	che già da per certe
+351	BO139	706.046	706.376	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+352	BO145	706.59	708.726	2.136	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cioè< questa chiaramente me l' hai fatta veni(re) in mente te eh	>cioè< questa chiaramente me l' hai fatta veni(re) in mente te eh	cioè questa chiaramente me l' hai fatta venire in mente te eh
+353	BO145	708.783	714.913	6.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	24	>nel [sens]o< sta cosa però effettivamente anche nella letteratura e nell' arte si è osato talmente tanto talmente tanti che pensa ai futuristi cioè	>nel [sens]o< sta cosa però effettivamente anche nella letteratura e nell' arte si è osato talmente tanto talmente tanti che pensa ai futuristi cioè	nel senso sta cosa però effettivamente anche nella letteratura e nell' arte si è osato talmente tanto talmente tanti che pensa ai futuristi cioè
+354	BO139	708.863	709.053	0.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+355	BO139	709.203	709.973	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+356	BO139	715.263	715.643	0.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+357	BO145	715.278	717.828	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[futuris]ti facevan(o) tutto il contrario >cioè< cercavano proprio de	[futuris]ti facevan(o) tutto il contrario >cioè< cercavano proprio de	futuristi facevano tutto il contrario cioè cercavano proprio de
+358	BO145	719.138	721.928	2.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	disorientare no comunque la persona:	disorientare no comunque la persona:	disorientare no comunque la persona
+359	BO139	720.918	721.558	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+360	BO145	722.743	723.883	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì vengo intervistata	sì vengo intervistata	sì vengo intervistata
+361	BO145	724.028	724.62	0.592	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+362	BO139	724.173	724.913	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+363	BO145	724.753	726.683	1.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	perché sono una critica d' arte molto famosa	perché sono una critica d' arte molto famosa	perché sono una critica d' arte molto famosa
+364	BO139	726.758	727.248	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ocio	ocio	ocio
+365	BO139	728.888	729.608	0.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+366	BO145	729.383	731.56	2.177	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	no io ocio lei ocio comunque	no io ocio lei ocio comunque	no io ocio lei ocio comunque
+367	BO139	731.75	738.43	6.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	[no (eravamo) n]oi che stavamo scendendo in strada posto deputato alle biciclette e ai vecoli, non ai pedoni [quindi]	[no (eravamo) n]oi che stavamo scendendo in strada posto deputato alle biciclette e ai vecoli, non ai pedoni [quindi]	no eravamo noi che stavamo scendendo in strada posto deputato alle biciclette e ai vecoli non ai pedoni quindi
+368	BO145	731.758	732.348	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+369	BO145	737.93	740.47	2.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	[vabbè ma io] avevo già:pensato a tutto (non) ti preoccupa(re)	[vabbè ma io] avevo già:pensato a tutto (non) ti preoccupa(re)	vabbè ma io avevo giàpensato a tutto non ti preoccupare
+370	BO139	739.825	740.59	0.765	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+371	BO139	740.65	741.14	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+372	BO145	741.22	742.14	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	comunque	comunque	comunque
+373	BO145	742.575	745.215	2.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>cioè< secondo me è l' osare talmente tanto che	>cioè< secondo me è l' osare talmente tanto che	cioè secondo me è l' osare talmente tanto che
+374	BO145	745.55	747.96	2.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[sei c]ome in una spirale tipo	[sei c]ome in una spirale tipo	sei come in una spirale tipo
+375	BO139	745.61	745.85	0.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+376	BO139	748.12	748.635	0.515	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m:h	m:h	mh
+377	BO145	748.635	753.395	4.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	<un turbinio di emozioni, di: cose, sensazioni> che	<un turbinio di emozioni, di: cose, sensazioni> che	un turbinio di emozioni di cose sensazioni che
+378	BO145	753.92	756.01	2.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ti sballano, ti fanno stare	ti sballano, ti fanno stare	ti sballano ti fanno stare
+379	BO145	756.64	756.91	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+380	BO145	757.75	758.88	1.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ti fanno un po':	ti fanno un po':	ti fanno un po'
+381	BO145	760.18	763.25	3.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	scaricare le le l~ le [tensio]ni e il cosiddetto	scaricare le le l~ le [tensio]ni e il cosiddetto	scaricare le le l~ le tensioni e il cosiddetto
+382	BO139	761.735	762.195	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+383	BO145	763.44	768.12	4.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	1, '	14	rapo~ rapporto perso con la natura >cio[è< un po ' le s]ensazioni che c' hai	rapo~ rapporto perso con la natura >cio[è< un po ' le s]ensazioni che c' hai	rapo~ rapporto perso con la natura cioè un po ' le sensazioni che c' hai
+384	BO139	766.3	766.78	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+385	BO139	768.26	768.58	0.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh m[h]	mh m[h]	mh mh
+386	BO145	768.525	769.465	0.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[s]ei:=mh	[s]ei:=mh	sei mh
+387	BO145	770.275	771.465	1.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	un po':	un po':	un po'
+388	BO145	772.005	772.875	0.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	diciamo:	diciamo:	diciamo
+389	BO145	774.655	775.945	1.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	aiutato:	aiutato:	aiutato
+390	BO145	776.265	777.025	0.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	da:	da:	da
+391	BO145	778.31	781.17	2.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	dal casino, la confusione, il caos che	dal casino, la confusione, il caos che	dal casino la confusione il caos che
+392	BO145	781.75	783.295	1.545	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	(che) ci sono stati:	(che) ci sono stati:	che ci sono stati
+393	BO145	783.637	785.347	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	durante questi anni però adesso	durante questi anni però adesso	durante questi anni però adesso
+394	BO145	786.727	792.267	5.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	20	>cioè< è come se: c' è un ritorno naturale come se fosse un impulso naturale [al ritorno al]le radici no	>cioè< è come se: c' è un ritorno naturale come se fosse un impulso naturale [al ritorno al]le radici no	cioè è come se c' è un ritorno naturale come se fosse un impulso naturale al ritorno alle radici no
+395	BO139	790.852	791.412	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+396	BO139	792.292	793.16	0.868	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	mh mh mh mh	mh mh mh mh	mh mh mh mh
+397	BO145	793.697	795.277	1.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	per (il) ritorno alle radici	per (il) ritorno alle radici	per il ritorno alle radici
+398	BO139	795.632	795.96	0.328	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+399	BO145	795.651	796.817	1.166	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[pe]rò:	[pe]rò:	però
+400	BO145	798.327	800.007	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	questo non c' ho più niente da dire	questo non c' ho più niente da dire	questo non c' ho più niente da dire
+401	BO139	799.757	800.607	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+402	BO145	800.697	802.757	2.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< [ho esaurito un po'] le scor[te]	>cioè< [ho esaurito un po'] le scor[te]	cioè ho esaurito un po' le scorte
+403	BO139	800.862	801.752	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[no io sì che]	[no io sì che]	no io sì che
+404	BO139	802.382	807.7	5.318	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	20	[io sì] che da un lato non so è interessante secondo me vedere queste cose nell' arte di vario tipo	[io sì] che da un lato non so è interessante secondo me vedere queste cose nell' arte di vario tipo	io sì che da un lato non so è interessante secondo me vedere queste cose nell' arte di vario tipo
+405	BO139	807.916	808.986	1.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	perché:	perché:	perché
+406	BO139	809.656	811.806	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì >cioè< come dire è comunque	sì >cioè< come dire è comunque	sì cioè come dire è comunque
+407	BO139	812.166	816.446	4.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	è una cosa interessante perché l' arte è sempre specchio della società del momento bla bla bla ovvio	è una cosa interessante perché l' arte è sempre specchio della società del momento bla bla bla ovvio	è una cosa interessante perché l' arte è sempre specchio della società del momento bla bla bla ovvio
+408	BO139	816.771	817.42	0.649	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e quin[di]	e quin[di]	e quindi
+409	BO145	817.106	817.746	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[a]:h	[a]:h	ah
+410	BO139	818.51	821.02	2.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	è sempre una chiave interessante tipo in un f~	è sempre una chiave interessante tipo in un f~	è sempre una chiave interessante tipo in un f~
+411	BO139	821.61	824.25	2.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	futuro anche prossimo per rileggere questi anni qui	futuro anche prossimo per rileggere questi anni qui	futuro anche prossimo per rileggere questi anni qui
+412	BO139	824.435	826.965	2.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	d' altra parte ogni tanto mi fa venire un po' come dire	d' altra parte ogni tanto mi fa venire un po' come dire	d' altra parte ogni tanto mi fa venire un po' come dire
+413	BO139	827.745	830.085	2.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	xx sì okay c(io)è è anche: come dire	xx sì okay c(io)è è anche: come dire	x sì okay cioè è anche come dire
+414	BO139	830.43	833.24	2.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	è anche divertente se vuoi ripescare alcune cose del passato così	è anche divertente se vuoi ripescare alcune cose del passato così	è anche divertente se vuoi ripescare alcune cose del passato così
+415	BO139	833.77	836.45	2.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	però: boh magari immaginare una cosa di nuovo	però: boh magari immaginare una cosa di nuovo	però boh magari immaginare una cosa di nuovo
+416	BO139	837.025	838.855	1.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non sarebbe male. torniamo:	non sarebbe male. torniamo:	non sarebbe male torniamo
+417	BO139	839.275	839.915	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	(a)ndiam su di qua?	(a)ndiam su di qua?	andiam su di qua
+418	BO145	839.99	841.2	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	okay va bene	okay va bene	okay va bene
+419	BO145	841.81	842.31	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	basta	basta	basta
+420	BO139	842.575	846.755	4.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	oppure: andiamo su: di qua così: magari prendiamo meno traffico	oppure: andiamo su: di qua così: magari prendiamo meno traffico	oppure andiamo su di qua così magari prendiamo meno traffico
+421	BO139	847.61	848.57	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	[xxxx]x[x]	[xxxx]x[x]	x
+422	BO145	847.62	848.37	0.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	[xx]	[xx]	x
+423	BO145	848.435	849.785	1.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[oh] guarda il cane	[oh] guarda il cane	oh guarda il cane
+424	BO139	850.035	850.455	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+425	BO145	851.19	851.88	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	(mado:~)	(mado:~)	mado~
+426	BO145	852.45	853.7025000000001	1.26	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	4	ma quanto è contento	ma quanto è contento	ma quanto è contento
+427	BO139	853.7025000000001	854.035	0.34	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+428	BO139	858.1	861.18	3.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	per [cui sì] >cioè< ogni tanto comunque in realtà questa cosa mi fa:	per [cui sì] >cioè< ogni tanto comunque in realtà questa cosa mi fa:	per cui sì cioè ogni tanto comunque in realtà questa cosa mi fa
+429	BO145	858.255	858.645	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+430	BO139	862.265	863.705	1.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	>cioè< è: ((sbuffa))	>cioè< è: {sbuffa}	cioè è {sbuffa}
+431	BO139	865.57	869.67	4.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	non so a volte mi dà l' im~ come l' impressione che non: ci sia abbastanza coraggio da:	non so a volte mi dà l' im~ come l' impressione che non: ci sia abbastanza coraggio da:	non so a volte mi dà l' im~ come l' impressione che non ci sia abbastanza coraggio da
+432	BO139	870.295	874.635	4.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	tentare cose nuove così poi in realtà che chi lo fa: e:	tentare cose nuove così poi in realtà che chi lo fa: e:	tentare cose nuove così poi in realtà che chi lo fa e
+433	BO139	875.405	877.455	2.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	diciamo che viene app~ lo apprezzo ancora di più	diciamo che viene app~ lo apprezzo ancora di più	diciamo che viene app~ lo apprezzo ancora di più
+434	BO139	878.531	878.871	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	s~	s~	s~
+435	BO145	878.946	882.406	3.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	beh secondo me no[n è vero che non] c' è scusa finisci	beh secondo me no[n è vero che non] c' è scusa finisci	beh secondo me non è vero che non c' è scusa finisci
+436	BO139	880.041	880.831	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[soprattutto]	[soprattutto]	soprattutto
+437	BO139	883.851	885.501	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	no >non lo< >cioè< per dire:	no >non lo< >cioè< per dire:	no non lo cioè per dire
+438	BO139	888.801	896.15	7.349	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	24	eh sembra sempre così che uno o va: a ripescare delle cose del passato così va sul certo, vede quello che ha già funzionato,	eh sembra sempre così che uno o va: a ripescare delle cose del passato così va sul certo, vede quello che ha già funzionato,	eh sembra sempre così che uno o va a ripescare delle cose del passato così va sul certo vede quello che ha già funzionato
+439	BO139	896.41	899.24	2.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	oppure uno segue la moda, vede quello che funziona nel momento	oppure uno segue la moda, vede quello che funziona nel momento	oppure uno segue la moda vede quello che funziona nel momento
+440	BO139	899.56	902.39	2.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	per[ò è più ra]ro ma: ovviamente	per[ò è più ra]ro ma: ovviamente	però è più raro ma ovviamente
+441	BO145	899.83	900.81	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[eh esatto]	[eh esatto]	eh esatto
+442	BO139	902.96	908.84	5.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	22	che ci sia qualcuno che prova qualcosa di nuovo, di originale:, che non è mai stato né visto né sentito prima così	che ci sia qualcuno che prova qualcosa di nuovo, di originale:, che non è mai stato né visto né sentito prima così	che ci sia qualcuno che prova qualcosa di nuovo di originale che non è mai stato né visto né sentito prima così
+443	BO139	909.55	910.12	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:	e:	e
+444	BO139	910.76	914.41	3.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	non so ogni tanto è f~ >cioè< frustrante vedere come dire questa perecentuale però	non so ogni tanto è f~ >cioè< frustrante vedere come dire questa perecentuale però	non so ogni tanto è f~ cioè frustrante vedere come dire questa perecentuale però
+445	BO139	914.79	915.78	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	è m:h	è m:h	è mh
+446	BO139	916.52	918.64	2.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non so è naturale nel [senso] (in realt~)	non so è naturale nel [senso] (in realt~)	non so è naturale nel senso in realt~
+447	BO145	917.74	918.22	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+448	BO145	918.895	920.195	1.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	io credo un' altra cosa	io credo un' altra cosa	io credo un' altra cosa
+449	BO145	920.62	922.33	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ovvero che secondo me	ovvero che secondo me	ovvero che secondo me
+450	BO145	923.45	924.23	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m:h	m:h	mh
+451	BO145	925.13	928.1	2.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	oggi: >cioè< non è che abbiamo fatto chissà quanti	oggi: >cioè< non è che abbiamo fatto chissà quanti	oggi cioè non è che abbiamo fatto chissà quanti
+452	BO145	928.68	929.96	1.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	passi in avanti	passi in avanti	passi in avanti
+453	BO139	930.09	930.48	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+454	BO145	930.53	933.76	3.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	rispetto anche (no)n so: alla fine dell' ottocento per dirti	rispetto anche (no)n so: alla fine dell' ottocento per dirti	rispetto anche non so alla fine dell' ottocento per dirti
+455	BO139	933.76	934.14	0.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+456	BO145	934.31	938.66	4.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	>cioè< giusto il passo avanti è stato fatto secondo me: nelle: nei periodi	>cioè< giusto il passo avanti è stato fatto secondo me: nelle: nei periodi	cioè giusto il passo avanti è stato fatto secondo me nelle nei periodi
+457	BO145	939.55	942.3	2.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	dell' ante~ e del dopoguerra [di entram]be le guerre	dell' ante~ e del dopoguerra [di entram]be le guerre	dell' ante~ e del dopoguerra di entrambe le guerre
+458	BO139	941.14	941.58	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+459	BO139	942.83	943.39	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+460	BO145	942.84	949.33	6.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	27	[però po]i >cioè< c' è stato come un ritorno a quello che c' è già stato fatto oppure no~ e come se fosse sempre continuato però sotto	[però po]i >cioè< c' è stato come un ritorno a quello che c' è già stato fatto oppure no~ e come se fosse sempre continuato però sotto	però poi cioè c' è stato come un ritorno a quello che c' è già stato fatto oppure no~ e come se fosse sempre continuato però sotto
+461	BO145	949.75	950.62	0.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	eh=mh	eh=mh	eh mh
+462	BO145	952.05	956.12	4.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	1, de:~delle	11	modi di~ >cioè< con modi diversi tipo nei periodi de:~delle guerre oppure	modi di~ >cioè< con modi diversi tipo nei periodi de:~delle guerre oppure	modi di~ cioè con modi diversi tipo nei periodi de:~delle guerre oppure
+463	BO145	956.27	957.11	0.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e[::]:h	[e::]:h	eh
+464	BO139	956.36	956.97	0.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+465	BO145	958.475	961.63	3.155	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	oppure che questo flusso che parte insomma	oppure che questo flusso che parte insomma	oppure che questo flusso che parte insomma
+466	BO139	961.98	962.52	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+467	BO145	962.2	965.03	2.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[se]condo me da:l decadentismo che ci siamo proprio	[se]condo me da:l decadentismo che ci siamo proprio	secondo me dal decadentismo che ci siamo proprio
+468	BO139	965.17	965.52	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m[::h]	[m::h]	mh
+469	BO145	965.28	966.98	1.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[>cioè<] e non è mai smesso capito?	[>cioè<] e non è mai smesso capito?	cioè e non è mai smesso capito
+470	BO139	967.18	967.52	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+471	BO145	967.53	968.12	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	può prendere	può prendere	può prendere
+472	BO145	968.35	970.32	1.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	forme come dicevo appunto	forme come dicevo appunto	forme come dicevo appunto
+473	BO145	970.47	971.81	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	nei periodi delle guerre	nei periodi delle guerre	nei periodi delle guerre
+474	BO139	972.12	972.61	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+475	BO145	972.86	974.64	1.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	(nel) prima e nel dopoguerra e	(nel) prima e nel dopoguerra e	nel prima e nel dopoguerra e
+476	BO145	975.215	975.925	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	oppure	oppure	oppure
+477	BO145	976.34	977.57	1.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non e oppure	non e oppure	non e oppure
+478	BO145	978.27	979.34	1.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	continuare	continuare	continuare
+479	BO145	979.73	982.81	3.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	e silenziarsi un po' magari dentro a delle	e silenziarsi un po' magari dentro a delle	e silenziarsi un po' magari dentro a delle
+480	BO145	983.54	986.86	3.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	mura di alcune case nei periodi di alcune guerre quindi che non so~ >cioè<	mura di alcune case nei periodi di alcune guerre quindi che non so~ >cioè<	mura di alcune case nei periodi di alcune guerre quindi che non so~ cioè
+481	BO145	986.95	988.37	1.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non è s[tato mai dato t]roppo	non è s[tato mai dato t]roppo	non è stato mai dato troppo
+482	BO139	987.33	987.88	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+483	BO145	989.05	990.13	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	tropp voce (>in<)somma	tropp voce (>in<)somma	tropp voce insomma
+484	BO145	990.4	990.81	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	a[:]	[a:]	a
+485	BO139	990.62	991.06	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[m]:h	[m]:h	mh
+486	BO145	991.39	993.03	1.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	a questi artisti perché comunque	a questi artisti perché comunque	a questi artisti perché comunque
+487	BO145	993.905	997.125	3.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cioè< ripe~ pensando ad oggi all:' a~ all' arte che va oggi	>cioè< ripe~ pensando ad oggi all:' a~ all' arte che va oggi	cioè ripe~ pensando ad oggi all' a~ all' arte che va oggi
+488	BO145	997.43	997.94	0.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	>cioè< noi	>cioè< noi	cioè noi
+489	BO145	998.72	999.96	1.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	critichiamo perché	critichiamo perché	critichiamo perché
+490	BO145	1001.95	1003.49	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	(>cioè<) io mi se~ io per esempio	(>cioè<) io mi se~ io per esempio	cioè io mi se~ io per esempio
+491	BO145	1004.07	1004.65	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	parlo	parlo	parlo
+492	BO145	1005.22	1008.8	3.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	per esperienza personale senza mette(re) (i)n: mezzo tutta l' umanità intera	per esperienza personale senza mette(re) (i)n: mezzo tutta l' umanità intera	per esperienza personale senza mettere in mezzo tutta l' umanità intera
+493	BO145	1009.235	1010.355	1.12	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sarebbe un po' troppo:	sarebbe un po' troppo:	sarebbe un po' troppo
+494	BO145	1010.62	1011.91	1.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	presuntuoso da parte mia	presuntuoso da parte mia	presuntuoso da parte mia
+495	BO139	1010.94	1012.28	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+496	BO145	1012.435	1012.945	0.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+497	BO145	1013.77	1014.71	0.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	io critico	io critico	io critico
+498	BO145	1016.35	1021.35	5.0	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	la trap perché è un genere musicale che comunque almeno in italia ha preso una piega	la trap perché è un genere musicale che comunque almeno in italia ha preso una piega	la trap perché è un genere musicale che comunque almeno in italia ha preso una piega
+499	BO145	1021.83	1022.26	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	che	che	che
+500	BO145	1024.12	1028.05	3.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	4	0	0	11	>cioè< (.) per me (.) non ha (.) non (.) non è niente di:(=mh)	>cioè< {P} per me {P} non ha {P} non {P} non è niente di:(=mh)	cioè {P} per me {P} non ha {P} non {P} non è niente di mh
+501	BO145	1029.65	1032.67	3.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	di: fo~ >cioè< di=mh no di bello di:=mh	di: fo~ >cioè< di=mh no di bello di:=mh	di fo~ cioè di mh no di bello di mh
+502	BO145	1033.125	1033.925	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	valido	valido	valido
+503	BO139	1034.01	1034.66	0.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+504	BO145	1034.72	1036.98	2.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	però valido come l' ho sempre percepito io	però valido come l' ho sempre percepito io	però valido come l' ho sempre percepito io
+505	BO139	1037.28	1037.74	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+506	BO145	1037.54	1040.24	2.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[>cioè<] un valido quindi che ti insegna delle cose	[>cioè<] un valido quindi che ti insegna delle cose	cioè un valido quindi che ti insegna delle cose
+507	BO145	1040.44	1042.97	2.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	che ti porta a dei buoni insegnamenti di vita	che ti porta a dei buoni insegnamenti di vita	che ti porta a dei buoni insegnamenti di vita
+508	BO139	1043.06	1043.46	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+509	BO145	1043.55	1046.2	2.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	che tu devi cogliere tipo tante canzoni x	che tu devi cogliere tipo tante canzoni x	che tu devi cogliere tipo tante canzoni x
+510	BO145	1046.55	1048.53	1.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	anche artisticamente parlando	anche artisticamente parlando	anche artisticamente parlando
+511	BO139	1048.85	1049.29	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+512	BO145	1048.875	1049.275	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[>cioè<]	[>cioè<]	cioè
+513	BO145	1050.105	1052.435	2.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	uno è abituato a ascoltare il cantautorato italiano	uno è abituato a ascoltare il cantautorato italiano	uno è abituato a ascoltare il cantautorato italiano
+514	BO145	1052.575	1053.705	1.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	o quello anche quello:	o quello anche quello:	o quello anche quello
+515	BO145	1054.415	1055.155	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	estero	estero	estero
+516	BO139	1055.36	1056.08	0.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+517	BO145	1056.22	1059.49	3.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	di un certo periodo vedrà che è sicuramente diverso da quello di adesso	di un certo periodo vedrà che è sicuramente diverso da quello di adesso	di un certo periodo vedrà che è sicuramente diverso da quello di adesso
+518	BO145	1059.88	1064.28	4.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	[però] >cioè< adesso la trap, sfera ebbasta chi cazzo è altri	[però] >cioè< adesso la trap, sfera ebbasta chi cazzo è altri	però cioè adesso la trap sfera ebbasta chi cazzo è altri
+519	BO139	1059.895	1060.395	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+520	BO145	1064.765	1066.115	1.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	>cioè< sono comunque tutti	>cioè< sono comunque tutti	cioè sono comunque tutti
+521	BO145	1066.39	1068.06	1.67	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cantautori tra virgolette no?	cantautori tra virgolette no?	cantautori tra virgolette no
+522	BO139	1068.12	1068.5949999999998	0.48	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+523	BO145	1068.5949999999998	1072.41	3.82	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	17	anche se uno dice eh mamma mia ma tu stai bestemmiando non è vero e invece sì	anche se uno dice eh mamma mia ma tu stai bestemmiando non è vero e invece sì	anche se uno dice eh mamma mia ma tu stai bestemmiando non è vero e invece sì
+524	BO139	1072.795	1073.385	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh [mh mh]	mh [mh mh]	mh mh mh
+525	BO145	1072.945	1073.365	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[>cioè<]	[>cioè<]	cioè
+526	BO145	1073.54	1074.71	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì: invece sì	sì: invece sì	sì invece sì
+527	BO145	1075.16	1078.3	3.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	e non mi viene neanche da di(re) purtroppo però questo >cioè< secondo me	e non mi viene neanche da di(re) purtroppo però questo >cioè< secondo me	e non mi viene neanche da dire purtroppo però questo cioè secondo me
+528	BO145	1079.66	1080.54	0.88	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	un=eh=mh	un=eh=mh	un eh mh
+529	BO145	1081.135	1082.055	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non lo so un	non lo so un	non lo so un
+530	BO145	1082.52	1083.89	1.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	uno stile artistico	uno stile artistico	uno stile artistico
+531	BO145	1084.72	1087.65	2.93	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	molto simile a quell del decadentismo perché per esempio	molto simile a quell del decadentismo perché per esempio	molto simile a quell del decadentismo perché per esempio
+532	BO145	1087.84	1088.75	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	pau~ e:h=mh	pau~ e:h=mh	pau~ eh mh
+533	BO145	1089.1	1090.09	0.99	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì paul	sì paul	sì paul
+534	BO145	1091.08	1091.88	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:h	e:h	eh
+535	BO145	1092.09	1095.87	3.78	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	9	verlaine, rimbaud erano tutti criticati al loro [tempo no?]	verlaine, rimbaud erano tutti criticati al loro [tempo no]?	verlaine rimbaud erano tutti criticati al loro tempo no
+536	BO139	1094.8	1097.55	2.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	1	0	6	((ride)) [li conoscevi per] nome (.) [gli amici]	{ride} [li conoscevi per] nome {P} [gli amici]	{ride} li conoscevi per nome {P} gli amici
+537	BO145	1096.46	1098.54	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	[paul, ver]lain sì ((ride))	[paul, ver]lain sì {ride}	paul verlain sì {ride}
+538	BO139	1098.62	1099.59	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	gli amici del bar	gli amici del bar	gli amici del bar
+539	BO145	1099.09	1100.2	1.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+540	BO145	1100.5	1103.06	2.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	eh verlain e rimbaud erano molto criticati	eh verlain e rimbaud erano molto criticati	eh verlain e rimbaud erano molto criticati
+541	BO139	1103.1	1103.37	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+542	BO145	1103.38	1104.55	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	eppure >cioè< seco~ >cioè<	eppure >cioè< seco~ >cioè<	eppure cioè seco~ cioè
+543	BO145	1104.66	1108.83	4.17	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	17	n~=eh no eppure secondo me ricevevano lo stesso tipo di critiche che magari posso fare io=	n~=eh no eppure secondo me ricevevano lo stesso tipo di critiche che magari posso fare io	n~ eh no eppure secondo me ricevevano lo stesso tipo di critiche che magari posso fare io
+544	BO145	1108.83	1112.92	4.09	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	13	=nei confronti di sfera ebbasta o[: la mh] dark polo gang cacchio sono	nei confronti di sfera ebbasta [o: la mh] dark polo gang cacchio sono	nei confronti di sfera ebbasta o la mh dark polo gang cacchio sono
+545	BO139	1110.44	1110.92	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+546	BO139	1112.93	1113.95	1.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e i trappisti	e i trappisti	e i trappisti
+547	BO139	1113.97	1116.38	2.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+548	BO145	1113.99	1115.63	1.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	esatto i trappisti ((ride))	esatto i trappisti {ride}	esatto i trappisti {ride}
+549	BO145	1116.375	1116.585	0.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+550	BO145	1118.53	1118.9	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+551	BO139	1120.15	1120.58	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+552	BO145	1121.35	1125.01	3.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	il il pun~ >cioè< secondo me il fulcro, il nocciolo dell~ del	il il pun~ >cioè< secondo me il fulcro, il nocciolo dell~ del	il il pun~ cioè secondo me il fulcro il nocciolo dell~ del
+553	BO145	1125.19	1125.93	0.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	nozzolo	nozzolo	nozzolo
+554	BO145	1126.065	1129.155	3.09	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	il nocciolo del di queste due arti messe a [para]gone	il nocciolo del di queste due arti messe a [para]gone	il nocciolo del di queste due arti messe a paragone
+555	BO139	1128.44	1128.74	0.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+556	BO145	1129.89	1131.73	1.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	è sempre lo stesso ovvero rappresentare	è sempre lo stesso ovvero rappresentare	è sempre lo stesso ovvero rappresentare
+557	BO145	1132.2	1133.17	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	la società che	la società che	la società che
+558	BO145	1134.19	1135.05	0.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	è in corso	è in corso	è in corso
+559	BO139	1135.2	1135.67	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+560	BO145	1135.47	1136.36	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[>cioè< la] società del loro	[>cioè< la] società del loro	cioè la società del loro
+561	BO145	1137.4	1139.08	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	lo~ >cioè< in cui vivono loro	lo~ >cioè< in cui vivono loro	lo~ cioè in cui vivono loro
+562	BO139	1139.41	1139.89	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+563	BO145	1139.89	1140.81	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e secondo me	e secondo me	e secondo me
+564	BO145	1142.04	1143.36	1.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	>cioè< la dark polo gang	>cioè< la dark polo gang	cioè la dark polo gang
+565	BO145	1143.78	1145.96	2.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non è che ha lanciato un nuovo stile	non è che ha lanciato un nuovo stile	non è che ha lanciato un nuovo stile
+566	BO139	1146.27	1146.7	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+567	BO145	1146.3	1150.55	4.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	[sì] magari in parte sì. perché comunque sono artisti anche no a modo loro	[sì] magari in parte sì. perché comunque sono artisti anche no a modo loro	sì magari in parte sì perché comunque sono artisti anche no a modo loro
+568	BO139	1150.69	1151.22	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+569	BO145	1150.73	1154.26	3.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	[anche se fa] strano dargli questo nome, questo appellativo di artisti	[anche se fa] strano dargli questo nome, questo appellativo di artisti	anche se fa strano dargli questo nome questo appellativo di artisti
+570	BO139	1154.37	1155.03	0.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+571	BO145	1155.14	1156.43	1.29	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	però effettivamente lo sono	però effettivamente lo sono	però effettivamente lo sono
+572	BO139	1156.76	1157.16	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m[::h]	[m::h]	mh
+573	BO145	1156.91	1157.165	0.255	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[e]	[e]	e
+574	BO145	1157.655	1158.385	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	descrivono	descrivono	descrivono
+575	BO145	1159.04	1162.38	3.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	il periodo e secondo me lo fanno molto bene nel senso che	il periodo e secondo me lo fanno molto bene nel senso che	il periodo e secondo me lo fanno molto bene nel senso che
+576	BO145	1164.59	1165.78	1.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	>cioè< un: >cioè<	>cioè< un: >cioè<	cioè un cioè
+577	BO145	1166.15	1169.55	3.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	per esempio nei nei piccoli nei giovani >cioè< loro si comportano tutti così	per esempio nei nei piccoli nei giovani >cioè< loro si comportano tutti così	per esempio nei nei piccoli nei giovani cioè loro si comportano tutti così
+578	BO145	1169.925	1171.715	1.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e se vengono presi questi qua	e se vengono presi questi qua	e se vengono presi questi qua
+579	BO145	1172.01	1175.58	3.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	xx la dark polo, sfera ebbasta come (.) esempi	xx la dark polo, sfera ebbasta come {P} esempi	x la dark polo sfera ebbasta come {P} esempi
+580	BO139	1175.7	1176.26	0.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+581	BO145	1176.98	1177.41	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+582	BO145	1178.48	1181.62	3.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	significa che è come: quando:	significa che è come: quando:	significa che è come quando
+583	BO145	1182.29	1183.27	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sono usciti gli abba	sono usciti gli abba	sono usciti gli abba
+584	BO145	1183.48	1185.1	1.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	che tutti li [segui]vano per un motivo	che tutti li [segui]vano per un motivo	che tutti li seguivano per un motivo
+585	BO139	1183.91	1184.18	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+586	BO145	1185.48	1186.58	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	o[ppure i quee]n=eh no?	o[ppure i quee]n=eh no?	oppure i queen eh no
+587	BO139	1185.62	1186.08	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+588	BO139	1186.78	1187.25	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+589	BO145	1186.83	1189.41	2.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	[i queen ha(nno) da]to voce ai repressi ai: non lo so a	[i queen ha(nno) da]to voce ai repressi ai: non lo so a	i queen hanno dato voce ai repressi ai non lo so a
+590	BO145	1190.605	1192.48	1.875	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	a chi era un po' outsider e secondo me	a chi era un po' outsider e secondo me	a chi era un po' outsider e secondo me
+591	BO139	1192.73	1193.13	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+592	BO145	1192.835	1194.545	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[sta s]uccedendo anche >cioè<	[sta s]uccedendo anche >cioè<	sta succedendo anche cioè
+593	BO145	1195.515	1196.915	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	anche adesso questa cosa	anche adesso questa cosa	anche adesso questa cosa
+594	BO139	1197.24	1197.78	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh [mh]	mh mh [mh]	mh mh mh
+595	BO145	1197.62	1200.69	3.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	9	[quindi] non è proprio (.) così d:iverso rispetto a prima	[quindi] non è proprio {P} così d:iverso rispetto a prima	quindi non è proprio {P} così diverso rispetto a prima
+596	BO139	1201.135	1201.73	0.595	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+597	BO145	1201.74	1204.5	2.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	>cioè< l' arte fa sempre il suo dovere lo sta facendo anche a~ o~ anche ora	>cioè< l' arte fa sempre il suo dovere lo sta facendo anche a~ o~ anche ora	cioè l' arte fa sempre il suo dovere lo sta facendo anche a~ o~ anche ora
+598	BO139	1204.89	1205.3	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+599	BO145	1204.925	1206.695	1.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[però sta] prendendo pieghe diverse	[però sta] prendendo pieghe diverse	però sta prendendo pieghe diverse
+600	BO139	1207.025	1207.525	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+601	BO145	1207.55	1210.63	3.08	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	14	e la [critica >cioè< c' è s]empre stata e questa non la possiamo togliere=	e la [critica >cioè< c' è s]empre stata e questa non la possiamo togliere	e la critica cioè c' è sempre stata e questa non la possiamo togliere
+602	BO139	1207.86	1208.66	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[(vabbè) certo]	[(vabbè) certo]	vabbè certo
+603	BO145	1210.63	1213.105	2.475	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	11	=ed è bello che ci sia la critica perché è costruttiva	ed è bello che ci sia la critica perché è costruttiva	ed è bello che ci sia la critica perché è costruttiva
+604	BO139	1213.63	1214.17	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+605	BO145	1213.63	1215.19	1.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[tante volte] no ma tante volte lo è	[tante volte] no ma tante volte lo è	tante volte no ma tante volte lo è
+606	BO145	1215.59	1216.66	1.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	eh però:	eh però:	eh però
+607	BO145	1216.91	1217.74	0.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((sospira))	{sospira}	{sospira}
+608	BO145	1219.28	1222.06	2.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	non lo so o anche il pagante per esempio che uno dice	non lo so o anche il pagante per esempio che uno dice	non lo so o anche il pagante per esempio che uno dice
+609	BO145	1222.42	1224.11	1.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[è s~ è] un deficiente che canta sì	[è s~ è] un deficiente che canta sì	è s~ è un deficiente che canta sì
+610	BO139	1222.49	1222.81	0.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+611	BO145	1224.45	1224.82	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+612	BO145	1224.95	1226.49	1.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	<[descriv]e benissimo>	<[descriv]e benissimo>	descrive benissimo
+613	BO139	1225.03	1225.52	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sono tre]	[sono tre]	sono tre
+614	BO145	1226.57	1230.75	4.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	11	sono tre deficienti che cantano sì però descrive be~ ((ride)) descrivono benissimo	sono tre deficienti che cantano sì però descrive be~ {ride} descrivono benissimo	sono tre deficienti che cantano sì però descrive be~ {ride} descrivono benissimo
+615	BO139	1227.745	1230.105	2.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+616	BO145	1232.145	1234.685	2.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	il: periodo >cioè< la [vita del milane]se	il: periodo >cioè< la [vita del milane]se	il periodo cioè la vita del milanese
+617	BO139	1233.48	1234.37	0.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[sì sì sì sì]	[sì sì sì sì]	sì sì sì sì
+618	BO139	1235.04	1236.42	1.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e inf[atti stavo pensando a loro]	e inf[atti stavo pensando a loro]	e infatti stavo pensando a loro
+619	BO145	1235.19	1236.67	1.48	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[ o myss keta anche] no?	[o myss keta anche] no?	o myss keta anche no
+620	BO139	1236.765	1237.265	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+621	BO145	1236.765	1237.265	0.5	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[>cioè<]	[>cioè<]	cioè
+622	BO145	1238.18	1239.14	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	immanuel casto?	immanuel casto?	immanuel casto
+623	BO145	1239.745	1241.875	2.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< [(è)] immanuel casto. immanuel casto è	>cioè< [(è)] immanuel casto. immanuel casto è	cioè è immanuel casto immanuel casto è
+624	BO139	1239.895	1240.175	0.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+625	BO145	1242.24	1242.81	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non lo so	non lo so	non lo so
+626	BO139	1243.05	1243.74	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+627	BO145	1243.92	1245.35	1.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	dà la voce a chi	dà la voce a chi	dà la voce a chi
+628	BO145	1245.88	1246.68	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	secondo me	secondo me	secondo me
+629	BO145	1247.28	1247.96	0.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non c' ha	non c' ha	non c' ha
+630	BO145	1248.43	1250.15	1.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non osa dire	non osa dire	non osa dire
+631	BO139	1250.77	1251.24	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+632	BO145	1251.61	1254.02	2.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	fare coming out quindi (dire) la propria vera	fare coming out quindi (dire) la propria vera	fare coming out quindi dire la propria vera
+633	BO145	1254.49	1255.26	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	natura:	natura:	natura
+634	BO145	1255.53	1257.92	2.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	orientamento sessuale no (no)n [so come] dire	orientamento sessuale no (no)n [so come] dire	orientamento sessuale no non so come dire
+635	BO139	1257.07	1257.48	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+636	BO145	1258.52	1259.14	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	anzi	anzi	anzi
+637	BO145	1259.39	1261.21	1.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	molto più approfonditamente penso che	molto più approfonditamente penso che	molto più approfonditamente penso che
+638	BO145	1261.51	1263.69	2.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	immanuel casto dia semplicemente	immanuel casto dia semplicemente	immanuel casto dia semplicemente
+639	BO145	1265.46	1269.21	3.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cioè< faccia osare le persone a pensare quella cosa che tu non	>cioè< faccia osare le persone a pensare quella cosa che tu non	cioè faccia osare le persone a pensare quella cosa che tu non
+640	BO145	1269.85	1272.09	2.24	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	non vuoi (.) >cioè< quella cosa:	non vuoi {P} >cioè< quella cosa:	non vuoi {P} cioè quella cosa
+641	BO145	1273.26	1275.27	2.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	a cui tu non vuoi pensare perché la reputi	a cui tu non vuoi pensare perché la reputi	a cui tu non vuoi pensare perché la reputi
+642	BO145	1275.62	1276.47	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	troppo	troppo	troppo
+643	BO145	1277.05	1277.96	0.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	troppo:	troppo:	troppo
+644	BO139	1278.17	1278.58	0.41	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	tabù?	tabù?	tabù
+645	BO145	1278.83	1279.44	0.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì:	sì:	sì
+646	BO145	1279.82	1280.74	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	capito? [>cioè<]	capito? [>cioè<]	capito cioè
+647	BO139	1280.41	1280.76	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+648	BO145	1281.86	1286.01	4.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	non è che dev(i) dare (a) voce per forza agli omosessuali puoi dare voce anche ai trans oppure a	non è che dev(i) dare (a) voce per forza agli omosessuali puoi dare voce anche ai trans oppure a	non è che devi dare a voce per forza agli omosessuali puoi dare voce anche ai trans oppure a
+649	BO145	1286.62	1288.7	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	(u)n:~ una persona >cioè< non lo so	(u)n:~ una persona >cioè< non lo so	un~ una persona cioè non lo so
+650	BO145	1289.55	1290.98	1.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	una persona che dentro:	una persona che dentro:	una persona che dentro
+651	BO145	1291.51	1296.78	5.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	21	>cioè< che ha sessant' anni, ha un lavoro fisso, ha una famiglia ma dentro di sé ha sempre voluto provare magari	>cioè< che ha sessant' anni, ha un lavoro fisso, ha una famiglia ma dentro di sé ha sempre voluto provare magari	cioè che ha sessant' anni ha un lavoro fisso ha una famiglia ma dentro di sé ha sempre voluto provare magari
+652	BO145	1297.3	1298.85	1.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e:h m:h	e:h m:h	eh mh
+653	BO145	1300.35	1302.42	2.07	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	(un) un rapporto con un maschio	(un) un rapporto con un maschio	un un rapporto con un maschio
+654	BO139	1302.56	1303.28	0.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+655	BO145	1303.31	1303.64	0.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	quindi	quindi	quindi
+656	BO145	1304.14	1304.6	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+657	BO145	1305.69	1307.25	1.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	per (.) non è tanto	per {P} non è tanto	per {P} non è tanto
+658	BO145	1308.9	1310.01	1.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	catalogarlo	catalogarlo	catalogarlo
+659	BO139	1310.29	1310.52	0.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+660	BO145	1310.53	1311.15	0.62	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	per=eh	per=eh	per eh
+661	BO145	1313.26	1314.74	1.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	>cioè< catalogarlo per=eh	>cioè< catalogarlo per=eh	cioè catalogarlo per eh
+662	BO145	1314.99	1317.47	2.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	per le persone considerat[e ora] diverse	per le persone considerat[e ora] diverse	per le persone considerate ora diverse
+663	BO139	1316.31	1316.57	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+664	BO145	1318.31	1319.96	1.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	quindi omosessuali >(ec)cetera eccetera<	quindi omosessuali >(ec)cetera eccetera<	quindi omosessuali eccetera eccetera
+665	BO145	1320.3	1322.6	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	però è proprio il fatto che lui riesce a	però è proprio il fatto che lui riesce a	però è proprio il fatto che lui riesce a
+666	BO145	1322.9	1323.75	0.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	secondo me	secondo me	secondo me
+667	BO145	1324.63	1326.2	1.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	far parlare anche chi	far parlare anche chi	far parlare anche chi
+668	BO139	1327.84	1328.29	0.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+669	BO145	1328.36	1332.75	4.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	12	è sempre stato reputato normale (.) o si reputa (.) da sempre normale ca[pito]	è sempre stato reputato normale {P} o si reputa {P} da sempre normale ca[pito]	è sempre stato reputato normale {P} o si reputa {P} da sempre normale capito
+670	BO139	1332.32	1332.78	0.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+671	BO145	1333.85	1334.32	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	po(i) vabbè	po(i) vabbè	poi vabbè
+672	BO145	1334.73	1339.63	4.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	il f:atto de: della chiesa vabbè chiaramente lui si deve attaccare contro qualcosa ma quello	il f:atto de: della chiesa vabbè chiaramente lui si deve attaccare contro qualcosa ma quello	il fatto de della chiesa vabbè chiaramente lui si deve attaccare contro qualcosa ma quello
+673	BO145	1339.885	1341.015	1.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	è il suo stile	è il suo stile	è il suo stile
+674	BO145	1342.37	1343.06	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	quindi	quindi	quindi
+675	BO145	1344.54	1350.44	5.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	<accentuare un lato omosessuale dei preti: pedofili di oggi:> >cioè< non la vedo una cosa così	<accentuare un lato omosessuale dei preti: pedofili di oggi:> >cioè< non la vedo una cosa così	accentuare un lato omosessuale dei preti pedofili di oggi cioè non la vedo una cosa così
+676	BO145	1350.865	1352.555	1.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	orribile perché comunque succede	orribile perché comunque succede	orribile perché comunque succede
+677	BO139	1352.78	1353.18	0.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m[:h]	[m:h]	mh
+678	BO145	1353.02	1354.94	1.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[quind]i nel senso perché non parlarne	[quind]i nel senso perché non parlarne	quindi nel senso perché non parlarne
+679	BO139	1355.095	1355.485	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m[:h]	[m:h]	mh
+680	BO145	1355.23	1356.51	1.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	679=0.255	False	0	0	0	4	>cioè< la bellezza del:	>cioè< la bellezza del:	cioè la bellezza del
+681	BO145	1356.8	1359.28	2.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	(°>del<°)l' onestà intellettuale è questa no? non so come dire	(°>del<°)l' onestà intellettuale è questa no? non so come dire	dell' onestà intellettuale è questa no non so come dire
+682	BO139	1359.315	1359.665	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+683	BO139	1362.04	1363.65	1.61	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	da oggi ti chiamo socs comunque	da oggi ti chiamo socs comunque	da oggi ti chiamo socs comunque
+684	BO139	1363.82	1365.33	1.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	stream of conscoiusnes:::	stream of conscoiusnes:::	stream of conscoiusnes
+685	BO145	1363.82	1364.33	0.51	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+686	BO145	1365.64	1366.82	1.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	oh scusa eh	oh scusa eh	oh scusa eh
+687	BO139	1366.84	1369.7	2.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	no sì sì no mi piace è un sacco di materiale	no sì sì no mi piace è un sacco di materiale	no sì sì no mi piace è un sacco di materiale
+688	BO145	1367.68	1368.22	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+689	BO139	1370.16	1370.64	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+690	BO145	1370.68	1372.96	2.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	3	[eh va]bbè però ((ride))	[eh va]bbè però {ride}	eh vabbè però {ride}
+691	BO139	1370.7	1371.06	0.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[grazie]	[grazie]	grazie
+692	BO139	1372.615	1373.445	0.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+693	BO139	1373.49	1375.2	1.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	no è bello hai fatto un sacco di collegamenti	no è bello hai fatto un sacco di collegamenti	no è bello hai fatto un sacco di collegamenti
+694	BO139	1376.39	1380.74	4.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	m=oh eh >non lo so< io: ho sempre dei pensieri misti su certi artisti >cioè< nel senso che:	m=oh eh >non lo so< io: ho sempre dei pensieri misti su certi artisti >cioè< nel senso che:	m oh eh non lo so io ho sempre dei pensieri misti su certi artisti cioè nel senso che
+695	BO139	1382.97	1386.98	4.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	ho anche due modi per vedere gli artisti. uno come dire: °e:h°di quello che	ho anche due modi per vedere gli artisti. uno come dire: °e:h°di quello che	ho anche due modi per vedere gli artisti uno come dire ehdi quello che
+696	BO139	1387.89	1390.61	2.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	prende atto di quello che sta succedendo sulla scena musicale	prende atto di quello che sta succedendo sulla scena musicale	prende atto di quello che sta succedendo sulla scena musicale
+697	BO139	1391.22	1392.92	1.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	6	°vabbè tanto è quello che seguo x° ((ride))	°vabbè tanto è quello che seguo x° {ride}	vabbè tanto è quello che seguo x {ride}
+698	BO145	1393.03	1393.56	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	certo	certo	certo
+699	BO139	1393.58	1394.36	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:h	e:h	eh
+700	BO139	1395.59	1399.42	3.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	e dall' altra poi esprimere q~ >cioè< qual=a=l è la mia opinione: nel senso	e dall' altra poi esprimere q~ >cioè< qual=a=l è la mia opinione: nel senso	e dall' altra poi esprimere q~ cioè qual a l è la mia opinione nel senso
+701	BO139	1400.39	1402.75	2.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	cosa v:ogio fare io cosa vorre fare io no?	cosa v:ogio fare io cosa vorre fare io no?	cosa vogio fare io cosa vorre fare io no
+702	BO139	1403.74	1404.8	1.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e:h=m:h	e:h=m:h	eh mh
+703	BO139	1406.25	1407.78	1.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non lo so >cioè:<=mh	non lo so >cioè:<=mh	non lo so cioè mh
+704	BO139	1410.07	1412.08	2.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	non c' è nessun artista di cui dico a:h	non c' è nessun artista di cui dico a:h	non c' è nessun artista di cui dico ah
+705	BO139	1412.37	1416.15	3.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	sono: >cioè< che: se lui ha: successo lui o lei	sono: >cioè< che: se lui ha: successo lui o lei	sono cioè che se lui ha successo lui o lei
+706	BO139	1416.27	1418.03	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	[perché] >cioè< se hanno successo vuol dire che hanno c~	[perché] >cioè< se hanno successo vuol dire che hanno c~	perché cioè se hanno successo vuol dire che hanno c~
+707	BO145	1416.27	1416.74	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+708	BO139	1418.3	1421.05	2.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	capito capito qualcosa o hanno trovato una chiave [per aver]lo	capito capito qualcosa o hanno trovato una chiave [per aver]lo	capito capito qualcosa o hanno trovato una chiave per averlo
+709	BO145	1420.32	1420.91	0.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[esatto]	[esatto]	esatto
+710	BO139	1421.63	1422.36	0.73	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:h	e:h	eh
+711	BO139	1422.51	1423.29	0.78	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e hanno fatto bene	e hanno fatto bene	e hanno fatto bene
+712	BO139	1423.8	1425.57	1.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	però non so altre volte mi sembra	però non so altre volte mi sembra	però non so altre volte mi sembra
+713	BO139	1425.95	1429.0	3.05	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	11	ma questa non è non è una novità: per per niente ((ride))	ma questa non è non è una novità: per per niente {ride}	ma questa non è non è una novità per per niente {ride}
+714	BO139	1429.81	1430.73	0.92	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	è che:	è che:	è che
+715	BO139	1430.86	1433.24	2.38	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	>cioè< che si cerchi più come dire la cosa che funziona	>cioè< che si cerchi più come dire la cosa che funziona	cioè che si cerchi più come dire la cosa che funziona
+716	BO139	1433.575	1434.975	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	piuttosto che la cosa che:	piuttosto che la cosa che:	piuttosto che la cosa che
+717	BO139	1435.725	1437.415	1.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	pensi possa rimanere nel tempo	pensi possa rimanere nel tempo	pensi possa rimanere nel tempo
+718	BO139	1437.49	1439.23	1.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e non perché tu debba essere:	e non perché tu debba essere:	e non perché tu debba essere
+719	BO139	1439.53	1441.75	2.22	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	quello che il tuo lavoro debba essere <immortale>	quello che il tuo lavoro debba essere <immortale>	quello che il tuo lavoro debba essere immortale
+720	BO139	1442.245	1444.395	2.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	perché n~ (non) >cioè< non è quello:	perché n~ (non) >cioè< non è quello:	perché n~ non cioè non è quello
+721	BO139	1444.81	1445.91	1.1	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	lo scopo secondo me	lo scopo secondo me	lo scopo secondo me
+722	BO139	1446.32	1447.67	1.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	però non so come dire	però non so come dire	però non so come dire
+723	BO139	1448.97	1450.05	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	se fai una cosa	se fai una cosa	se fai una cosa
+724	BO139	1451.42	1452.07	0.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e poi	e poi	e poi
+725	BO139	1452.5	1454.73	2.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	tu non lo puoi sapere all'=eh già: da dall' inizio	tu non lo puoi sapere all'=eh già: da dall' inizio	tu non lo puoi sapere all' eh già da dall' inizio
+726	BO139	1455.05	1455.52	0.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+727	BO139	1455.82	1458.37	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	un' opera d' arte che <rimane:> nel tempo	un' opera d' arte che <rimane:> nel tempo	un' opera d' arte che rimane nel tempo
+728	BO139	1458.54	1461.52	2.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< che rimane famosa, rimane apprezzata, rimane:	>cioè< che rimane famosa, rimane apprezzata, rimane:	cioè che rimane famosa rimane apprezzata rimane
+729	BO139	1461.83	1463.38	1.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	n:ei cuori delle persone	n:ei cuori delle persone	nei cuori delle persone
+730	BO139	1463.91	1464.92	1.01	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	nel tempo	nel tempo	nel tempo
+731	BO139	1465.11	1467.19	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>cioè< a~=anche a livello di generazioni non solo	>cioè< a~=anche a livello di generazioni non solo	cioè a~ anche a livello di generazioni non solo
+732	BO139	1467.44	1472.64	5.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	25	ah ti ricordi quella band di mer[da ah di però] quando noi eravam piccoli ah che cantavamo lì ah chissà adesso dove s~ son finiti	ah ti ricordi quella band di mer[da ah di però] quando noi eravam piccoli ah che cantavamo lì ah chissà adesso dove s~ son finiti	ah ti ricordi quella band di merda ah di però quando noi eravam piccoli ah che cantavamo lì ah chissà adesso dove s~ son finiti
+733	BO145	1468.765	1469.335	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	1	[mh] ((ride))	[mh] {ride}	mh {ride}
+734	BO139	1472.64	1474.12	1.48	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	7	=>cioè< non non quella roba [lì ma]	>cioè< non non quella roba [lì ma]	cioè non non quella roba lì ma
+735	BO145	1473.72	1474.14	0.42	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+736	BO139	1474.52	1479.37	4.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	tipo: un secoldo dopo a:h cent' anni fa c' era questo artista gran[dissi(mo) xx ques]ta canzone così	tipo: un secoldo dopo a:h cent' anni fa c' era questo artista gran[dissi(mo) xx ques]ta canzone così	tipo un secoldo dopo ah cent' anni fa c' era questo artista grandissimo x questa canzone così
+737	BO145	1477.85	1478.48	0.63	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sì sì]	[sì sì]	sì sì
+738	BO139	1479.85	1482.31	2.46	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	>cioè< secondo è quello un po' il metro di misura	>cioè< secondo è quello un po' il metro di misura	cioè secondo è quello un po' il metro di misura
+739	BO139	1483.16	1484.16	1.0	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	di: un:	di: un:	di un
+740	BO139	1484.915	1488.505	3.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	un' opera d' arte valida, qualcosa che parli: al cuore dell' essere umano	un' opera d' arte valida, qualcosa che parli: al cuore dell' essere umano	un' opera d' arte valida qualcosa che parli al cuore dell' essere umano
+741	BO139	1488.99	1491.93	2.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	11	anche a distanza di di d:e (.) di tempo e di spazio	anche a distanza di di d:e {P} di tempo e di spazio	anche a distanza di di de {P} di tempo e di spazio
+742	BO139	1492.295	1495.135	2.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	e:h non so >cioè< non so in quanti in realtà abbiano	e:h non so >cioè< non so in quanti in realtà abbiano	eh non so cioè non so in quanti in realtà abbiano
+743	BO139	1496.01	1498.69	2.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	a cuore questa cosa perché >cioè< è vero che comunque	a cuore questa cosa perché >cioè< è vero che comunque	a cuore questa cosa perché cioè è vero che comunque
+744	BO139	1499.19	1503.0	3.81	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	16	fare il musicista è un lavoro, devi pagare le bollette, devi fare qualcosa che ti dia ((ride))	fare il musicista è un lavoro, devi pagare le bollette, devi fare qualcosa che ti dia {ride}	fare il musicista è un lavoro devi pagare le bollette devi fare qualcosa che ti dia {ride}
+745	BO139	1503.24	1506.56	3.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	i soldi da [pagare le] bollette adesso e non tra un secolo quando sei morto	i soldi da [pagare le] bollette adesso e non tra un secolo quando sei morto	i soldi da pagare le bollette adesso e non tra un secolo quando sei morto
+746	BO145	1504.1	1504.44	0.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+747	BO139	1507.13	1507.93	0.8	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però:	però:	però
+748	BO139	1508.69	1513.44	4.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	non so mi chiedo sempre in quanti abbiano effettivamente in mente questa cosa di voler far qualcosa che	non so mi chiedo sempre in quanti abbiano effettivamente in mente questa cosa di voler far qualcosa che	non so mi chiedo sempre in quanti abbiano effettivamente in mente questa cosa di voler far qualcosa che
+749	BO145	1514.8	1516.0	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non lo s[o sai]	non lo s[o sai]	non lo so sai
+750	BO139	1515.345	1516.375	1.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[che che rima]nga	[che che rima]nga	che che rimanga
+751	BO139	1517.245	1518.215	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e anche di >cioè<	e anche di >cioè<	e anche di cioè
+752	BO139	1518.665	1522.235	3.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	a volte mi chiedo anche di tutti quelli che fanno: (comunque) i generi di moda così	a volte mi chiedo anche di tutti quelli che fanno: (comunque) i generi di moda così	a volte mi chiedo anche di tutti quelli che fanno comunque i generi di moda così
+753	BO139	1522.67	1524.95	2.28	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< sicuramente c' è chi ci crede veramente	>cioè< sicuramente c' è chi ci crede veramente	cioè sicuramente c' è chi ci crede veramente
+754	BO139	1525.3	1527.17	1.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ma secondo me c' è anche qualcuno che lo fa	ma secondo me c' è anche qualcuno che lo fa	ma secondo me c' è anche qualcuno che lo fa
+755	BO139	1527.76	1531.63	3.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	perché a perché per calcolo no? >cioè< adesso funziona 'sta cosa quindi faccio quest(o)	perché a perché per calcolo no? >cioè< adesso funziona 'sta cosa quindi faccio quest(o)	perché a perché per calcolo no cioè adesso funziona 'sta cosa quindi faccio questo
+756	BO139	1532.14	1536.63	4.49	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	19	quello non so come funzioni perché comunque in arte devi essere molto convinto di quello che fai per sfondare=	quello non so come funzioni perché comunque in arte devi essere molto convinto di quello che fai per sfondare	quello non so come funzioni perché comunque in arte devi essere molto convinto di quello che fai per sfondare
+757	BO139	1536.68	1537.44	0.76	True	False	0	0	0	0	0	1	0	0	False	False	False	False	False	_	False	0	0	0	4	=se no non riesci	se no non riesci	se no non riesci
+758	BO145	1537.48	1537.97	0.49	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+759	BO139	1538.01	1540.15	2.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	a pomparlo abbastanza, non sei mai >cioè<	a pomparlo abbastanza, non sei mai >cioè<	a pomparlo abbastanza non sei mai cioè
+760	BO139	1540.84	1542.8	1.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	9	se ti vergogni di quello che fai si vede ((ride))	se ti vergogni di quello che fai si vede {ride}	se ti vergogni di quello che fai si vede {ride}
+761	BO145	1543.04	1543.59	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+762	BO139	1543.6	1544.64	1.04	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	quindi: non lo so	quindi: non lo so	quindi non lo so
+763	BO139	1544.86	1546.26	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	semplicemente è che magari io mh	semplicemente è che magari io mh	semplicemente è che magari io mh
+764	BO139	1546.71	1549.16	2.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	mh a me non piacciono certi generi così quindi	mh a me non piacciono certi generi così quindi	mh a me non piacciono certi generi così quindi
+765	BO139	1549.44	1551.18	1.74	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	è tipo una mia proiezione mentale	è tipo una mia proiezione mentale	è tipo una mia proiezione mentale
+766	BO139	1551.565	1556.895	5.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	sugli artis[ti dire ah ma]gari a lui n:eanche a lui piace fare questa cosa xxxx non lo posso sapere	sugli artis[ti dire ah ma]gari a lui n:eanche a lui piace fare questa cosa xxxx non lo posso sapere	sugli artisti dire ah magari a lui neanche a lui piace fare questa cosa x non lo posso sapere
+767	BO145	1552.345	1553.245	0.9	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[vabbè (ma perché una)]	[vabbè (ma perché una)]	vabbè ma perché una
+768	BO139	1557.42	1559.33	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	però così m~ mi piace chieder[mi]	però così m~ mi piace chieder[mi]	però così m~ mi piace chiedermi
+769	BO145	1558.92	1561.81	2.89	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	[vabbè io n]on la chiamerei proiezione mentale >cioè< me sembra un po':	[vabbè io n]on la chiamerei proiezione mentale >cioè< me sembra un po':	vabbè io non la chiamerei proiezione mentale cioè me sembra un po'
+770	BO145	1562.44	1565.76	3.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	riduttivo >cioè< sarà un tuo pien~ un tuo pensiero che [dici]:	riduttivo >cioè< sarà un tuo pien~ un tuo pensiero che [dici]:	riduttivo cioè sarà un tuo pien~ un tuo pensiero che dici
+771	BO139	1565.32	1565.59	0.27	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+772	BO139	1566.68	1567.63	0.95	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	sì [sì no nel s~ x]	sì [sì no nel s~ x]	sì sì no nel s~ x
+773	BO145	1566.91	1571.26	4.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	[questo magari] >cioè< è giusto che tu è legittimo quello che pensi nel [senso non è] che:	[questo magari] >cioè< è giusto che tu è legittimo quello che pensi nel [senso non è] che:	questo magari cioè è giusto che tu è legittimo quello che pensi nel senso non è che
+774	BO139	1570.19	1570.67	0.48	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+775	BO139	1572.575	1573.115	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+776	BO145	1572.59	1573.12	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((sospira))	{sospira}	{sospira}
+777	BO145	1573.16	1578.48	5.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	18	è normalissimo pensarla in que[sto modo ma]gari poi soprattuo chi (.) è in mezzo >cioè< io l~ lo lo:	è normalissimo pensarla in que[sto modo ma]gari poi soprattuo chi {P} è in mezzo >cioè< io l~ lo lo:	è normalissimo pensarla in questo modo magari poi soprattuo chi {P} è in mezzo cioè io l~ lo lo
+778	BO139	1574.65	1575.23	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+779	BO145	1578.97	1580.16	1.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	lo studio più:	lo studio più:	lo studio più
+780	BO145	1580.64	1582.66	2.02	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	da persona, da essere vivente	da persona, da essere vivente	da persona da essere vivente
+781	BO139	1583.14	1583.58	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+782	BO145	1583.18	1587.31	4.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	[che ha dei gus]ti musicali e che s~ studia cose >cioè< ma[terie umanist]iche	[che ha dei gus]ti musicali e che s~ studia cose >cioè< ma[terie umanist]iche	che ha dei gusti musicali e che s~ studia cose cioè materie umanistiche
+783	BO139	1586.43	1587.06	0.63	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[mh mh mh ]	[mh mh mh]	mh mh mh
+784	BO139	1587.46	1587.83	0.37	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+785	BO145	1587.68	1591.21	3.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	[qu]indi il mio è un apprroccio totalmente diverso dal tuo secondo me	[qu]indi il mio è un apprroccio totalmente diverso dal tuo secondo me	quindi il mio è un apprroccio totalmente diverso dal tuo secondo me
+786	BO139	1591.34	1591.73	0.39	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+787	BO145	1591.53	1594.08	2.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	2	0	0	7	[in pa~] (.) no oddio no (.) non totalmen(te)	[in pa~] {P} no oddio no {P} non totalmen(te)	in pa~ {P} no oddio no {P} non totalmente
+788	BO145	1594.25	1596.39	2.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	in parte diverso madonna che belli	in parte diverso madonna che belli	in parte diverso madonna che belli
+789	BO139	1597.31	1597.88	0.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+790	BO139	1600.51	1606.86	6.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	26	non so mi pareva che fosse nel primo canto del paradiso di dante a proposito di a proposito di opere d' arte che rimangono nel tempo ((ride))	non so mi pareva che fosse nel primo canto del paradiso di dante a proposito di a proposito di opere d' arte che rimangono nel tempo {ride}	non so mi pareva che fosse nel primo canto del paradiso di dante a proposito di a proposito di opere d' arte che rimangono nel tempo {ride}
+791	BO145	1608.12	1610.23	2.11	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	°belli belli° [eh sì sì]  dicevi	°belli belli° [eh sì sì] dicevi	belli belli eh sì sì dicevi
+792	BO139	1609.08	1609.78	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[che:]	[che:]	che
+793	BO139	1610.8	1613.16	2.36	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	non mi ricordo esattamente come lo mettesse però >cioè< che	non mi ricordo esattamente come lo mettesse però >cioè< che	non mi ricordo esattamente come lo mettesse però cioè che
+794	BO139	1614.14	1615.7	1.56	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	è che po~=mh >cioè:<	è che po~=mh >cioè:<	è che po~ mh cioè
+795	BO139	1616.315	1619.145	2.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	mancava l~ manca la gente che: che osi	mancava l~ manca la gente che: che osi	mancava l~ manca la gente che che osi
+796	BO139	1619.32	1621.08	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	cercare di essere quella	cercare di essere quella	cercare di essere quella
+797	BO139	1621.42	1622.38	0.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	fare quella cosa in più	fare quella cosa in più	fare quella cosa in più
+798	BO139	1623.6	1627.44	3.84	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	vabbè niente direi che possiamo chiudere questa conversazione su ques[ta nota altissima]	vabbè niente direi che possiamo chiudere questa conversazione su ques[ta nota altissima]	vabbè niente direi che possiamo chiudere questa conversazione su questa nota altissima
+799	BO145	1625.46	1629.21	3.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	[s:ì dai adesso devo guarda(re) i cost]umi da calzedonia c' ho da fa(re)	[s:ì dai adesso devo guarda(re) i cost]umi da calzedonia c' ho da fa(re)	sì dai adesso devo guardare i costumi da calzedonia c' ho da fare
+800	BO139	1630.07	1631.52	1.45	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ventisette minuti perfetto.	ventisette minuti perfetto.	ventisette minuti perfetto
+801	BO139	1632.03	1633.01	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	saluta ciao	saluta ciao	saluta ciao
+802	BO145	1633.13	1633.56	0.43	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ciao	ciao	ciao

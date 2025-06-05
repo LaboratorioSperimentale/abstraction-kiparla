@@ -1,0 +1,313 @@
+tu_id	speaker	start	end	duration	include	variation	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	W:moved_boundaries	W:switches	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	E:unmatched_overlaps	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	original	text	orthographic
+0	BO095	21.799	23.619	1.82	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ma sei vegetariana tu se posso chiedere?	ma sei vegetariana tu se posso chiedere?	ma sei vegetariana tu se posso chiedere
+1	BO097	23.619	24.161	0.542	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no no	no no	no no
+2	BO097	25.203	27.419	2.216	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ho solo una gran passione per a:hm	ho solo una gran passione per a:hm	ho solo una gran passione per ahm
+3	BO097	30.324	32.011	1.687	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	m::h per questi tortini	m::h per questi tortini	mh per questi tortini
+4	BO095	33.424	34.965	1.541	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	quelli tipo col tofu::	quelli tipo col tofu::	quelli tipo col tofu
+5	BO097	35.14	35.535	0.395	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+6	BO097	59.651	62.063	2.412	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	comunque il crudo poi l' ho preso alla fine [(l' altro giorno)]	comunque il crudo poi l' ho preso alla fine [(l' altro giorno)]	comunque il crudo poi l' ho preso alla fine l' altro giorno
+7	BO095	61.333	62.053	0.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mhmh]	[mhmh]	mhmh
+8	BO095	62.268	62.807	0.539	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	quale quale?	quale quale?	quale quale
+9	BO097	63.87	65.557	1.687	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	quello di parma se non mi sbaglio	quello di parma se non mi sbaglio	quello di parma se non mi sbaglio
+10	BO095	65.557	66.292	0.735	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e questo pure	e questo pure	e questo pure
+11	BO095	66.633	68.409	1.776	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	è in offerta per ora se ti può interessare	è in offerta per ora se ti può interessare	è in offerta per ora se ti può interessare
+12	BO097	68.409	69.773	1.364	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	esatto infatti prendo quello	esatto infatti prendo quello	esatto infatti prendo quello
+13	BO097	71.446	72.111	0.665	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	buono comun[que]	buono comun[que]	buono comunque
+14	BO095	71.891	72.25	0.359	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	13=0.220,15=0.085	True	0	0	0	1	[mhmh]	[mhmh]	mhmh
+15	BO097	72.165	73.196	1.031	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[era] proprio buono sì	[era] proprio buono sì	era proprio buono sì
+16	BO097	74.238	76.669	2.431	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	questo qui n~ è quello dolce non è quello salato vero?	questo qui n~ è quello dolce non è quello salato vero?	questo qui n~ è quello dolce non è quello salato vero
+17	BO095	77.22	78.803	1.583	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	credo sia quello saporito questo	credo sia quello saporito questo	credo sia quello saporito questo
+18	BO097	79.159	79.419	0.26	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+19	BO095	79.458	80.286	0.828	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non ha sapore?	non ha sapore?	non ha sapore
+20	BO097	81.543	81.98	0.437	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	non so	non so	non so
+21	BO095	84.357	86.592	2.235	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	magari mi sbaglio eh perché non è che sia questa esperta	magari mi sbaglio eh perché non è che sia questa esperta	magari mi sbaglio eh perché non è che sia questa esperta
+22	BO097	86.769	87.896	1.127	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	no infatti neanch' io	no infatti neanch' io	no infatti neanch' io
+23	BO097	90.593	93.226	2.633	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	6	cioè l' hanno scelto: (.) i commessi	cioè l' hanno scelto: {P} i commessi	cioè l' hanno scelto {P} i commessi
+24	BO095	93.55	94.011	0.461	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+25	BO097	94.011	99.377	5.366	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	22	tutte le volte mi chiedono quale vuoi? eh non lo so, le do quello di parma che è in offerta, va bene	tutte le volte mi chiedono quale vuoi? eh non lo so, le do quello di parma che è in offerta, va bene	tutte le volte mi chiedono quale vuoi eh non lo so le do quello di parma che è in offerta va bene
+26	BO095	96.05	96.77	0.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+27	BO095	100.911	103.944	3.033	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	12	e dentro di te ti chiedi ma è dolce o saporito que[sto?]	e dentro di te ti chiedi ma è dolce o saporito que[sto]?	e dentro di te ti chiedi ma è dolce o saporito questo
+28	BO097	103.564	104.096	0.532	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[bo:]:h	[bo:]:h	boh
+29	BO095	115.061	120.233	5.172	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	ma io in genere prendo quello dolce così a sentimento quindi:: mi sembra di notare una una differenza,	ma io in genere prendo quello dolce così a sentimento quindi:: mi sembra di notare una una differenza,	ma io in genere prendo quello dolce così a sentimento quindi mi sembra di notare una una differenza
+30	BO095	121.005	122.133	1.128	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	quindi (forse ma) non lo so	quindi (forse ma) non lo so	quindi forse ma non lo so
+31	BO097	141.961	143.394	1.433	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ma ieri sera non c' e::ri tu,	ma ieri sera non c' e::ri tu,	ma ieri sera non c' eri tu
+32	BO097	143.857	145.233	1.376	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	o sì? eri in stanza	o sì? eri in stanza	o sì eri in stanza
+33	BO095	145.466	147.316	1.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sono torna::ta, a che ora ieri,	sono torna::ta, a che ora ieri,	sono tornata a che ora ieri
+34	BO097	149.494	152.244	2.75	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	io sono uscita a ce:na cioè un po' tardi però a cena	io sono uscita a ce:na cioè un po' tardi però a cena	io sono uscita a cena cioè un po' tardi però a cena
+35	BO095	154.621	156.422	1.801	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	m::h che ho fatto ieri non mi ricordo	m::h che ho fatto ieri non mi ricordo	mh che ho fatto ieri non mi ricordo
+36	BO095	156.604	156.913	0.309	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+37	BO097	157.101	159.166	2.065	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	no magari eri di là eh semplicemente,	no magari eri di là eh semplicemente,	no magari eri di là eh semplicemente
+38	BO095	159.7	163.516	3.816	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	allora ho finito, allora si sono stata a lezio::ne, ho pranzato fuori,	allora ho finito, allora si sono stata a lezio::ne, ho pranzato fuori,	allora ho finito allora si sono stata a lezione ho pranzato fuori
+39	BO095	164.444	165.644	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	poi sono andata:::=mh	poi sono andata:::=mh	poi sono andata mh
+40	BO095	165.98	169.095	3.115	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	13	da comet (.) il negozio di elettronica non so se ce l' hai presente::	da comet {P} il negozio di elettronica non so se ce l' hai presente::	da comet {P} il negozio di elettronica non so se ce l' hai presente
+41	BO095	169.284	170.4	1.116	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	verso:::=mh	verso:::=mh	verso mh
+42	BO095	170.597	171.321	0.724	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	piazza maggiore,	piazza maggiore,	piazza maggiore
+43	BO095	171.828	175.916	4.088	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	che::=mh ho comprato una micro esse di da trentadue giga che::	che::=mh ho comprato una micro esse di da trentadue giga che::	che mh ho comprato una micro esse di da trentadue giga che
+44	BO095	176.286	179.537	3.251	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	insomma:: visto che:: farò le registrazioni dal telefono::	insomma:: visto che:: farò le registrazioni dal telefono::	insomma visto che farò le registrazioni dal telefono
+45	BO097	179.537	180.461	0.924	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	a::h certo,	a::h certo,	ah certo
+46	BO095	181.011	186.355	5.344	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	mi serve spazio perché la qualità::=mh quella buona ce l' ho però:: mi manca la memoria	mi serve spazio perché la qualità::=mh quella buona ce l' ho però:: mi manca la memoria	mi serve spazio perché la qualità mh quella buona ce l' ho però mi manca la memoria
+47	BO095	187.605	191.305	3.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	perché ad esempio ho visto che una lezione di un' ora e mezza si prende circa un giga	perché ad esempio ho visto che una lezione di un' ora e mezza si prende circa un giga	perché ad esempio ho visto che una lezione di un' ora e mezza si prende circa un giga
+48	BO097	192.439	193.316	0.877	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ah beh cavoli	ah beh cavoli	ah beh cavoli
+49	BO095	193.338	193.669	0.331	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+50	BO097	195.616	196.531	0.915	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	(e allora fai bene)	(e allora fai bene)	e allora fai bene
+51	BO095	198.25	204.511	6.261	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	25	e purtroppo per loro non ho computer disponibile in cui po~ in cui posso archiviare il tutto [an]che il tablet non ha niente di memoria	e purtroppo per loro non ho computer disponibile in cui po~ in cui posso archiviare il tutto [an]che il tablet non ha niente di memoria	e purtroppo per loro non ho computer disponibile in cui po~ in cui posso archiviare il tutto anche il tablet non ha niente di memoria
+52	BO097	202.498	202.856	0.358	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[sì]	[sì]	sì
+53	BO097	209.766	213.8	4.034	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	ma poi quel ragazzo che ti aveva chiesto di scambiargli gli [appunti] l' hai più rivisto?	ma poi quel ragazzo che ti aveva chiesto di scambiargli gli [appunti] l' hai più rivisto?	ma poi quel ragazzo che ti aveva chiesto di scambiargli gli appunti l' hai più rivisto
+54	BO095	211.896	212.873	0.977	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mamma mia]	[mamma mia]	mamma mia
+55	BO095	213.802	215.138	1.336	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	lo vedo ogni giorno lo ve[do]	lo vedo ogni giorno lo ve[do]	lo vedo ogni giorno lo vedo
+56	BO097	214.923	216.2	1.277	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[e:]:h a lezione quindi	[e:]:h a lezione quindi	eh a lezione quindi
+57	BO095	217.177	218.638	1.461	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	mi saluta come se niente fosse	mi saluta come se niente fosse	mi saluta come se niente fosse
+58	BO097	220.236	224.722	4.486	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	eh beh for[se è me]glio così che non~ che:: faccia finta di niente::	eh beh for[se è me]glio così che non~ che:: faccia finta di niente::	eh beh forse è meglio così che non~ che faccia finta di niente
+59	BO095	221.176	221.933	0.757	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[è meglio]	[è meglio]	è meglio
+60	BO097	225.966	226.593	0.627	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	in generale	in generale	in generale
+61	BO097	238.87	240.311	1.441	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	xxx c' è questo ragazzo,	xxx c' è questo ragazzo,	x c' è questo ragazzo
+62	BO095	240.495	240.904	0.409	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+63	BO097	240.963	241.731	0.768	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	a lezione,	a lezione,	a lezione
+64	BO097	242.683	243.883	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non mi si fila proprio	non mi si fila proprio	non mi si fila proprio
+65	BO095	244.536	245.194	0.658	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+66	BO097	245.402	248.908	3.506	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	però:: [non ci ho ancora:] sì è sempre lo [stesso]	però:: [non ci ho ancora:] sì è sempre lo [stesso]	però non ci ho ancora sì è sempre lo stesso
+67	BO095	246.311	247.234	0.923	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[è lo stesso]	[è lo stesso]	è lo stesso
+68	BO095	248.546	249.464	0.918	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[è sem]pre lo stesso	[è sem]pre lo stesso	è sempre lo stesso
+69	BO097	249.464	250.144	0.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	solo che [addesso]	solo che [addesso]	solo che addesso
+70	BO095	249.675	251.211	1.536	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[ma c' hai] parlato per caso?	[ma c' hai] parlato per caso?	ma c' hai parlato per caso
+71	BO097	251.215	251.688	0.473	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no::	no::	no
+72	BO097	251.824	257.138	5.314	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	19	ma perché ormai io (.) in quella lezione lì adesso faccio un po' coppia con ques~ con un altro ragazzo,	ma perché ormai io {P} in quella lezione lì adesso faccio un po' coppia con ques~ con un altro ragazzo,	ma perché ormai io {P} in quella lezione lì adesso faccio un po' coppia con ques~ con un altro ragazzo
+73	BO095	257.2	257.714	0.514	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+74	BO097	258.294	263.111	4.817	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	che:::=mh un gior~ cioè una delle prime lezioni per caso eravamo seduti di [fianco]	che:::=mh un gior~ cioè una delle prime lezioni per caso eravamo seduti di [fianco]	che mh un gior~ cioè una delle prime lezioni per caso eravamo seduti di fianco
+75	BO095	262.843	263.76	0.917	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[quello che ti] chiama sara::?	[quello che ti] chiama sara::?	quello che ti chiama sara
+76	BO097	263.876	265.844	1.968	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	sì (.) e si era messo a parlarmi no?	sì {P} e si era messo a parlarmi no?	sì {P} e si era messo a parlarmi no
+77	BO095	263.997	264.61	0.613	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+78	BO097	266.483	267.316	0.833	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e::hm	e::hm	ehm
+79	BO097	267.572	269.494	1.922	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	cioè andiam d' accordo così per cui	cioè andiam d' accordo così per cui	cioè andiam d' accordo così per cui
+80	BO095	269.516	269.965	0.449	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+81	BO097	271.82	273.138	1.318	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:::hm	e:::hm	ehm
+82	BO097	274.182	278.538	4.356	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	e quindi io già di mio non è che proprio sono una che si mette a chiacchierare::	e quindi io già di mio non è che proprio sono una che si mette a chiacchierare::	e quindi io già di mio non è che proprio sono una che si mette a chiacchierare
+83	BO095	278.538	280.005	1.467	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ti capisco benissimo io uguale	ti capisco benissimo io uguale	ti capisco benissimo io uguale
+84	BO097	280.196	284.555	4.359	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	cioè mi dispiace però non mi viene tanto spontaneo mi sento un po'::	cioè mi dispiace però non mi viene tanto spontaneo mi sento un po'::	cioè mi dispiace però non mi viene tanto spontaneo mi sento un po'
+85	BO097	284.916	287.394	2.478	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	infatti, apprezzo questo::::	infatti, apprezzo questo::::	infatti apprezzo questo
+86	BO095	287.511	288.29	0.779	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+87	BO097	288.494	289.905	1.411	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	tale arrigo si chiama	tale arrigo si chiama	tale arrigo si chiama
+88	BO097	290.806	291.862	1.056	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:::hm	e:::hm	ehm
+89	BO095	291.95	292.424	0.474	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	di nome?	di nome?	di nome
+90	BO097	292.588	292.895	0.307	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+91	BO095	294.832	296.361	1.529	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	curioso mai senti[to::]	curioso mai senti[to::]	curioso mai sentito
+92	BO097	296.081	298.944	2.863	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	[no infa]tti ha detto che è il santo patrono della sua città	[no infa]tti ha detto che è il santo patrono della sua città	no infatti ha detto che è il santo patrono della sua città
+93	BO095	299.12	299.65	0.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	o:::h	o:::h	oh
+94	BO097	299.65	301.911	2.261	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	pugliese di ba~ cioè di lì vicino a bari	pugliese di ba~ cioè di lì vicino a bari	pugliese di ba~ cioè di lì vicino a bari
+95	BO097	302.59	303.253	0.663	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:hm	e:hm	ehm
+96	BO095	304.222	305.736	1.514	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sant' arrigo quindi	sant' arrigo quindi	sant' arrigo quindi
+97	BO097	305.82	306.315	0.495	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+98	BO095	307.023	308.727	1.704	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	questa cosa mi è familiare però	questa cosa mi è familiare però	questa cosa mi è familiare però
+99	BO095	309.191	309.573	0.382	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	boh	boh	boh
+100	BO095	310.196	311.527	1.331	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	forse ci sono stata e non lo so	forse ci sono stata e non lo so	forse ci sono stata e non lo so
+101	BO095	311.94	313.355	1.415	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	lecce è in puglia giusto?	lecce è in puglia giusto?	lecce è in puglia giusto
+102	BO097	313.855	314.211	0.356	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+103	BO095	314.3	314.772	0.472	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+104	BO095	314.851	316.106	1.255	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	può essere che ci sono stata	può essere che ci sono stata	può essere che ci sono stata
+105	BO097	317.15	321.472	4.322	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	no però lui abita un un pae~ cioè in una città proprio vicina a bari in provincia di bari	no però lui abita un un pae~ cioè in una città proprio vicina a bari in provincia di bari	no però lui abita un un pae~ cioè in una città proprio vicina a bari in provincia di bari
+106	BO097	322.494	325.566	3.072	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	e:::hm vabbè io non la conoscevo come città	e:::hm vabbè io non la conoscevo come città	ehm vabbè io non la conoscevo come città
+107	BO097	326.305	329.333	3.028	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	14	no però (.) quando mi hanno detto questa cosa qui mi è venuto in mente	no però {P} quando mi hanno detto questa cosa qui mi è venuto in mente	no però {P} quando mi hanno detto questa cosa qui mi è venuto in mente
+108	BO097	329.866	330.505	0.639	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	il mio amico	il mio amico	il mio amico
+109	BO097	331.093	332.105	1.012	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	che invece, cioè	che invece, cioè	che invece cioè
+110	BO097	332.457	333.233	0.776	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	abita a milano	abita a milano	abita a milano
+111	BO097	333.581	335.491	1.91	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	però è di scia~ è di sciacca	però è di scia~ è di sciacca	però è di scia~ è di sciacca
+112	BO095	335.55	336.057	0.507	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+113	BO097	336.775	337.822	1.047	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:::hm	e:::hm	ehm
+114	BO097	338.712	341.3	2.588	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	che di secondo nome si chiama calogero	che di secondo nome si chiama calogero	che di secondo nome si chiama calogero
+115	BO097	342.086	344.883	2.797	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e:: ci ha sempre raccontato che un sacco di ragazzi,	e:: ci ha sempre raccontato che un sacco di ragazzi,	e ci ha sempre raccontato che un sacco di ragazzi
+116	BO097	345.498	347.905	2.407	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	lì:: si chiamano calogero perché è il santo patrono	lì:: si chiamano calogero perché è il santo patrono	lì si chiamano calogero perché è il santo patrono
+117	BO095	347.959	349.905	1.946	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sì sì ma:: pure::	sì sì ma:: pure::	sì sì ma pure
+118	BO095	350.335	351.105	0.77	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	a porto empedocle	a porto empedocle	a porto empedocle
+119	BO097	351.2	353.238	2.038	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	cioè che è una cosa che usa comunque	cioè che è una cosa che usa comunque	cioè che è una cosa che usa comunque
+120	BO097	354.461	356.051	1.59	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	com' è che si chiama il vostro santo?	com' è che si chiama il vostro santo?	com' è che si chiama il vostro santo
+121	BO095	356.605	358.325	1.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	è san calogero [cre]do sì	è san calogero [cre]do sì	è san calogero credo sì
+122	BO097	357.506	357.921	0.415	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	1	[sì?]	[sì]?	sì
+123	BO095	358.584	361.522	2.938	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	non mi ricordo se è il nostro o quello di agrigento penso sia il nostro	non mi ricordo se è il nostro o quello di agrigento penso sia il nostro	non mi ricordo se è il nostro o quello di agrigento penso sia il nostro
+124	BO095	363.066	364.216	1.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	perché::: lo fanno da noi	perché::: lo fanno da noi	perché lo fanno da noi
+125	BO095	365.162	366.738	1.576	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	lo facevano. non lo so ogni volta	lo facevano. non lo so ogni volta	lo facevano non lo so ogni volta
+126	BO095	367.108	368.733	1.625	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e::h giù c' è:::	e::h giù c' è:::	eh giù c' è
+127	BO095	369.242	376.344	7.102	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	29	il dramma lo fanno san calogero quest' anno o non lo fanno? [perché]: siccome siamo completamente senza soldi, perché c' è stato un sindaco che ci ha rovinato completamente	il dramma lo fanno san calogero quest' anno o non lo fanno? [perché]: siccome siamo completamente senza soldi, perché c' è stato un sindaco che ci ha rovinato completamente	il dramma lo fanno san calogero quest' anno o non lo fanno perché siccome siamo completamente senza soldi perché c' è stato un sindaco che ci ha rovinato completamente
+128	BO097	372.083	372.708	0.625	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[ah okay]	[ah okay]	ah okay
+129	BO097	376.649	378.418	1.769	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	sì me [l' avevi raccontato]	sì me [l' avevi raccontato]	sì me l' avevi raccontato
+130	BO095	377.231	383.512	6.281	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[che:: faceva tu]tti festival bellissimi invitava canta::nti, co::se, manifestazio::ni,	[che:: faceva tu]tti festival bellissimi invitava canta::nti, co::se, manifestazio::ni,	che faceva tutti festival bellissimi invitava cantanti cose manifestazioni
+131	BO095	383.855	385.081	1.226	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e poi siamo rimasti senza soldi	e poi siamo rimasti senza soldi	e poi siamo rimasti senza soldi
+132	BO095	385.689	389.943	4.254	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	e:: quindi insomma non ci sono soldi per fare niente praticamente::=e	e:: quindi insomma non ci sono soldi per fare niente praticamente::=e	e quindi insomma non ci sono soldi per fare niente praticamente e
+133	BO095	390.85	395.581	4.731	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	siccome è una tradizione abbastanza sentita insomma quella di san calogero che::	siccome è una tradizione abbastanza sentita insomma quella di san calogero che::	siccome è una tradizione abbastanza sentita insomma quella di san calogero che
+134	BO095	395.693	397.174	1.481	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	insomma prendono il ca::rro::	insomma prendono il ca::rro::	insomma prendono il carro
+135	BO095	397.495	400.793	3.298	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	poi e::h è un po' complicato da spiegare	poi e::h è un po' complicato da spiegare	poi eh è un po' complicato da spiegare
+136	BO095	401.012	401.665	0.653	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	in effetti perché	in effetti perché	in effetti perché
+137	BO095	402.018	404.142	2.124	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	a me sembra la cosa più naturale del mondo però	a me sembra la cosa più naturale del mondo però	a me sembra la cosa più naturale del mondo però
+138	BO095	405.339	407.628	2.289	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	e::h sì stavo dicendo mi sono un po' persa	e::h sì stavo dicendo mi sono un po' persa	eh sì stavo dicendo mi sono un po' persa
+139	BO095	408.384	409.381	0.997	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	a::hm	a::hm	ahm
+140	BO097	409.383	411.323	1.94	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	no che quindi [a vol]te non si [sa se::]	no che quindi [a vol]te non si [sa se::]	no che quindi a volte non si sa se
+141	BO095	409.822	410.262	0.44	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sì eh]	[sì eh]	sì eh
+142	BO095	410.699	414.442	3.743	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	22	[c' è il dramma] si fa o non si fa? poi si fa sempre ma perché se non si fa penso che	[c' è il dramma] si fa o non si fa? poi si fa sempre ma perché se non si fa penso che	c' è il dramma si fa o non si fa poi si fa sempre ma perché se non si fa penso che
+143	BO097	414.448	414.866	0.418	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no vabbè	no vabbè	no vabbè
+144	BO095	414.877	416.277	1.4	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	si scatena una rivolta	si scatena una rivolta	si scatena una rivolta
+145	BO097	422.144	424.17	2.026	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	vabbè eh vabbè e quindi::: è::	vabbè eh vabbè e quindi::: è::	vabbè eh vabbè e quindi è
+146	BO097	424.903	428.362	3.459	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	poi son quasi sempre con questo qui e insomma non è::	poi son quasi sempre con questo qui e insomma non è::	poi son quasi sempre con questo qui e insomma non è
+147	BO097	429.659	430.066	0.407	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+148	BO095	431.444	432.533	1.089	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	puoi chiedergli una mano	puoi chiedergli una mano	puoi chiedergli una mano
+149	BO095	432.862	433.349	0.487	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+150	BO097	433.767	438.37	4.603	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	19	e c' ho pensato anche io però non lo so non mi sembra tanto simpatica come cosa da [fare]	e c' ho pensato anche io però non lo so non mi sembra tanto simpatica come cosa da [fare]	e c' ho pensato anche io però non lo so non mi sembra tanto simpatica come cosa da fare
+151	BO095	438.003	438.376	0.373	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mhmh]	[mhmh]	mhmh
+152	BO097	442.949	444.63	1.681	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	cioè non mi s~ allora m:::h	cioè non mi s~ allora m:::h	cioè non mi s~ allora mh
+153	BO097	445.354	448.214	2.86	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	questo arrigo mi sembra che siamo in rapporti ::	questo arrigo mi sembra che siamo in rapporti::	questo arrigo mi sembra che siamo in rapporti
+154	BO097	448.608	451.381	2.773	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	cioè che non ci sia niente di sottinteso da parte sua	cioè che non ci sia niente di sottinteso da parte sua	cioè che non ci sia niente di sottinteso da parte sua
+155	BO095	451.503	451.996	0.493	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+156	BO097	453.349	453.891	0.542	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	però boh	però boh	però boh
+157	BO097	454.329	455.666	1.337	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	per cui in effetti potrei	per cui in effetti potrei	per cui in effetti potrei
+158	BO095	455.986	456.493	0.507	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+159	BO097	457.336	457.798	0.462	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ehm	ehm	ehm
+160	BO097	461.908	463.048	1.14	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	ma perché, (.) cioè	ma perché, {P} cioè	ma perché {P} cioè
+161	BO097	463.711	467.307	3.596	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	all' inizio:: con il fatto che c' eravamo seduti vicini	all' inizio:: con il fatto che c' eravamo seduti vicini	all' inizio con il fatto che c' eravamo seduti vicini
+162	BO095	467.423	467.995	0.572	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+163	BO097	468.31	469.003	0.693	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	tempo fa	tempo fa	tempo fa
+164	BO097	469.562	472.455	2.893	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	eh qualche volta cioè ci siamo un po' guardati come a dire	eh qualche volta cioè ci siamo un po' guardati come a dire	eh qualche volta cioè ci siamo un po' guardati come a dire
+165	BO097	472.874	474.203	1.329	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ti voglio parlare così	ti voglio parlare così	ti voglio parlare così
+166	BO097	474.31	474.622	0.312	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però	però	però
+167	BO097	475.075	476.896	1.821	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	poi non è successo e adesso non	poi non è successo e adesso non	poi non è successo e adesso non
+168	BO097	477.257	481.603	4.346	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	cioè m:::h ovviamente dopo un po' non è che continui a [scambiarti questi sguardi] no?	cioè m:::h ovviamente dopo un po' non è che continui a [scambiarti questi sguardi] no?	cioè mh ovviamente dopo un po' non è che continui a scambiarti questi sguardi no
+169	BO095	479.385	481.259	1.874	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[perché più il tempo passa più]	[perché più il tempo passa più]	perché più il tempo passa più
+170	BO097	482.187	484.614	2.427	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e ieri c' è stata sta cosa strana per cui	e ieri c' è stata sta cosa strana per cui	e ieri c' è stata sta cosa strana per cui
+171	BO097	485.826	487.181	1.355	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	lui non c' era a lezione	lui non c' era a lezione	lui non c' era a lezione
+172	BO095	487.62	488.115	0.495	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+173	BO097	488.745	490.296	1.551	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	dopo io ero in giro,	dopo io ero in giro,	dopo io ero in giro
+174	BO097	491.514	492.977	1.463	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	a cercare delle scarpe,	a cercare delle scarpe,	a cercare delle scarpe
+175	BO097	493.399	494.74	1.341	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	e mi ha chimato un mio amico .	e mi ha chimato un mio amico.	e mi ha chimato un mio amico
+176	BO097	496.134	497.214	1.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	questo di sciacca	questo di sciacca	questo di sciacca
+177	BO095	497.46	497.843	0.383	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+178	BO097	497.843	500.722	2.879	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	che al momento è in in seminario	che al momento è in in seminario	che al momento è in in seminario
+179	BO097	501.727	502.362	0.635	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e quindi	e quindi	e quindi
+180	BO097	502.837	505.262	2.425	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	non lo sento da un sacco di tem~ cioè da un po' di tempo,	non lo sento da un sacco di tem~ cioè da un po' di tempo,	non lo sento da un sacco di tem~ cioè da un po' di tempo
+181	BO097	505.399	509.151	3.752	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	21	mi ha chiamato ci siamo messi a chiacchierare io sono andata un po' in giro a un certo punto mi sono	mi ha chiamato ci siamo messi a chiacchierare io sono andata un po' in giro a un certo punto mi sono	mi ha chiamato ci siamo messi a chiacchierare io sono andata un po' in giro a un certo punto mi sono
+182	BO097	510.124	510.751	0.627	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	seduta	seduta	seduta
+183	BO097	511.439	515.396	3.957	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	barra appoggiata ad una colonna in via::: indipendenza,	barra appoggiata ad una colonna in via::: indipendenza,	barra appoggiata ad una colonna in via indipendenza
+184	BO097	517.592	518.955	1.363	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	guardando il marciapiede	guardando il marciapiede	guardando il marciapiede
+185	BO097	520.274	521.451	1.177	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	cioè sotto il portico no?	cioè sotto il portico no?	cioè sotto il portico no
+186	BO095	521.519	521.94	0.421	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+187	BO097	522.611	523.755	1.144	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e vedo arrivare,	e vedo arrivare,	e vedo arrivare
+188	BO097	524.57	528.796	4.226	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	questo tizio cioè questo ragazzo con un altro che camminava chiacchieravano	questo tizio cioè questo ragazzo con un altro che camminava chiacchieravano	questo tizio cioè questo ragazzo con un altro che camminava chiacchieravano
+189	BO097	529.862	532.633	2.771	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	e quindi a un certo punto cioè è passato davanti a me	e quindi a un certo punto cioè è passato davanti a me	e quindi a un certo punto cioè è passato davanti a me
+190	BO095	532.771	533.183	0.412	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+191	BO097	533.512	536.1	2.588	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e mi ha guardato, io l' ho guardato però cioè	e mi ha guardato, io l' ho guardato però cioè	e mi ha guardato io l' ho guardato però cioè
+192	BO095	537.244	538.98	1.736	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	6	ti ha riconosciuta [si è visto,]	ti ha riconosciuta [si è visto],	ti ha riconosciuta si è visto
+193	BO097	538.205	538.98	0.775	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	2	[sì:: però,]	[sì:: però],	sì però
+194	BO097	539.279	542.244	2.965	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	cioè non non c' è stato uno sguardo come dire:::	cioè non non c' è stato uno sguardo come dire:::	cioè non non c' è stato uno sguardo come dire
+195	BO097	542.581	545.022	2.441	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	oh mio dio sei tu della lezione	oh mio dio sei tu della lezione	oh mio dio sei tu della lezione
+196	BO097	545.397	547.937	2.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	oh sei quella con cui vorrei parlare cioè:::	oh sei quella con cui vorrei parlare cioè:::	oh sei quella con cui vorrei parlare cioè
+197	BO095	546.401	546.888	0.487	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+198	BO095	548.342	549.209	0.867	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	il momento	il momento	il momento
+199	BO097	549.584	553.385	3.801	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	no:: cioè e infatti io mi aspettavo qualcosa del genere	no:: cioè e infatti io mi aspettavo qualcosa del genere	no cioè e infatti io mi aspettavo qualcosa del genere
+200	BO097	553.603	555.718	2.115	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	invece è stato proprio uno sguardo insignificante	invece è stato proprio uno sguardo insignificante	invece è stato proprio uno sguardo insignificante
+201	BO097	556.144	559.562	3.418	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	12	cioè (.) lui no~ lui continuava a parlare e io continuavo a parlare,	cioè {P} lui no~ lui continuava a parlare e io continuavo a parlare,	cioè {P} lui no~ lui continuava a parlare e io continuavo a parlare
+202	BO097	560.158	562.388	2.23	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	e mi è spiaciuto mi ha fatto [pensare che non]	e mi è spiaciuto mi ha fatto [pensare che non]	e mi è spiaciuto mi ha fatto pensare che non
+203	BO095	561.459	563.037	1.578	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[o:::h mi dispia]::[ce::]	[o:::h mi dispia]::[ce::]	oh mi dispiace
+204	BO097	562.802	565.385	2.583	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	203=0.235,205=0.008	True	0	0	0	9	[che ormai] l' occasione è persa e non tornerà	[che ormai] l' occasione è persa e non tornerà	che ormai l' occasione è persa e non tornerà
+205	BO095	565.377	567.555	2.178	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	204=0.008	False	0	0	0	5	invece prima:: ci vedevi qualcosa?	invece prima:: ci vedevi qualcosa?	invece prima ci vedevi qualcosa
+206	BO097	567.694	568.894	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì:::[=mh]	sì:::[=mh]	sì mh
+207	BO095	568.17	568.877	0.707	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[più:::]	[più:::]	più
+208	BO095	568.933	569.874	0.941	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	un interesse	un interesse	un interesse
+209	BO097	570.102	571.17	1.068	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sì mi sembrava che	sì mi sembrava che	sì mi sembrava che
+210	BO097	571.967	574.166	2.199	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	potesse:: prima o poi:::	potesse:: prima o poi:::	potesse prima o poi
+211	BO097	575.73	578.892	3.162	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	cioè capitare che ci parlassimo così adesso ormai,	cioè capitare che ci parlassimo così adesso ormai,	cioè capitare che ci parlassimo così adesso ormai
+212	BO097	581.466	582.055	0.589	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cioè xx	cioè xx	cioè x
+213	BO097	582.321	585.029	2.708	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	bisognerebbe farlo apposta (.) non so come dire	bisognerebbe farlo apposta {P} non so come dire	bisognerebbe farlo apposta {P} non so come dire
+214	BO097	585.284	586.033	0.749	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	però:::=mh	però:::=mh	però mh
+215	BO097	586.375	588.181	1.806	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non sono capace a fare xxx	non sono capace a fare xxx	non sono capace a fare x
+216	BO095	589.035	591.281	2.246	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	guarda siamo sulla stessa barca perché io sono identica	guarda siamo sulla stessa barca perché io sono identica	guarda siamo sulla stessa barca perché io sono identica
+217	BO095	591.715	592.163	0.448	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+218	BO097	595.344	597.733	2.389	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	c' è stata anche una lezione settimana scorsa in cui	c' è stata anche una lezione settimana scorsa in cui	c' è stata anche una lezione settimana scorsa in cui
+219	BO097	598.626	601.762	3.136	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	io e arrigo ci siamo messi a parlare con degli altri ragazzi	io e arrigo ci siamo messi a parlare con degli altri ragazzi	io e arrigo ci siamo messi a parlare con degli altri ragazzi
+220	BO095	601.762	602.072	0.318	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	mhmh,	mhmh,	mhmh
+221	BO097	602.072	605.977	3.913	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	17	una ragazza che era seduta sotto di noi e gli amici di lei erano sopra di noi	una ragazza che era seduta sotto di noi e gli amici di lei erano sopra di noi	una ragazza che era seduta sotto di noi e gli amici di lei erano sopra di noi
+222	BO095	606.096	606.618	0.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+223	BO097	606.727	608.977	2.25	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	e quindi ci siamo inseriti nella conversaz[ione]	e quindi ci siamo inseriti nella conversaz[ione]	e quindi ci siamo inseriti nella conversazione
+224	BO095	607.63	608.056	0.426	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+225	BO095	608.687	608.979	0.292	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[sì]	[sì]	sì
+226	BO097	610.762	614.355	3.593	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	e a quanto pare in questo gruppetto c' è anche questo ragazzo qui	e a quanto pare in questo gruppetto c' è anche questo ragazzo qui	e a quanto pare in questo gruppetto c' è anche questo ragazzo qui
+227	BO097	614.587	616.929	2.342	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	che infatti si è seduto di fianco a arrigo	che infatti si è seduto di fianco a arrigo	che infatti si è seduto di fianco a arrigo
+228	BO097	617.369	619.814	2.445	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	e e lì c' è stato questo sguardo tipo	e e lì c' è stato questo sguardo tipo	e e lì c' è stato questo sguardo tipo
+229	BO095	619.838	620.169	0.331	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+230	BO097	620.151	622.677	2.526	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	oddio siamo seduti a due posti di distanza,	oddio siamo seduti a due posti di distanza,	oddio siamo seduti a due posti di distanza
+231	BO097	622.931	626.685	3.754	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	però poi non è success~ cioè poi non ci siamo nemmeno rivolti la parola,	però poi non è success~ cioè poi non ci siamo nemmeno rivolti la parola,	però poi non è success~ cioè poi non ci siamo nemmeno rivolti la parola
+232	BO095	626.703	627.255	0.552	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	che rabbia	che rabbia	che rabbia
+233	BO097	627.569	628.892	1.323	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	infatti:: cioè	infatti:: cioè	infatti cioè
+234	BO097	631.386	631.738	0.352	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	boh	boh	boh
+235	BO095	633.085	634.333	1.248	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	dai non tutto è perduto	dai non tutto è perduto	dai non tutto è perduto
+236	BO095	634.661	638.77	4.109	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	magari:: ricapita una cosa del genere e magari questa volta magari sarai più determinata	magari:: ricapita una cosa del genere e magari questa volta magari sarai più determinata	magari ricapita una cosa del genere e magari questa volta magari sarai più determinata
+237	BO097	641.822	643.407	1.585	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ma sì perché poi poi magari	ma sì perché poi poi magari	ma sì perché poi poi magari
+238	BO097	643.89	646.847	2.958	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	11	è uno con cui magari non vado neanche d' accordo però,	è uno con cui magari non vado neanche d' accordo però,	è uno con cui magari non vado neanche d' accordo però
+239	BO095	646.847	647.276	0.43	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+240	BO095	647.829	649.385	1.556	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	senti questa cosa [nell' aria]	senti questa cosa [nell' aria]	senti questa cosa nell' aria
+241	BO097	648.651	650.762	2.111	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[mi piacerebbe] scoprirlo come minimo	[mi piacerebbe] scoprirlo come minimo	mi piacerebbe scoprirlo come minimo
+242	BO095	650.937	651.47	0.533	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	certo	certo	certo
+243	BO095	654.588	655.648	1.06	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	quante lezioni restano?	quante lezioni restano?	quante lezioni restano
+244	BO097	655.751	656.912	1.161	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e non ta[nte]	e non ta[nte]	e non tante
+245	BO095	656.485	657.951	1.466	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[perché poi è] quello il pro[blema]	[perché poi è] quello il pro[blema]	perché poi è quello il problema
+246	BO097	657.569	658.245	0.676	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[esa]tto	[esa]tto	esatto
+247	BO095	658.245	658.825	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+248	BO097	658.245	658.825	0.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+249	BO097	659.855	663.251	3.396	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non ne restano tante finiamo il quindici dicembre,	non ne restano tante finiamo il quindici dicembre,	non ne restano tante finiamo il quindici dicembre
+250	BO097	663.869	664.559	0.69	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	però:::	però:::	però
+251	BO097	664.9	666.377	1.477	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	saltiamo un paio di lezioni	saltiamo un paio di lezioni	saltiamo un paio di lezioni
+252	BO097	667.026	668.751	1.725	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ne resteranno cinque o sei	ne resteranno cinque o sei	ne resteranno cinque o sei
+253	BO095	670.978	671.614	0.636	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ho capito	ho capito	ho capito
+254	BO095	672.685	673.655	0.97	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	il tempo sgocciola	il tempo sgocciola	il tempo sgocciola
+255	BO097	674.4	675.051	0.651	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	veramente	veramente	veramente
+256	BO097	680.985	683.274	2.289	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	e secondo me devo essere io che mi:::	e secondo me devo essere io che mi:::	e secondo me devo essere io che mi
+257	BO097	683.877	685.737	1.86	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	che mi faccio avanti perché effettivamente,	che mi faccio avanti perché effettivamente,	che mi faccio avanti perché effettivamente
+258	BO097	686.257	686.611	0.354	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cioè	cioè	cioè
+259	BO097	686.869	689.403	2.534	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	se lui facesse coppia con una ragazza,	se lui facesse coppia con una ragazza,	se lui facesse coppia con una ragazza
+260	BO097	689.65	690.118	0.468	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	anche se	anche se	anche se
+261	BO097	690.304	694.292	3.988	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	è eviden~ cioè anche se non succede niente tra i due io [sarei un po':::]	è eviden~ cioè anche se non succede niente tra i due io [sarei un po':::]	è eviden~ cioè anche se non succede niente tra i due io sarei un po'
+262	BO095	693.428	694.234	0.806	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[un po' bloccata]	[un po' bloccata]	un po' bloccata
+263	BO097	695.21	696.325	1.115	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	cioè non:: ma[gari]	cioè non:: ma[gari]	cioè non magari
+264	BO095	695.98	696.551	0.571	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[resti]a	[resti]a	restia
+265	BO097	696.722	699.866	3.144	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	esatto direi boh vabbè okay cioè chi se ne frega:::	esatto direi boh vabbè okay cioè chi se ne frega:::	esatto direi boh vabbè okay cioè chi se ne frega
+266	BO097	700.196	701.322	1.126	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì tu sei con quella là	sì tu sei con quella là	sì tu sei con quella là
+267	BO095	704.629	706.467	1.838	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	dici chi lo sa se è la raga::zza o se::	dici chi lo sa se è la raga::zza o se::	dici chi lo sa se è la ragazza o se
+268	BO097	706.47	708.23	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì:: o [anche:::]	sì:: o [anche:::]	sì o anche
+269	BO095	707.251	708.451	1.2	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[cioè resta sempre il du]bbio	[cioè resta sempre il du]bbio	cioè resta sempre il dubbio
+270	BO097	708.764	711.003	2.239	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	o sì o magari hai interesse per quello là.	o sì o magari hai interesse per quello là.	o sì o magari hai interesse per quello là
+271	BO097	711.64	712.083	0.443	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	che ne so	che ne so	che ne so
+272	BO095	712.859	714.7	1.841	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	quindi che faccio arrivo io ehi [ciao]	quindi che faccio arrivo io ehi [ciao]	quindi che faccio arrivo io ehi ciao
+273	BO097	714.059	714.722	0.663	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[esa::tto]	[esa::tto]	esatto
+274	BO097	715.103	715.803	0.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	boh non lo so	boh non lo so	boh non lo so
+275	BO095	715.803	716.325	0.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	come va?	come va?	come va
+276	BO095	718.1	719.588	1.488	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non ho assolutamente secondi fini	non ho assolutamente secondi fini	non ho assolutamente secondi fini
+277	BO097	721.714	722.633	0.919	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sei proprio bello	sei proprio bello	sei proprio bello
+278	BO095	723.173	723.585	0.412	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+279	BO097	723.173	723.585	0.412	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+280	BO095	726.596	727.7	1.104	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	poi perché mi guardi?	poi perché mi guardi?	poi perché mi guardi
+281	BO095	728.292	729.411	1.119	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	oppure perché non mi guardi?	oppure perché non mi guardi?	oppure perché non mi guardi
+282	BO097	729.744	730.505	0.761	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	esatto	esatto	esatto
+283	BO097	730.947	732.174	1.227	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	perché non mi guardi più?	perché non mi guardi più?	perché non mi guardi più
+284	BO097	734.001	734.588	0.587	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mamma mia	mamma mia	mamma mia
+285	BO097	751.125	752.722	1.597	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non xx xxx andare a studiare	non xx xxx andare a studiare	non x x andare a studiare
+286	BO095	752.961	753.515	0.554	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::h	m::h	mh
+287	BO095	760.13	761.259	1.129	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	mi sa che sei un po' stanca?	mi sa che sei un po' stanca?	mi sa che sei un po' stanca
+288	BO097	763.692	765.181	1.489	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	chissà perché poi xxx	chissà perché poi xxx	chissà perché poi x
+289	BO095	766.692	767.374	0.682	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	c' è freddo	c' è freddo	c' è freddo
+290	BO095	767.551	768.339	0.788	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	il freddo stanca.	il freddo stanca.	il freddo stanca
+291	BO097	768.364	768.686	0.322	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+292	BO095	768.686	771.255	2.569	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	a me il freddo stanca (.) anche come (pensieri)	a me il freddo stanca {P} anche come (pensieri)	a me il freddo stanca {P} anche come pensieri
+293	BO097	777.74	781.914	4.174	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	m::h mi sa che adesso lavo i piatti poi mi faccio ancora una mezz' oretta con	m::h mi sa che adesso lavo i piatti poi mi faccio ancora una mezz' oretta con	mh mi sa che adesso lavo i piatti poi mi faccio ancora una mezz' oretta con
+294	BO097	782.729	784.407	1.678	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	tisa::na o caffè d' orzo,	tisa::na o caffè d' orzo,	tisana o caffè d' orzo
+295	BO095	784.719	785.366	0.647	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ci sta ci sta	ci sta ci sta	ci sta ci sta
+296	BO097	785.405	785.796	0.391	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e poi xx	e poi xx	e poi x
+297	BO097	789.903	792.918	3.015	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	14	sì (.) i piatti li devo lavare che c' ho lì ancora quelli di ieri	sì {P} i piatti li devo lavare che c' ho lì ancora quelli di ieri	sì {P} i piatti li devo lavare che c' ho lì ancora quelli di ieri
+298	BO095	794.262	795.281	1.019	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	beh non ti preoccupare	beh non ti preoccupare	beh non ti preoccupare
+299	BO095	796.392	797.422	1.03	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	vabbè non ti preoccupare	vabbè non ti preoccupare	vabbè non ti preoccupare
+300	BO097	799.952	801.344	1.392	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	era poca roba quindi	era poca roba quindi	era poca roba quindi
+301	BO095	801.481	801.93	0.449	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+302	BO095	844.92	846.423	1.503	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	sai se c' è sveva per caso?	sai se c' è sveva per caso?	sai se c' è sveva per caso
+303	BO097	846.821	847.372	0.551	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sì è di là	sì è di là	sì è di là
+304	BO095	847.739	848.073	0.334	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	okay	okay	okay
+305	BO097	848.375	849.025	0.65	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	prima è::	prima è::	prima è
+306	BO097	849.5	850.467	0.967	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	è comparsa	è comparsa	è comparsa
+307	BO095	850.656	851.17	0.514	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mhmh	mhmh	mhmh
+308	BO097	851.407	852.718	1.311	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxxx	xxxx	x
+309	BO095	853.229	853.8	0.571	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ho capito	ho capito	ho capito
+310	BO095	918.185	919.133	0.948	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	xxx una cosina?	xxx una cosina?	x una cosina
+311	BO097	919.425	919.982	0.557	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxx	xxx	x

@@ -1,0 +1,518 @@
+tu_id	speaker	start	end	duration	include	variation	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	W:moved_boundaries	W:switches	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	E:unmatched_overlaps	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	original	text	orthographic
+0	TO086	10.94	13.062	2.122	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ho visto che quella schiscetta	ho visto che quella schiscetta	ho visto che quella schiscetta
+1	TO086	13.666	15.645	1.979	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	è anche tipo un modello famoso	è anche tipo un modello famoso	è anche tipo un modello famoso
+2	TO085	16.86	17.573	0.713	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	questa?	questa?	questa
+3	TO086	17.58	18.107	0.527	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	s:ì	s:ì	sì
+4	TO085	18.111	19.261	1.15	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non è un modello	non è un modello	non è un modello
+5	TO086	19.772	22.655	2.883	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	no che ne esiste proprio una fatta così::	no che ne esiste proprio una fatta così::	no che ne esiste proprio una fatta così
+6	TO086	22.902	26.504	3.602	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	che è un modello:: famoso nell' ambito del design	che è un modello:: famoso nell' ambito del design	che è un modello famoso nell' ambito del design
+7	TO085	26.745	27.594	0.849	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::[:h]	[m:::h]	mh
+8	TO086	27.108	30.759	3.651	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	[e che] è esposta nel tipo museo del design di monza	[e che] è esposta nel tipo museo del design di monza	e che è esposta nel tipo museo del design di monza
+9	TO085	31.301	32.556	1.255	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	2	[stai scherzando?]	[stai scherzando]?	stai scherzando
+10	TO086	31.301	32.556	1.255	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[te lo giuro]	[te lo giuro]	te lo giuro
+11	TO086	32.637	34.896	2.259	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	sì (.) [no non sto scherzando]	sì {P} [no non sto scherzando]	sì {P} no non sto scherzando
+12	TO085	33.051	35.252	2.201	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[uno come fai sapere queste] cose	[uno come fai sapere queste] cose	uno come fai sapere queste cose
+13	TO086	35.796	41.514	5.718	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	uno perché e:h avevo cercato schiscetta [così tanto per]	uno perché e:h avevo cercato schiscetta [così tanto per]	uno perché eh avevo cercato schiscetta così tanto per
+14	TO085	40.024	41.514	1.49	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	2	[ma uguale?]	[ma uguale]?	ma uguale
+15	TO086	42.007	45.058	3.051	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	è molto simile si chiama qualcosa duemi:la	è molto simile si chiama qualcosa duemi:la	è molto simile si chiama qualcosa duemila
+16	TO085	45.059	46.259	1.201	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	3	ma di acciaio?	ma di acciaio?	ma di acciaio
+17	TO086	46.259	47.051	0.793	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	eh sì	eh sì	eh sì
+18	TO085	47.411	51.553	4.142	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	ma questa qua comunque era tipo::  >cioè< l' ho trovata in casa di mia nonna:	ma questa qua comunque era tipo:: >cioè< l' ho trovata in casa di mia nonna:	ma questa qua comunque era tipo cioè l' ho trovata in casa di mia nonna
+19	TO085	52.355	56.632	4.277	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	15	secondo me era o di mio padre quando faceva [il milita:re (.)] o di mio nonno	secondo me era o di mio padre quando faceva [il milita:re {P}] o di mio nonno	secondo me era o di mio padre quando faceva il militare {P} o di mio nonno
+20	TO086	54.549	55.893	1.344	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[eh buona sta cosa]	[eh buona sta cosa]	eh buona sta cosa
+21	TO085	56.675	58.048	1.373	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ravioli e rucola	ravioli e rucola	ravioli e rucola
+22	TO086	58.718	60.801	2.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	mi piace °come abbinamento°	mi piace °come abbinamento°	mi piace come abbinamento
+23	TO085	61.058	61.909	0.851	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì, sì no	sì, sì no	sì sì no
+24	TO085	61.933	65.067	3.134	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	è tre giorni che ma~ no è il secondo giorno che mangio ravoli e rucola	è tre giorni che ma~ no è il secondo giorno che mangio ravoli e rucola	è tre giorni che ma~ no è il secondo giorno che mangio ravoli e rucola
+25	TO085	65.083	69.048	3.965	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	ed è tre giorni che mangio rucola di verdura perché non sono ancora andata a porta palazzo	ed è tre giorni che mangio rucola di verdura perché non sono ancora andata a porta palazzo	ed è tre giorni che mangio rucola di verdura perché non sono ancora andata a porta palazzo
+26	TO086	70.451	73.778	3.327	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	rucola ah (.) beh ma è buona la rucola è buon[issima]	rucola ah {P} beh ma è buona la rucola è buon[issima]	rucola ah {P} beh ma è buona la rucola è buonissima
+27	TO085	73.372	76.526	3.154	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	[sì] ho capito ma non sto variando molto con le verdure	[sì] ho capito ma non sto variando molto con le verdure	sì ho capito ma non sto variando molto con le verdure
+28	TO085	76.747	78.742	1.995	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non non ne sto mangiando	non non ne sto mangiando	non non ne sto mangiando
+29	TO085	82.0	84.138	2.138	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	però sì è buono l' abbinamento	però sì è buono l' abbinamento	però sì è buono l' abbinamento
+30	TO086	85.501	87.505	2.004	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	vediamo sta pizza com' è	vediamo sta pizza com' è	vediamo sta pizza com' è
+31	TO086	94.723	95.837	1.114	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	°xxx°	°xxx°	x
+32	TO085	110.652	112.181	1.529	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sembra buo:na	sembra buo:na	sembra buona
+33	TO086	112.76	113.527	0.767	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::h	m::h	mh
+34	TO086	116.143	118.249	2.106	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	m:h per essere senza glutine lo è	m:h per essere senza glutine lo è	mh per essere senza glutine lo è
+35	TO085	119.458	120.138	0.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[ma tu]	[ma tu]	ma tu
+36	TO086	119.458	120.138	0.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[perché è su~]	[perché è su~]	perché è su~
+37	TO086	120.179	121.964	1.785	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	è sufficentemente unta	è sufficentemente unta	è sufficentemente unta
+38	TO086	121.984	123.154	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[e sugosa da:]	[e sugosa da:]	e sugosa da
+39	TO085	121.988	123.154	1.166	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh, mh]	[mh, mh]	mh mh
+40	TO086	126.501	129.6	3.099	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	perché è anche abbastanza fresca l' ho presa in farmacia	perché è anche abbastanza fresca l' ho presa in farmacia	perché è anche abbastanza fresca l' ho presa in farmacia
+41	TO086	129.641	132.605	2.964	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	è un posto tipo una marca che fa le cose tipo::	è un posto tipo una marca che fa le cose tipo::	è un posto tipo una marca che fa le cose tipo
+42	TO086	133.058	135.62	2.562	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	fresche barra finto fresche tipo:	fresche barra finto fresche tipo:	fresche barra finto fresche tipo
+43	TO086	135.652	138.905	3.253	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[le]:: danno ogni due giorni oggi erano arrivate	[le]:: danno ogni due giorni oggi erano arrivate	le danno ogni due giorni oggi erano arrivate
+44	TO085	135.656	135.881	0.225	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+45	TO085	143.513	144.158	0.645	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+46	TO086	144.798	146.723	1.925	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sì è abbastanza buona	sì è abbastanza buona	sì è abbastanza buona
+47	TO085	157.09	159.624	2.534	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	o quindi non era vero che mi volevi dire	o quindi non era vero che mi volevi dire	o quindi non era vero che mi volevi dire
+48	TO085	159.647	161.3	1.653	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	una cosa confidenziale	una cosa confidenziale	una cosa confidenziale
+49	TO086	161.656	162.604	0.948	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	sì che era vero	sì che era vero	sì che era vero
+50	TO085	162.608	163.733	1.125	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	1	a::h ((ride))	a::h {ride}	ah {ride}
+51	TO085	165.49	166.517	1.027	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	va bene	va bene	va bene
+52	TO086	166.986	170.391	3.405	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	no io x sembra che lui era solo un un topic::	no io x sembra che lui era solo un un topic::	no io x sembra che lui era solo un un topic
+53	TO086	170.418	173.221	2.803	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< un argomento di conversazione non è che	>cioè< un argomento di conversazione non è che	cioè un argomento di conversazione non è che
+54	TO086	173.262	176.5	3.238	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ora sembra che ora ti devo rivelare chissà che co:sa	ora sembra che ora ti devo rivelare chissà che co:sa	ora sembra che ora ti devo rivelare chissà che cosa
+55	TO085	176.892	178.699	1.807	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì, sembra	sì, sembra	sì sembra
+56	TO086	179.794	183.367	3.573	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	la persona che farà questa trascrizione sarà tutta lì::	la persona che farà questa trascrizione sarà tutta lì::	la persona che farà questa trascrizione sarà tutta lì
+57	TO086	183.41	186.189	2.779	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	in attesa di scoprire di co[sa si tratta]	in attesa di scoprire di co[sa si tratta]	in attesa di scoprire di cosa si tratta
+58	TO085	185.16	188.102	2.942	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	4	[sì esatto] ((ride)) facciamola soffrire	[sì esatto] {ride} facciamola soffrire	sì esatto {ride} facciamola soffrire
+59	TO086	187.324	188.63	1.306	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+60	TO086	193.782	194.608	0.826	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	no:: è [che x]	no:: è [che x]	no è che x
+61	TO085	194.308	196.004	1.696	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[ma di] chi chi riguarda?	[ma di] chi chi riguarda?	ma di chi chi riguarda
+62	TO086	196.937	200.517	3.58	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	quello che è stato per me il corrispettivo di lucia	quello che è stato per me il corrispettivo di lucia	quello che è stato per me il corrispettivo di lucia
+63	TO085	201.403	203.201	1.798	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	è stato in passato	è stato in passato	è stato in passato
+64	TO086	203.684	204.068	0.384	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì:	sì:	sì
+65	TO085	204.071	204.421	0.35	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh	eh	eh
+66	TO085	205.822	207.984	2.162	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[ma in~] ma non me ne avevi parlato molto	[ma in~] ma non me ne avevi parlato molto	ma in~ ma non me ne avevi parlato molto
+67	TO086	205.824	206.302	0.478	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[che mi ha]	[che mi ha]	che mi ha
+68	TO086	209.146	209.66	0.514	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+69	TO086	210.284	211.743	1.459	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	perché ormai era il passato	perché ormai era il passato	perché ormai era il passato
+70	TO086	211.778	215.28	3.502	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	però:: diciamo è l' esperienza che mi permette di capire molto [bene::]	però:: diciamo è l' esperienza che mi permette di capire molto [bene::]	però diciamo è l' esperienza che mi permette di capire molto bene
+71	TO085	214.758	215.276	0.518	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[m:h]	[m:h]	mh
+72	TO086	216.205	218.007	1.802	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	gli altri (.) gli altri	gli altri {P} gli altri	gli altri {P} gli altri
+73	TO086	218.025	221.409	3.384	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	[>cioè< alcu]ni a chi succede di trovarsi in una situazione così	[>cioè< alcu]ni a chi succede di trovarsi in una situazione così	cioè alcuni a chi succede di trovarsi in una situazione così
+74	TO085	218.033	218.561	0.528	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+75	TO086	221.928	223.498	1.57	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	che:: mi ha scritto	che:: mi ha scritto	che mi ha scritto
+76	TO085	223.501	224.399	0.898	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	o cazzo	o cazzo	o cazzo
+77	TO086	225.003	226.955	1.952	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	lui ora vive in francia	lui ora vive in francia	lui ora vive in francia
+78	TO086	227.853	231.066	3.213	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	e:: boh fa delle robe d' ingegneria non so	e:: boh fa delle robe d' ingegneria non so	e boh fa delle robe d' ingegneria non so
+79	TO086	231.719	234.569	2.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	e::: mi ha scritto dicendomi::	e::: mi ha scritto dicendomi::	e mi ha scritto dicendomi
+80	TO086	234.589	236.877	2.288	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	questo weekend passo a tori:no	questo weekend passo a tori:no	questo weekend passo a torino
+81	TO086	237.604	241.063	3.459	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	e:::hm se ti va:: non mi no~ m~ m:~	e:::hm se ti va:: non mi no~ m~ m:~	ehm se ti va non mi no~ m~ m~
+82	TO086	241.122	245.19	4.068	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	tipo mi piacerebbe: se hai voglia mi piacerebbe farti un saluto	tipo mi piacerebbe: se hai voglia mi piacerebbe farti un saluto	tipo mi piacerebbe se hai voglia mi piacerebbe farti un saluto
+83	TO086	247.19	248.375	1.185	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	un salu:to	un salu:to	un saluto
+84	TO085	248.699	250.648	1.949	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ma da quant' è che è finita?	ma da quant' è che è finita?	ma da quant' è che è finita
+85	TO086	250.869	252.209	1.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	m::h parecchio	m::h parecchio	mh parecchio
+86	TO085	253.439	254.873	1.434	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ma a te fa piacere?	ma a te fa piacere?	ma a te fa piacere
+87	TO086	256.692	259.391	2.699	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	eh io sono tutta emozionata come una cretina	eh io sono tutta emozionata come una cretina	eh io sono tutta emozionata come una cretina
+88	TO085	259.414	260.679	1.265	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[no:: okay]	[no:: okay]	no okay
+89	TO086	259.414	260.679	1.265	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[è quello che]	[è quello che]	è quello che
+90	TO086	260.869	263.533	2.664	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< è quello che no[nostante siano] passati::	>cioè< è quello che no[nostante siano] passati::	cioè è quello che nonostante siano passati
+91	TO085	261.798	262.592	0.794	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[cazzo]	[cazzo]	cazzo
+92	TO086	263.565	265.352	1.787	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	miglia[ia di a]nni:	miglia[ia di a]nni:	migliaia di anni
+93	TO085	263.924	264.438	0.514	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[sì]	[sì]	sì
+94	TO085	267.268	268.403	1.135	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:::h	e:::h	eh
+95	TO085	268.527	271.057	2.53	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	è proprio [è proprio la tua] lucia	è proprio [è proprio la tua] lucia	è proprio è proprio la tua lucia
+96	TO086	269.549	270.355	0.806	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[>cioè< non]	[>cioè< non]	cioè non
+97	TO086	271.391	274.284	2.893	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	>cioè< che non ci sto più male da un sacco però	>cioè< che non ci sto più male da un sacco però	cioè che non ci sto più male da un sacco però
+98	TO086	275.559	278.098	2.539	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	l' emozione c' è sempre non:::	l' emozione c' è sempre non:::	l' emozione c' è sempre non
+99	TO085	278.3	279.316	1.016	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	ti capisco	ti capisco	ti capisco
+100	TO085	279.521	283.723	4.202	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	io l' altro giorno stavo parlando (.) con la mia coinquilina	io l' altro giorno stavo parlando {P} con la mia coinquilina	io l' altro giorno stavo parlando {P} con la mia coinquilina
+101	TO085	284.21	285.605	1.395	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:::hm	e:::hm	ehm
+102	TO085	285.905	288.0	2.095	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	>cioè< comunque le dicevo:	>cioè< comunque le dicevo:	cioè comunque le dicevo
+103	TO085	288.094	291.826	3.732	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	che secondo me io avrei sempre provato qualcosa per lucia	che secondo me io avrei sempre provato qualcosa per lucia	che secondo me io avrei sempre provato qualcosa per lucia
+104	TO085	292.841	293.905	1.064	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sempre	sempre	sempre
+105	TO085	296.232	298.079	1.847	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	boh, quindi lo vedrai?	boh, quindi lo vedrai?	boh quindi lo vedrai
+106	TO086	299.608	301.901	2.293	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì perché non sono >cioè< proprio:	sì perché non sono >cioè< proprio:	sì perché non sono cioè proprio
+107	TO086	302.557	305.285	2.728	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non so dire di no son lo so::	non so dire di no son lo so::	non so dire di no son lo so
+108	TO086	306.217	309.972	3.755	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	>cioè< c' ho anche pensato però no son curiosa e poi:	>cioè< c' ho anche pensato però no son curiosa e poi:	cioè c' ho anche pensato però no son curiosa e poi
+109	TO086	310.671	314.415	3.744	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	comunque ora sono in un periodo della mia vita: positivo	comunque ora sono in un periodo della mia vita: positivo	comunque ora sono in un periodo della mia vita positivo
+110	TO086	314.457	316.976	2.519	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	quindi mi fa anche piacere mostr[armi:]	quindi mi fa anche piacere mostr[armi:]	quindi mi fa anche piacere mostrarmi
+111	TO085	316.09	316.979	0.889	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+112	TO086	318.841	320.723	1.882	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	perché comunque come storia	perché comunque come storia	perché comunque come storia
+113	TO086	320.755	323.264	2.509	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< io ho sempre sentito qualcosa di speciale	>cioè< io ho sempre sentito qualcosa di speciale	cioè io ho sempre sentito qualcosa di speciale
+114	TO085	323.293	323.91	0.617	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+115	TO086	323.3	325.818	2.518	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[proprio:] che non ho mai più risentito	[proprio:] che non ho mai più risentito	proprio che non ho mai più risentito
+116	TO085	325.822	326.296	0.474	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh [mh]	mh [mh]	mh mh
+117	TO086	326.081	329.406	3.325	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[per]ò in sta storia io ero quello innamorata follemente:	[per]ò in sta storia io ero quello innamorata follemente:	però in sta storia io ero quello innamorata follemente
+118	TO086	329.771	331.822	2.051	True	False	1	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	e lui no::[ >cioè::<]	e lui no::[>cioé::<]	e lui nocioé
+119	TO085	331.119	331.822	0.703	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+120	TO085	336.225	337.614	1.389	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	no:: ti capisco	no:: ti capisco	no ti capisco
+121	TO086	338.003	339.837	1.834	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	che poi è finita proprio male	che poi è finita proprio male	che poi è finita proprio male
+122	TO086	340.798	344.185	3.387	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	e poi però nel tempo lui ogni tanto mi ha ricercato	e poi però nel tempo lui ogni tanto mi ha ricercato	e poi però nel tempo lui ogni tanto mi ha ricercato
+123	TO086	344.215	347.15	2.935	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< all' inizio malissimo io proprio linquidata::	>cioè< all' inizio malissimo io proprio linquidata::	cioè all' inizio malissimo io proprio linquidata
+124	TO085	347.15	347.81	0.66	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	mh mh mh	mh mh mh	mh mh mh
+125	TO086	347.821	351.172	3.351	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	perché io ero proprio presa a dei livelli:: (mostruosi)	perché io ero proprio presa a dei livelli:: (mostruosi)	perché io ero proprio presa a dei livelli mostruosi
+126	TO086	354.256	358.129	3.873	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	però poi col tempo si è visto che qualcosa l' ho lasciato:	però poi col tempo si è visto che qualcosa l' ho lasciato:	però poi col tempo si è visto che qualcosa l' ho lasciato
+127	TO085	359.08	360.268	1.188	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma sì ma::	ma sì ma::	ma sì ma
+128	TO086	360.27	361.367	1.097	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	però non lo so	però non lo so	però non lo so
+129	TO086	361.394	365.26	3.866	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	infatti sto incontro potrebbe anche essere che ci vediamo poi::	infatti sto incontro potrebbe anche essere che ci vediamo poi::	infatti sto incontro potrebbe anche essere che ci vediamo poi
+130	TO086	365.541	369.063	3.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	chissà cosa mi dice eh volevo invitarti al mio matrimonio	chissà cosa mi dice eh volevo invitarti al mio matrimonio	chissà cosa mi dice eh volevo invitarti al mio matrimonio
+131	TO085	369.067	370.047	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì no infatti	sì no infatti	sì no infatti
+132	TO086	370.047	374.039	3.992	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	>cioè< infatti lo so che devo aspettarmi di tutto >cioè< devo essere preparata	>cioè< infatti lo so che devo aspettarmi di tutto >cioè< devo essere preparata	cioè infatti lo so che devo aspettarmi di tutto cioè devo essere preparata
+133	TO085	374.039	374.4	0.361	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+134	TO085	376.145	378.039	1.894	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	anche perché non si capisce	anche perché non si capisce	anche perché non si capisce
+135	TO085	379.251	382.395	3.144	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	mai queste persone cosa: cosa [vogliono]	mai queste persone cosa: cosa [vogliono]	mai queste persone cosa cosa vogliono
+136	TO086	381.845	384.502	2.657	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[no: infa]tti potrebbe essere::	[no: infa]tti potrebbe essere::	no infatti potrebbe essere
+137	TO085	387.166	389.465	2.299	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	comu~ ah sì te l' ho detto che ho scritto a lucia?	comu~ ah sì te l' ho detto che ho scritto a lucia?	comu~ ah sì te l' ho detto che ho scritto a lucia
+138	TO086	390.243	390.927	0.684	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+139	TO085	391.806	393.913	2.107	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	di riascoltare questa canzone	di riascoltare questa canzone	di riascoltare questa canzone
+140	TO085	396.72	397.521	0.801	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mai	mai	mai
+141	TO085	399.05	400.687	1.637	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	mi sembra di scarda	mi sembra di scarda	mi sembra di scarda
+142	TO085	408.059	409.529	1.47	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	bellissima	bellissima	bellissima
+143	TO085	412.869	414.83	1.961	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	e parla proprio di questo	e parla proprio di questo	e parla proprio di questo
+144	TO085	415.727	417.059	1.332	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	te la mando	te la mando	te la mando
+145	TO085	425.513	426.818	1.305	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ma sei presa anche	ma sei presa anche	ma sei presa anche
+146	TO085	426.848	430.401	3.553	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>cioè< sei presa b:ene o:sei anche un po':: triste?	>cioè< sei presa b:ene o:sei anche un po':: triste?	cioè sei presa bene osei anche un po' triste
+147	TO086	430.944	432.648	1.704	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma triste:: no	ma triste:: no	ma triste no
+148	TO086	432.668	436.003	3.335	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	un po' preoccupata perché comunque ora sto con teo e quindi	un po' preoccupata perché comunque ora sto con teo e quindi	un po' preoccupata perché comunque ora sto con teo e quindi
+149	TO085	436.003	436.901	0.898	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ah beh sì	ah beh sì	ah beh sì
+150	TO085	437.164	439.1845	2.021	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	5	vabbè però sti cazzi dai::	vabbè però sti cazzi dai::	vabbè però sti cazzi dai
+151	TO086	439.1845	441.133	1.949	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	4	eh no infa~ però::	eh no infa~ però::	eh no infa~ però
+152	TO085	441.139	442.996	1.857	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	6	ma sì ma è in inghilter~ ((ride))	ma sì ma è in inghilter~ {ride}	ma sì ma è in inghilter~ {ride}
+153	TO085	443.857	444.644	0.787	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	boh io	boh io	boh io
+154	TO085	444.684	448.056	3.372	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	>cioè< sei innamorata? (.) di teo?	>cioè< sei innamorata? {P} di teo?	cioè sei innamorata {P} di teo
+155	TO086	449.209	450.837	1.628	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	no [(per ora)]	no [(per ora)]	no per ora
+156	TO085	449.774	450.833	1.059	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[eh allora]	[eh allora]	eh allora
+157	TO086	453.189	454.671	1.482	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no però:::	no però:::	no però
+158	TO086	454.705	456.923	2.218	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	>cioè< uno non può nemme:no::	>cioè< uno non può nemme:no::	cioè uno non può nemmeno
+159	TO086	457.549	461.747	4.198	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	trattar male una persona per qualcun altro che non ti dà abbastanza	trattar male una persona per qualcun altro che non ti dà abbastanza	trattar male una persona per qualcun altro che non ti dà abbastanza
+160	TO086	462.648	464.786	2.138	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	a parte il fatto che magari davvero	a parte il fatto che magari davvero	a parte il fatto che magari davvero
+161	TO086	464.817	468.339	3.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	eh no volevo farti solo un saluto io ci resto [di me:rda]	eh no volevo farti solo un saluto io ci resto [di me:rda]	eh no volevo farti solo un saluto io ci resto di merda
+162	TO085	467.119	468.341	1.222	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[sì può essere]	[sì può essere]	sì può essere
+163	TO086	468.83	471.186	2.356	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ah [quindi era pr]oprio un saluto?	ah [quindi era pr]oprio un saluto?	ah quindi era proprio un saluto
+164	TO085	469.063	469.889	0.826	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[può essere]	[può essere]	può essere
+165	TO086	471.715	475.868	4.153	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	[no] ma io io so che devo aspettarmi di tutto può anche darsi che poi mi scri:ve	[no] ma io io so che devo aspettarmi di tutto può anche darsi che poi mi scri:ve	no ma io io so che devo aspettarmi di tutto può anche darsi che poi mi scrive
+166	TO085	471.719	471.992	0.273	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[beh]	[beh]	beh
+167	TO086	475.923	479.498	3.575	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	ah scusa alla fine non ce la faccio [con i tem]pi >cioè< proprio::	ah scusa alla fine non ce la faccio [con i tem]pi >cioè< proprio::	ah scusa alla fine non ce la faccio con i tempi cioè proprio
+168	TO085	477.786	478.399	0.613	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sì sì]	[sì sì]	sì sì
+169	TO085	479.546	482.003	2.457	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[minchia ti giuro] mi sembra di sentire lucia	[minchia ti giuro] mi sembra di sentire lucia	minchia ti giuro mi sembra di sentire lucia
+170	TO086	479.546	480.451	0.905	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[io ormai]	[io ormai]	io ormai
+171	TO085	482.035	485.984	3.949	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	12	>cioè< le cose che dici (.) esattamente quelle [che ti potrebbe fare lei]	>cioè< le cose che dici {P} esattamente quelle [che ti potrebbe fare lei]	cioè le cose che dici {P} esattamente quelle che ti potrebbe fare lei
+172	TO086	484.592	486.664	2.072	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[>cioè< io proprio ormai::] no io imagi~	[>cioè< io proprio ormai::] no io imagi~	cioè io proprio ormai no io imagi~
+173	TO086	486.694	489.268	2.574	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sto immaginando tutte le poss[ibili varia]nti	sto immaginando tutte le poss[ibili varia]nti	sto immaginando tutte le possibili varianti
+174	TO085	488.304	488.92	0.616	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+175	TO086	489.291	492.07	2.779	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[perché non vo]glio arrivare impreparata::	[perché non vo]glio arrivare impreparata::	perché non voglio arrivare impreparata
+176	TO085	489.299	489.826	0.527	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+177	TO085	495.09	496.743	1.653	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma quant~ quando?	ma quant~ quando?	ma quant~ quando
+178	TO086	497.747	498.727	0.98	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sabato	sabato	sabato
+179	TO085	499.09	499.711	0.621	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	doma~	doma~	doma~
+180	TO085	500.162	500.794	0.632	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	domani?	domani?	domani
+181	TO086	500.794	501.588	0.794	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì domani	sì domani	sì domani
+182	TO085	503.197	503.916	0.719	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	bene	bene	bene
+183	TO086	510.075	512.347	2.272	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	mh tra l' altro penso che venga qui:	mh tra l' altro penso che venga qui:	mh tra l' altro penso che venga qui
+184	TO086	512.948	516.577	3.629	True	False	0	0	1	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	>cioè< tra l' altro lo so perchè sono già andata stalkerare	>cioè< tra l' altro lo so perché sono già andata stalkerare	cioè tra l' altro lo so perché sono già andata stalkerare
+185	TO086	518.342	521.271	2.929	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	credo che sia che sia tornato per laurearsi	credo che sia che sia tornato per laurearsi	credo che sia che sia tornato per laurearsi
+186	TO085	521.679	522.071	0.392	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	187=0.002	False	0	0	0	1	ah	ah	ah
+187	TO086	522.069	524.857	2.788	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	186=0.002,188=0.454	True	0	0	0	7	perché ha fatto una laurea tipo binazio[nale],	perché ha fatto una laurea tipo binazio[nale],	perché ha fatto una laurea tipo binazionale
+188	TO085	524.403	524.86	0.457	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[sì]	[sì]	sì
+189	TO086	526.726	528.579	1.853	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	e:::hm	e:::hm	ehm
+190	TO086	528.609	532.324	3.715	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	boh ho visto che le sessioni di laurea del politecnico sono in questi gi[orni]	boh ho visto che le sessioni di laurea del politecnico sono in questi gi[orni]	boh ho visto che le sessioni di laurea del politecnico sono in questi giorni
+191	TO085	531.893	532.32	0.427	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+192	TO086	532.351	533.486	1.135	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	quindi (è anche)	quindi (è anche)	quindi è anche
+193	TO086	533.996	538.083	4.087	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	16	perché se no non ha nemmeno senso che venga qui perché non è di torino lui	perché se no non ha nemmeno senso che venga qui perché non è di torino lui	perché se no non ha nemmeno senso che venga qui perché non è di torino lui
+194	TO085	538.806	539.486	0.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	a:h	a:h	ah
+195	TO086	540.838	544.146	3.308	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	(quindi) non è che dici torna perché la sua famiglia vive qui::	(quindi) non è che dici torna perché la sua famiglia vive qui::	quindi non è che dici torna perché la sua famiglia vive qui
+196	TO086	544.184	546.441	2.257	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	>cioè< [aveva fatto] solo il politecnico qua:	>cioè< [aveva fatto] solo il politecnico qua:	cioè aveva fatto solo il politecnico qua
+197	TO085	544.458	544.861	0.403	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[sì sì]	[sì sì]	sì sì
+198	TO085	546.449	547.608	1.159	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	dove abita?	dove abita?	dove abita
+199	TO086	548.755	551.585	2.83	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>cioè< di dov' è originario o dove sta ora?	>cioè< di dov' è originario o dove sta ora?	cioè di dov' è originario o dove sta ora
+200	TO085	553.486	557.458	3.972	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	15	a::h perché tu dici non è di torino però era qui a torino a studiare	a::h perché tu dici non è di torino però era qui a torino a studiare	ah perché tu dici non è di torino però era qui a torino a studiare
+201	TO086	557.774	558.335	0.561	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+202	TO085	558.454	558.936	0.482	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	°mh°	°mh°	mh
+203	TO086	566.564	567.695	1.131	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	dell' umbria	dell' umbria	dell' umbria
+204	TO086	568.035	570.548	2.513	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e ha un accento:: mamma mia	e ha un accento:: mamma mia	e ha un accento mamma mia
+205	TO085	572.012	574.332	2.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	son strani gli accenti umbri	son strani gli accenti umbri	son strani gli accenti umbri
+206	TO085	574.377	575.703	1.326	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	tipo marco?	tipo marco?	tipo marco
+207	TO086	578.261	579.545	1.284	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m:::h	m:::h	mh
+208	TO086	580.857	582.632	1.775	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì un pochi:no	sì un pochi:no	sì un pochino
+209	TO086	584.932	586.849	1.917	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	no: però è diverso	no: però è diverso	no però è diverso
+210	TO086	589.537	593.462	3.925	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	più che altro sulle ragazze non sta tanto bene è un po':::	più che altro sulle ragazze non sta tanto bene è un po':::	più che altro sulle ragazze non sta tanto bene è un po'
+211	TO086	596.015	598.343	2.328	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	ma non lo so ma perché poi in realtà	ma non lo so ma perché poi in realtà	ma non lo so ma perché poi in realtà
+212	TO086	598.404	600.928	2.524	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	x (in generale) lo trovo un po' grezzo:	x (in generale) lo trovo un po' grezzo:	x in generale lo trovo un po' grezzo
+213	TO086	602.106	605.786	3.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	tipo una volta che ero con altre persone:: di dov' è lui	tipo una volta che ero con altre persone:: di dov' è lui	tipo una volta che ero con altre persone di dov' è lui
+214	TO086	605.829	608.865	3.036	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non mi >cioè:< tutti insieme sembra proprio grezzo:	non mi >cioè:< tutti insieme sembra proprio grezzo:	non mi cioè tutti insieme sembra proprio grezzo
+215	TO086	609.75	613.917	4.167	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	però tipo se è solo lui confrontato alla mia piemontesità:::	però tipo se è solo lui confrontato alla mia piemontesità:::	però tipo se è solo lui confrontato alla mia piemontesità
+216	TO086	613.937	616.043	2.106	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	non lo so mi fa un effetto::	non lo so mi fa un effetto::	non lo so mi fa un effetto
+217	TO085	617.339	618.245	0.906	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cari:no	cari:no	carino
+218	TO086	618.246	618.893	0.647	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	eh?	eh?	eh
+219	TO085	619.948	620.636	0.688	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	bello	bello	bello
+220	TO086	620.656	621.015	0.359	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì:	sì:	sì
+221	TO085	636.501	640.007	3.506	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	comunque non riesco a capire perché non c' è nessuno in giro al campus	comunque non riesco a capire perché non c' è nessuno in giro al campus	comunque non riesco a capire perché non c' è nessuno in giro al campus
+222	TO085	642.679	644.351	1.672	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	4	han[no finito le lezioni?]	han[no finito le lezioni]?	hanno finito le lezioni
+223	TO086	643.027	644.351	1.324	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	5	[forse c' è una pausa?]	[forse c' è una pausa]?	forse c' è una pausa
+224	TO086	644.485	645.577	1.092	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non lo so	non lo so	non lo so
+225	TO085	647.46	650.274	2.814	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	non c' è più nessuno neanche a studiare °>cioè<°	non c' è più nessuno neanche a studiare °>cioè<°	non c' è più nessuno neanche a studiare cioè
+226	TO085	652.304	655.446	3.142	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	quando c' era il sole due setti[mane fa]	quando c' era il sole due setti[mane fa]	quando c' era il sole due settimane fa
+227	TO086	654.748	655.446	0.698	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[sì era pieno]	[sì era pieno]	sì era pieno
+228	TO085	655.461	656.137	0.676	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	era pieno	era pieno	era pieno
+229	TO086	656.446	659.636	3.19	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	ma infatti ho anche pensato che magari [per la pioggia la gente]	ma infatti ho anche pensato che magari [per la pioggia la gente]	ma infatti ho anche pensato che magari per la pioggia la gente
+230	TO085	658.201	659.636	1.435	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[la g~ eh può e~]	[la g~ eh può e~]	la g~ eh può e~
+231	TO085	659.966	660.998	1.032	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[può essere]	[può essere]	può essere
+232	TO086	659.972	661.513	1.541	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[ma è  possibilis]simo	[ma è possibilis]simo	ma è possibilissimo
+233	TO086	661.54	663.494	1.954	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ma anche io non avevo voglia poi	ma anche io non avevo voglia poi	ma anche io non avevo voglia poi
+234	TO086	664.154	667.549	3.395	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	se c' è qualcuno vengo anch' io perché so che studio di pi[ù::]	se c' è qualcuno vengo anch' io perché so che studio di pi[ù::]	se c' è qualcuno vengo anch' io perché so che studio di più
+235	TO085	667.186	667.549	0.363	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[m:h]	[m:h]	mh
+236	TO085	707.096	709.26	2.164	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	poi ho detto a greta di dirle	poi ho detto a greta di dirle	poi ho detto a greta di dirle
+237	TO085	709.905	712.051	2.146	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	di scriverle per il caffé	di scriverle per il caffé	di scriverle per il caffé
+238	TO086	712.347	712.671	0.324	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ah	ah	ah
+239	TO085	712.671	713.588	0.917	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	di aspettarla	di aspettarla	di aspettarla
+240	TO085	715.268	718.173	2.905	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	infatti le dico::: boh	infatti le dico::: boh	infatti le dico boh
+241	TO085	718.207	721.241	3.034	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	tra dieci minuti? (.) al bar?	tra dieci minuti? {P} al bar?	tra dieci minuti {P} al bar
+242	TO085	721.757	722.4155000000001	0.661	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	4	un po' di più?	un po' di più?	un po' di più
+243	TO086	722.4155000000001	722.762	0.349	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+244	TO086	723.634	726.488	2.854	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	(di fatti) io sono lenta questa pizza mi sembra	(di fatti) io sono lenta questa pizza mi sembra	di fatti io sono lenta questa pizza mi sembra
+245	TO086	727.648	731.694	4.046	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	(un po') mi fa sentire una persona normale son molto contenta	(un po') mi fa sentire una persona normale son molto contenta	un po' mi fa sentire una persona normale son molto contenta
+246	TO085	731.689	732.772	1.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+247	TO085	733.948	736.035	2.087	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ma ti giuro ma sembra anche buona	ma ti giuro ma sembra anche buona	ma ti giuro ma sembra anche buona
+248	TO085	736.209	737.098	0.889	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	>cioè< nel sen[so]	>cioè< nel sen[so]	cioè nel senso
+249	TO086	737.043	738.292	1.249	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[se]condo me:	[se]condo me:	secondo me
+250	TO086	738.505	741.857	3.352	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	tipo è simile a~ alle vostre però magari	tipo è simile a~ alle vostre però magari	tipo è simile a~ alle vostre però magari
+251	TO086	741.908	745.415	3.507	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	tipo che ha m::h la consistenza come se avesse preso un po' d' aria	tipo che ha m::h la consistenza come se avesse preso un po' d' aria	tipo che ha mh la consistenza come se avesse preso un po' d' aria
+252	TO086	745.441	746.94	1.499	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	che magari è tipo [di ie::ri]	che magari è tipo [di ie::ri]	che magari è tipo di ieri
+253	TO085	746.071	747.32	1.249	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	252=0.869	True	0	0	0	2	[m:h] [m:h]	[m:h] [m:h]	mh mh
+254	TO086	747.434	749.426	1.992	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	_	True	0	0	0	5	[quin]di un po' più: stopposa	[quin]di un po' più: stopposa	quindi un po' più stopposa
+255	TO085	766.915	769.549	2.634	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	co:me vuoi chiama:(rla)	co:me vuoi chiama:(rla)	come vuoi chiamarla
+256	TO086	769.555	773.168	3.613	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	ma l' aneddoto della lavastoviglie era legato a cosa?	ma l' aneddoto della lavastoviglie era legato a cosa?	ma l' aneddoto della lavastoviglie era legato a cosa
+257	TO086	774.055	777.517	3.462	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	perché lui in genere gli aneddoti non li butta a caso li dice::	perché lui in genere gli aneddoti non li butta a caso li dice::	perché lui in genere gli aneddoti non li butta a caso li dice
+258	TO085	777.697	778.237	0.54	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	2	[ma chi?]	[ma chi]?	ma chi
+259	TO086	777.697	778.237	0.54	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[li le~]	[li le~]	li le~
+260	TO086	778.833	779.664	0.831	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	luca	luca	luca
+261	TO085	781.312	782.529	1.217	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non c' ero	non c' ero	non c' ero
+262	TO086	782.861	784.504	1.643	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ah non c' eri quando x ?	ah non c' eri quando x?	ah non c' eri quando x
+263	TO085	785.399	786.667	1.268	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	la lavastoviglie?	la lavastoviglie?	la lavastoviglie
+264	TO086	786.8	791.3050000000001	4.508	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	13	sì perché ha detto che lui a casa è l' addetto alla lavastoviglie	sì perché ha detto che lui a casa è l' addetto alla lavastoviglie	sì perché ha detto che lui a casa è l' addetto alla lavastoviglie
+265	TO085	791.3050000000001	793.403	2.101	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	1	0	0	7	no (.) o non no:: non c' ero	no {P} o non no:: non c' ero	no {P} o non no non c' ero
+266	TO085	795.129	797.541	2.412	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	1	0	2	((ride)) [ma perché?]	{ride} [ma perché]?	{ride} ma perché
+267	TO086	796.482	797.537	1.055	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	[xxx]	[xxx]	x
+268	TO086	797.585	800.803	3.218	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	non lo so ci fa ri~ ci aveva fatto abbastanza ridere	non lo so ci fa ri~ ci aveva fatto abbastanza ridere	non lo so ci fa ri~ ci aveva fatto abbastanza ridere
+269	TO086	801.048	803.442	2.394	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	però non riesco a ricollegare	però non riesco a ricollegare	però non riesco a ricollegare
+270	TO086	803.491	806.671	3.18	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	14	perché in genere lui non è che ti racconta i cazzi suoi a caso	perché in genere lui non è che ti racconta i cazzi suoi a caso	perché in genere lui non è che ti racconta i cazzi suoi a caso
+271	TO086	806.712	809.217	2.505	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	magari [mette lì l' aneddoto legandolo]	magari [mette lì l' aneddoto legandolo]	magari mette lì l' aneddoto legandolo
+272	TO085	806.901	809.217	2.316	True	False	1	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	3	[no::(.) assolutamente no]	[no:: {P} assolutamente no]	no {P} assolutamente no
+273	TO085	809.251	810.053	0.802	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	ce:rto	ce:rto	certo
+274	TO086	812.185	815.217	3.032	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	a una qualche cosa tipo il suo amico tosca::no	a una qualche cosa tipo il suo amico tosca::no	a una qualche cosa tipo il suo amico toscano
+275	TO086	815.241	817.039	1.798	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	che [aveva iniziato a dire::]	che [aveva iniziato a dire::]	che aveva iniziato a dire
+276	TO085	815.45	817.458	2.008	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[sì sì solo] più	[sì sì solo] più	sì sì solo più
+277	TO086	820.15	823.849	3.699	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	però sta lavastoviglie non riesco proprio a contestualizz[arla]	però sta lavastoviglie non riesco proprio a contestualizz[arla]	però sta lavastoviglie non riesco proprio a contestualizzarla
+278	TO085	823.435	824.363	0.928	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[o c']ero:?	[o c']ero:?	o c' ero
+279	TO085	827.723	828.928	1.205	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	forse c' ero	forse c' ero	forse c' ero
+280	TO085	831.205	833.671	2.466	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	secondo me parla~ (.) no:: no::	secondo me parla~ {P} no:: no::	secondo me parla~ {P} no no
+281	TO085	834.387	836.347	1.96	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	di ri~ riallocazione	di ri~ riallocazione	di ri~ riallocazione
+282	TO086	837.249	839.604	2.355	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	anch' io s[tavo pensando] magari::	anch' io s[tavo pensando] magari::	anch' io stavo pensando magari
+283	TO085	837.752	838.657	0.905	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	1	[ve:ro?]	[ve:ro]?	vero
+284	TO086	839.725	842.142	2.417	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	tipo una divisione dei [compiti]	tipo una divisione dei [compiti]	tipo una divisione dei compiti
+285	TO085	841.169	842.138	0.969	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[esa:tto]	[esa:tto]	esatto
+286	TO085	842.458	844.308	1.85	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	no secondo me era tipo::	no secondo me era tipo::	no secondo me era tipo
+287	TO086	845.11	848.498	3.388	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	però mi semb~ è un po' troppo fantasioso fare un salto::	però mi semb~ è un po' troppo fantasioso fare un salto::	però mi semb~ è un po' troppo fantasioso fare un salto
+288	TO085	849.688	853.007	3.319	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	eh sì o di domi:ni una questione di domini	eh sì o di domi:ni una questione di domini	eh sì o di domini una questione di domini
+289	TO085	856.36	859.854	3.494	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	tipo:: io copro il dominio: della lavastoviglie	tipo:: io copro il dominio: della lavastoviglie	tipo io copro il dominio della lavastoviglie
+290	TO086	860.081	861.577	1.496	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	della mascolinità	della mascolinità	della mascolinità
+291	TO085	861.587	862.651	1.064	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+292	TO085	865.404	868.93	3.526	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	io voglio assaggiare la pi:zza posso?	io voglio assaggiare la pi:zza posso?	io voglio assaggiare la pizza posso
+293	TO086	869.118	872.055	2.937	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	sì ma secondo me sarà una delusione te lo dico	sì ma secondo me sarà una delusione te lo dico	sì ma secondo me sarà una delusione te lo dico
+294	TO085	872.505	874.298	1.793	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sono curiosa	sono curiosa	sono curiosa
+295	TO085	876.652	879.6	2.948	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	ah sì (.) è una delusione	ah sì {P} è una delusione	ah sì {P} è una delusione
+296	TO085	880.465	881.477	1.012	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	totale	totale	totale
+297	TO085	883.913	885.688	1.775	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	2	mamma mia ((ride))	mamma mia {ride}	mamma mia {ride}
+298	TO086	885.853	888.952	3.099	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	adesso mi chiedo come sia quella che mangiate voi di solito	adesso mi chiedo come sia quella che mangiate voi di solito	adesso mi chiedo come sia quella che mangiate voi di solito
+299	TO086	888.976	890.134	1.158	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	dev' essere buonis[sima]	dev' essere buonis[sima]	dev' essere buonissima
+300	TO085	889.653	890.758	1.105	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[buoni]ssima	[buoni]ssima	buonissima
+301	TO086	890.96	894.897	3.937	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	17	no ma da piccola la mangiavo anch' io però non è che me la ricordo poi tanto	no ma da piccola la mangiavo anch' io però non è che me la ricordo poi tanto	no ma da piccola la mangiavo anch' io però non è che me la ricordo poi tanto
+302	TO085	894.897	897.794	2.897	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	n~ ah ma infatti te lo volevo chiedere non te li ricordi::	n~ ah ma infatti te lo volevo chiedere non te li ricordi::	n~ ah ma infatti te lo volevo chiedere non te li ricordi
+303	TO085	898.636	899.628	0.992	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	i sapori?	i sapori?	i sapori
+304	TO086	900.449	901.275	0.826	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::h	m::h	mh
+305	TO086	903.371	906.762	3.391	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	n::on tan~ più le consistenze forse	n::on tan~ più le consistenze forse	non tan~ più le consistenze forse
+306	TO085	906.943	908.31	1.367	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	a:::h e:h	a:::h e:h	ah eh
+307	TO086	908.648	910.328	1.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ah i sapori non più	ah i sapori non più	ah i sapori non più
+308	TO086	910.344	913.047	2.703	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	gli anni me li ricordavo:: [abbastanza]	gli anni me li ricordavo:: [abbastanza]	gli anni me li ricordavo abbastanza
+309	TO085	911.741	914.002	2.261	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	308=1.306,310=0.012	True	0	0	0	8	[beh a parte che i sapori sono] simili	[beh a parte che i sapori sono] simili	beh a parte che i sapori sono simili
+310	TO086	913.99	916.851	2.861	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	309=0.012,311=1.757	True	0	0	0	6	infatti sì [no ma poi comunque:]	infatti sì [no ma poi comunque:]	infatti sì no ma poi comunque
+311	TO085	915.094	917.727	2.633	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	310=1.757,312=0.851	True	0	0	0	7	[>cioè< qui: è proprio la consistenza che:]	[>cioè< qui: è proprio la consistenza che:]	cioè qui è proprio la consistenza che
+312	TO086	916.876	920.837	3.961	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	18	[comunque se fai] te le cose o se vai in un ristorante in cui fanno bene le cose	[comunque se fai] te le cose o se vai in un ristorante in cui fanno bene le cose	comunque se fai te le cose o se vai in un ristorante in cui fanno bene le cose
+313	TO086	920.864	923.908	3.044	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	le p~ puoi mangiarle con gli stessi sapori non è che::	le p~ puoi mangiarle con gli stessi sapori non è che::	le p~ puoi mangiarle con gli stessi sapori non è che
+314	TO085	923.936	924.723	0.787	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::h	m::h	mh
+315	TO086	942.513	944.059	1.546	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma carlo viene?	ma carlo viene?	ma carlo viene
+316	TO085	944.636	947.75	3.114	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	secondo me no (.) non gliel' ho chiesto però	secondo me no {P} non gliel' ho chiesto però	secondo me no {P} non gliel' ho chiesto però
+317	TO085	949.624	951.043	1.419	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°(che fastidio)°	°(che fastidio)°	che fastidio
+318	TO085	952.762	955.339	2.577	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	a parte che non mi va internet qua	a parte che non mi va internet qua	a parte che non mi va internet qua
+319	TO085	955.559	958.351	2.792	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	quindi ho scritto a greta ma:::	quindi ho scritto a greta ma:::	quindi ho scritto a greta ma
+320	TO085	961.976	962.353	0.377	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	boh	boh	boh
+321	TO085	962.459	963.77	1.311	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	e poi (.) non lo so	e poi {P} non lo so	e poi {P} non lo so
+322	TO085	963.858	968.134	4.276	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ho difficoltà ogni volta agganciarmi a::l wifi del:: dell' uni	ho difficoltà ogni volta agganciarmi a::l wifi del:: dell' uni	ho difficoltà ogni volta agganciarmi al wifi del dell' uni
+323	TO086	968.889	969.454	0.565	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	mh	mh	mh
+324	TO085	969.518	970.862	1.344	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non non boh	non non boh	non non boh
+325	TO085	987.604	990.496	2.892	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	comunque sì secondo lucia non c' è stasera	comunque sì secondo lucia non c' è stasera	comunque sì secondo lucia non c' è stasera
+326	TO085	990.881	993.521	2.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	perché è tutta la settimana che non la vedo al campus	perché è tutta la settimana che non la vedo al campus	perché è tutta la settimana che non la vedo al campus
+327	TO085	993.532	995.399	1.867	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	e continuo a vedere i suoi amici	e continuo a vedere i suoi amici	e continuo a vedere i suoi amici
+328	TO085	996.043	999.774	3.731	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	14	e lei non c' è secondo me è a milano (.) o è presa male	e lei non c' è secondo me è a milano {P} o è presa male	e lei non c' è secondo me è a milano {P} o è presa male
+329	TO085	999.879	1001.401	1.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	e quindi non esce	e quindi non esce	e quindi non esce
+330	TO086	1003.213	1006.426	3.213	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ma loro non hanno esami in sto periodo mi sembra	ma loro non hanno esami in sto periodo mi sembra	ma loro non hanno esami in sto periodo mi sembra
+331	TO085	1007.011	1007.628	0.617	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no	no	no
+332	TO086	1007.631	1008.774	1.143	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxxx	xxxx	x
+333	TO085	1008.774	1011.137	2.363	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	però hanno a volte hanno gli esoneri	però hanno a volte hanno gli esoneri	però hanno a volte hanno gli esoneri
+334	TO085	1012.658	1014.773	2.115	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	ma perché vedi n~	ma perché vedi n~	ma perché vedi n~
+335	TO085	1016.328	1017.648	1.32	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	porca vacca	porca vacca	porca vacca
+336	TO085	1041.071	1043.276	2.205	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no:n vuo:::~	no:n vuo:::~	non vuo~
+337	TO086	1052.209	1054.715	2.506	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	m::h alle sei ho di nuovo una guida	m::h alle sei ho di nuovo una guida	mh alle sei ho di nuovo una guida
+338	TO085	1058.588	1060.213	1.625	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	come stanno andando?	come stanno andando?	come stanno andando
+339	TO086	1060.24	1062.0	1.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ma la prima mi è piaciuta	ma la prima mi è piaciuta	ma la prima mi è piaciuta
+340	TO086	1062.031	1065.751	3.72	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	ma poi che ti dice tutto l' istruttore essendo la [prima v]olta	ma poi che ti dice tutto l' istruttore essendo la [prima v]olta	ma poi che ti dice tutto l' istruttore essendo la prima volta
+341	TO085	1064.3	1064.869	0.569	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[m:h]	[m:h]	mh
+342	TO086	1065.768	1068.721	2.953	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	quindi non è che devi pensare tanto ti (dirò)	quindi non è che devi pensare tanto ti (dirò)	quindi non è che devi pensare tanto ti dirò
+343	TO086	1068.753	1071.707	2.954	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	però mi è pia~ >cioè< io pensavo m:h [che tipo]	però mi è pia~ >cioè< io pensavo m:h [che tipo]	però mi è pia~ cioè io pensavo mh che tipo
+344	TO085	1070.905	1073.622	2.717	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	[ma tu: avevi] un' idea di come si guidava?	[ma tu: avevi] un' idea di come si guidava?	ma tu avevi un' idea di come si guidava
+345	TO086	1073.641	1075.265	1.624	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	m::h=no::	m::h=no::	mh no
+346	TO086	1076.606	1080.09	3.484	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cioè< avevo provato un po' ma mio papà tipo non sapeva dirmi	>cioè< avevo provato un po' ma mio papà tipo non sapeva dirmi	cioè avevo provato un po' ma mio papà tipo non sapeva dirmi
+347	TO086	1080.111	1083.511	3.402	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	9	tipo: qualo pedali schiacciare quindi spegnevo sempre il motore	tipo: qualo pedali schiacciare quindi spegnevo sempre il motore	tipo qualo pedali schiacciare quindi spegnevo sempre il motore
+348	TO085	1081.691	1082.774	1.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+349	TO085	1083.511	1084.316	0.807	True	False	0	0	0	0	0	0	1	0	False	False	False	False	False	_	False	0	0	0	2	sì sì	sì sì	sì sì
+350	TO086	1084.707	1087.52	2.813	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	invece con l' istruttore non ho avuto proble:mi	invece con l' istruttore non ho avuto proble:mi	invece con l' istruttore non ho avuto problemi
+351	TO086	1090.085	1093.642	3.557	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	poi mi dà mi ha proprio dato un senso tipo non lo so:	poi mi dà mi ha proprio dato un senso tipo non lo so:	poi mi dà mi ha proprio dato un senso tipo non lo so
+352	TO086	1093.709	1098.213	4.504	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	di indipendenza, di libertà, [non so] quando ho preso la galleri:a	di indipendenza, di libertà, [non so] quando ho preso la galleri:a	di indipendenza di libertà non so quando ho preso la galleria
+353	TO085	1095.751	1096.288	0.537	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[mh]	[mh]	mh
+354	TO085	1098.94	1101.509	2.569	True	False	0	0	0	0	0	0	0	1	False	False	False	False	False	_	False	0	0	0	6	ma eh qui=a:: torino [eravate?]	ma eh qui=a:: torino [eravate]?	ma eh qui a torino eravate
+355	TO086	1100.714	1101.509	0.795	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[mh mh]	[mh mh]	mh mh
+356	TO085	1102.0	1105.584	3.584	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cioè< hai fatto la:: la galleria di porta palazzo di viale regina?	>cioè< hai fatto la:: la galleria di porta palazzo di viale regina?	cioè hai fatto la la galleria di porta palazzo di viale regina
+357	TO086	1105.83	1109.241	3.411	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	n::o è una che: mh per andare verso moncalieri	n::o è una che: mh per andare verso moncalieri	no è una che mh per andare verso moncalieri
+358	TO085	1109.242	1109.952	0.71	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	a:h [okay]	a:h [okay]	ah okay
+359	TO086	1109.505	1110.675	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	[vicino] a casa mia	[vicino] a casa mia	vicino a casa mia
+360	TO086	1113.448	1117.264	3.816	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	13	ma perché io un po' di volte (.) tipo:: vabbè ora non più tanto	ma perché io un po' di volte {P} tipo:: vabbè ora non più tanto	ma perché io un po' di volte {P} tipo vabbè ora non più tanto
+361	TO086	1117.284	1121.901	4.617	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	però un sogno che facevo: a volte:: ricorrente era io che guidavo	però un sogno che facevo: a volte:: ricorrente era io che guidavo	però un sogno che facevo a volte ricorrente era io che guidavo
+362	TO086	1123.287	1125.592	2.305	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	allora tipo come nel mio so:gno	allora tipo come nel mio so:gno	allora tipo come nel mio sogno
+363	TO085	1125.596	1126.386	0.79	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+364	TO085	1132.098	1132.853	0.755	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	bene	bene	bene
+365	TO085	1136.702	1138.683	1.981	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ma poi hai la macchina tu	ma poi hai la macchina tu	ma poi hai la macchina tu
+366	TO086	1140.197	1141.711	1.514	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	(quella dei miei)	(quella dei miei)	quella dei miei
+367	TO085	1150.505	1153.592	3.087	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	ma tu abiti: vicino a dante	ma tu abiti: vicino a dante	ma tu abiti vicino a dante
+368	TO085	1154.274	1154.824	0.55	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no	no	no
+369	TO086	1154.826	1155.577	0.751	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	@nomeluogo	@nomeluogo	@nomeluogo
+370	TO085	1155.581	1156.363	0.782	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	371=0.489	False	0	0	0	0	@nomeluogo	@nomeluogo	@nomeluogo
+371	TO086	1155.874	1157.273	1.399	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	370=0.489,372=0.001	True	0	0	0	0	[xx] xxx	[xx] xxx	x x
+372	TO085	1157.272	1159.023	1.751	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	371=0.001	False	0	0	0	4	@nomeluogo è prima di dante	@nomeluogo è prima di dante	@nomeluogo è prima di dante
+373	TO086	1160.367	1162.15	1.783	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxxxxx	xxxxxx	x
+374	TO085	1173.422	1175.558	2.136	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	sai che ieri sono andata::	sai che ieri sono andata::	sai che ieri sono andata
+375	TO085	1175.953	1179.494	3.541	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	a mangiare i panzerotti da un' amica della mia coninquilina	a mangiare i panzerotti da un' amica della mia coninquilina	a mangiare i panzerotti da un' amica della mia coninquilina
+376	TO085	1180.514	1184.34	3.826	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	siamo andate dopo dante (.) lontanissimo	siamo andate dopo dante {P} lontanissimo	siamo andate dopo dante {P} lontanissimo
+377	TO085	1184.366	1187.749	3.383	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	no >cioè< non abiterei ma~ no no [non è vero non è vero]	no >cioè< non abiterei ma~ no no [non è vero non è vero]	no cioè non abiterei ma~ no no non è vero non è vero
+378	TO086	1186.36	1189.748	3.388	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	[no ma lì è ancora centro] [torino continua per un] sacco	[no ma lì è ancora centro] [torino continua per un] sacco	no ma lì è ancora centro torino continua per un sacco
+379	TO085	1187.894	1189.075	1.181	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[no era::]	[no era::]	no era
+380	TO085	1189.979	1193.79	3.811	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	era:: crocetta scusa (.) però [secondo me in fondo]	era:: crocetta scusa {P} però [secondo me in fondo]	era crocetta scusa {P} però secondo me in fondo
+381	TO086	1192.298	1194.007	1.709	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[beh carina crocetta]	[beh carina crocetta]	beh carina crocetta
+382	TO086	1194.039	1195.474	1.435	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	è ancora centrale	è ancora centrale	è ancora centrale
+383	TO085	1195.48	1197.81	2.33	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ma che centrale ma non c' è niente	ma che centrale ma non c' è niente	ma che centrale ma non c' è niente
+384	TO086	1197.991	1200.288	2.297	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	eh ma [perché è una zona fatta a vi]lline	eh ma [perché è una zona fatta a vi]lline	eh ma perché è una zona fatta a villine
+385	TO085	1198.264	1199.6	1.336	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[son solo case]	[son solo case]	son solo case
+386	TO086	1200.312	1203.423	3.111	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	però è abba~ [guarda che] è infilata nel centro in realtà:	però è abba~ [guarda che] è infilata nel centro in realtà:	però è abba~ guarda che è infilata nel centro in realtà
+387	TO085	1200.584	1201.142	0.558	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	[sì::]	[sì::]	sì
+388	TO085	1203.739	1205.296	1.557	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	in che senso nel centro?	in che senso nel centro?	in che senso nel centro
+389	TO086	1205.299	1208.548	3.249	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	>cioè< che ha fatta che ha tutti questi viali grandi e le villine	>cioè< che ha fatta che ha tutti questi viali grandi e le villine	cioè che ha fatta che ha tutti questi viali grandi e le villine
+390	TO086	1208.565	1210.086	1.521	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	però in realtà::	però in realtà::	però in realtà
+391	TO086	1210.347	1214.43	4.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	è abbastanza centrale come >cioè< non è che sei già in una periferia::	è abbastanza centrale come >cioè< non è che sei già in una periferia::	è abbastanza centrale come cioè non è che sei già in una periferia
+392	TO085	1214.853	1216.907	2.054	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì vabbè ma non è più::	sì vabbè ma non è più::	sì vabbè ma non è più
+393	TO085	1217.138	1219.115	1.977	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>cioè< non c' è p~ non c' è niente	>cioè< non c' è p~ non c' è niente	cioè non c' è p~ non c' è niente
+394	TO086	1222.233	1225.241	3.008	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	perché è fatto così il quartiere è un [quartiere ri]cco	perché è fatto così il quartiere è un [quartiere ri]cco	perché è fatto così il quartiere è un quartiere ricco
+395	TO085	1224.213	1224.984	0.771	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[eh sì]	[eh sì]	eh sì
+396	TO085	1225.311	1225.845	0.534	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+397	TO086	1227.355	1228.079	0.724	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	m::h	m::h	mh
+398	TO086	1228.843	1231.715	2.872	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	io non ci vivrei perché [a me non piace st]are::	io non ci vivrei perché [a me non piace st]are::	io non ci vivrei perché a me non piace stare
+399	TO085	1230.039	1230.952	0.913	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[neanch' io]	[neanch' io]	neanch' io
+400	TO086	1235.296	1237.6	2.304	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	io sono molto cittadina quindi::	io sono molto cittadina quindi::	io sono molto cittadina quindi
+401	TO085	1237.604	1238.498	0.894	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma anch' io	ma anch' io	ma anch' io
+402	TO085	1239.652	1241.341	1.689	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	non ci vivrei mai lì	non ci vivrei mai lì	non ci vivrei mai lì
+403	TO085	1242.015	1244.098	2.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[>cioè< mi sembra di essere:]	[>cioè< mi sembra di essere:]	cioè mi sembra di essere
+404	TO086	1242.015	1244.098	2.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[xxx la natura]	[xxx la natura]	x la natura
+405	TO085	1244.125	1246.885	2.76	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	12	>cioè< mi sembra davvero di essere in un' altra città poi vabbè	>cioè< mi sembra davvero di essere in un' altra città poi vabbè	cioè mi sembra davvero di essere in un' altra città poi vabbè
+406	TO085	1247.083	1250.75	3.667	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	8	con i mezzi:: (.) alla fine non è distante	con i mezzi:: {P} alla fine non è distante	con i mezzi {P} alla fine non è distante
+407	TO085	1252.308	1254.98	2.672	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	ci metti venti minuti arrivare in centro	ci metti venti minuti arrivare in centro	ci metti venti minuti arrivare in centro
+408	TO085	1256.477	1257.513	1.036	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	quindi ci sta	quindi ci sta	quindi ci sta
+409	TO086	1257.524	1260.769	3.245	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	sì ma vicino a casa mia:: è abbastanza vicino	sì ma vicino a casa mia:: è abbastanza vicino	sì ma vicino a casa mia è abbastanza vicino
+410	TO086	1261.15	1262.173	1.023	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	0	xxx	xxx	x
+411	TO086	1262.675	1264.359	1.684	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	in un quarto d' ora ci arrivi	in un quarto d' ora ci arrivi	in un quarto d' ora ci arrivi
+412	TO085	1267.339	1268.509	1.17	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	però boh >cioè::<	però boh >cioè::<	però boh cioè
+413	TO085	1269.687	1273.387	3.7	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	10	no (.) tra il fatto devi tornare a casa di notte	no {P} tra il fatto devi tornare a casa di notte	no {P} tra il fatto devi tornare a casa di notte
+414	TO086	1273.397	1275.545	2.148	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	sì esatto quello [non mi piace]	sì esatto quello [non mi piace]	sì esatto quello non mi piace
+415	TO085	1274.644	1275.545	0.901	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[alle tre]	[alle tre]	alle tre
+416	TO085	1275.841	1277.794	1.953	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	che non ci sono i mezzi cosa fai?	che non ci sono i mezzi cosa fai?	che non ci sono i mezzi cosa fai
+417	TO085	1280.324	1283.651	3.327	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	s~ ti fai quarantacinque minuti a piedi magari sbronzo?	s~ ti fai quarantacinque minuti a piedi magari sbronzo?	s~ ti fai quarantacinque minuti a piedi magari sbronzo
+418	TO085	1284.509	1285.703	1.194	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non credo proprio	non credo proprio	non credo proprio
+419	TO086	1291.412	1293.697	2.285	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ma monza quanti abitanti ha?	ma monza quanti abitanti ha?	ma monza quanti abitanti ha
+420	TO085	1297.339	1298.525	1.186	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	allo:ra	allo:ra	allora
+421	TO085	1298.778	1299.747	0.969	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	lissone	lissone	lissone
+422	TO085	1300.939	1303.019	2.08	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ne ha quarantamila	ne ha quarantamila	ne ha quarantamila
+423	TO085	1303.322	1305.766	2.444	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	secondo me monza	secondo me monza	secondo me monza
+424	TO085	1306.62	1310.241	3.621	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	7	che fa provincia (.) ne avrà il triplo	che fa provincia {P} ne avrà il triplo	che fa provincia {P} ne avrà il triplo
+425	TO085	1310.301	1311.237	0.936	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non lo so	non lo so	non lo so
+426	TO086	1312.09	1313.201	1.111	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	tipo xx	tipo xx	tipo x
+427	TO085	1313.201	1315.363	2.162	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì:: secon~ boh	sì:: secon~ boh	sì secon~ boh
+428	TO085	1316.226	1317.213	0.987	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	non lo so	non lo so	non lo so
+429	TO085	1320.616	1322.759	2.143	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	4	ah non ho internet ((ride))	ah non ho internet {ride}	ah non ho internet {ride}
+430	TO085	1334.956	1336.169	1.213	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	vuoi una siga?	vuoi una siga?	vuoi una siga
+431	TO086	1336.586	1337.901	1.315	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	no: graz~	no: graz~	no graz~
+432	TO085	1351.181	1352.909	1.728	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	°minchia che fastidio°	°minchia che fastidio°	minchia che fastidio
+433	TO086	1353.494	1356.865	3.371	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	comunque al di là dell' esito che avrà questo incontro	comunque al di là dell' esito che avrà questo incontro	comunque al di là dell' esito che avrà questo incontro
+434	TO086	1356.881	1357.763	0.882	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	se ci sarà	se ci sarà	se ci sarà
+435	TO085	1357.768	1358.507	0.739	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	mh mh	mh mh	mh mh
+436	TO086	1359.15	1362.944	3.794	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	qualsiasi cosa io devo continuare a studiare come prima	qualsiasi cosa io devo continuare a studiare come prima	qualsiasi cosa io devo continuare a studiare come prima
+437	TO086	1362.972	1364.102	1.13	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	se non meglio	se non meglio	se non meglio
+438	TO085	1364.213	1366.458	2.245	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	sì as[solutamente, assolutamente]	sì as[solutamente, assolutamente]	sì assolutamente assolutamente
+439	TO086	1364.537	1368.059	3.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	[>cioè< che anche se mi dice:: mi] sposo::	[>cioè< che anche se mi dice:: mi] sposo::	cioè che anche se mi dice mi sposo
+440	TO085	1368.063	1369.466	1.403	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	eli no [assolut~]	eli no [assolut~]	eli no assolut~
+441	TO086	1368.65	1370.907	2.257	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	[grazie a te] h~ ho capito::	[grazie a te] h~ ho capito::	grazie a te h~ ho capito
+442	TO085	1371.173	1372.549	1.376	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	no non puoi:	no non puoi:	no non puoi
+443	TO085	1373.652	1374.332	0.68	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	no	no	no
+444	TO086	1375.225	1378.292	3.067	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	no perché in passato ho già perso [troppo tempo::]	no perché in passato ho già perso [troppo tempo::]	no perché in passato ho già perso troppo tempo
+445	TO085	1376.992	1379.096	2.104	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[no infatti me lo] dicevi	[no infatti me lo] dicevi	no infatti me lo dicevi
+446	TO086	1379.15	1380.905	1.755	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	troppe energie::,	troppe energie::,	troppe energie
+447	TO086	1381.205	1383.79	2.585	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	lezioni saltate, quindi proprio no	lezioni saltate, quindi proprio no	lezioni saltate quindi proprio no
+448	TO085	1391.632	1392.272	0.64	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	boh	boh	boh
+449	TO085	1395.332	1399.189	3.857	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	io effettivamente (.) ormai non ero::	io effettivamente {P} ormai non ero::	io effettivamente {P} ormai non ero
+450	TO085	1399.268	1401.592	2.324	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	non ero più distratta da lucia	non ero più distratta da lucia	non ero più distratta da lucia
+451	TO085	1402.343	1403.865	1.522	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	però in questi giorni sì	però in questi giorni sì	però in questi giorni sì
+452	TO085	1403.885	1406.932	3.047	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	>cioè< mi capita che stu:dio, mi metto lì:,	>cioè< mi capita che stu:dio, mi metto lì:,	cioè mi capita che studio mi metto lì
+453	TO085	1407.399	1408.743	1.344	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ripenso a l[ei]	ripenso a l[ei]	ripenso a lei
+454	TO086	1408.529	1410.399	1.87	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	[per]ché lo studio è più::	[per]ché lo studio è più::	perché lo studio è più
+455	TO086	1410.431	1414.076	3.645	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	è una cosa in più magari sei da solo, concentrato	è una cosa in più magari sei da solo, concentrato	è una cosa in più magari sei da solo concentrato
+456	TO086	1415.003	1418.956	3.953	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	mentre invece se fai cose sei sempre con altre persone	mentre invece se fai cose sei sempre con altre persone	mentre invece se fai cose sei sempre con altre persone
+457	TO086	1421.264	1425.428	4.164	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	13	tipo anche già solo quel periodo in cui avevamo otto ore di lezione::	tipo anche già solo quel periodo in cui avevamo otto ore di lezione::	tipo anche già solo quel periodo in cui avevamo otto ore di lezione
+458	TO086	1425.727	1428.632	2.905	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	>cioè< io dalle otto del mattino fino alle sei	>cioè< io dalle otto del mattino fino alle sei	cioè io dalle otto del mattino fino alle sei
+459	TO085	1428.638	1429.555	0.917	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sì sì	sì sì	sì sì
+460	TO086	1429.555	1431.462	1.907	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	come minimo ero sempre con giulio	come minimo ero sempre con giulio	come minimo ero sempre con giulio
+461	TO085	1431.533	1431.956	0.423	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	sì	sì	sì
+462	TO086	1432.277	1435.36	3.083	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	quindi io alla fine uno rie~ [>cioè< pensa molto di] meno	quindi io alla fine uno rie~ [>cioè< pensa molto di] meno	quindi io alla fine uno rie~ cioè pensa molto di meno
+463	TO085	1433.683	1434.956	1.273	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	[quello è vero]	[quello è vero]	quello è vero
+464	TO085	1435.387	1438.276	2.889	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	5	[è vero (.) (pazzo) è ve:ro]	[è vero {P} (pazzo) è ve:ro]	è vero {P} pazzo è vero
+465	TO086	1435.391	1438.276	2.885	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[sei sempre con qualcuno:: che chiacchera:, che::]	[sei sempre con qualcuno:: che chiacchera:, che::]	sei sempre con qualcuno che chiacchera che
+466	TO086	1451.43	1453.786	2.356	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	°ce li ho dei fazzoletti?°	°ce li ho dei fazzoletti?°	ce li ho dei fazzoletti
+467	TO085	1459.173	1462.051	2.878	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	comunque il fatto di avere sto registratore	comunque il fatto di avere sto registratore	comunque il fatto di avere sto registratore
+468	TO085	1462.077	1465.508	3.431	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	mi sta facendo venire un sacco voglia di silenzio	mi sta facendo venire un sacco voglia di silenzio	mi sta facendo venire un sacco voglia di silenzio
+469	TO085	1465.831	1468.537	2.706	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	e sono estremamente innervosita da qualsiasi rumore	e sono estremamente innervosita da qualsiasi rumore	e sono estremamente innervosita da qualsiasi rumore
+470	TO085	1471.569	1472.264	0.695	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	>cioè<	>cioè<	cioè
+471	TO085	1473.671	1475.335	1.664	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	siamo esposti a::	siamo esposti a::	siamo esposti a
+472	TO085	1476.249	1478.613	2.364	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	boh rumore costante	boh rumore costante	boh rumore costante
+473	TO085	1482.11	1484.604	2.494	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	non ti fa saltare i nervi sto rumore?	non ti fa saltare i nervi sto rumore?	non ti fa saltare i nervi sto rumore
+474	TO086	1484.798	1487.854	3.056	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	questo no però se ti ti abitui a studiare::	questo no però se ti ti abitui a studiare::	questo no però se ti ti abitui a studiare
+475	TO086	1487.888	1491.225	3.337	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	9	in un posto tranquillo quando poi vai alla (verdi)	in un posto tranquillo quando poi vai alla (verdi)	in un posto tranquillo quando poi vai alla verdi
+476	TO086	1491.3	1493.399	2.099	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ti sembra [veramente un casino]	ti sembra [veramente un casino]	ti sembra veramente un casino
+477	TO085	1491.656	1493.403	1.747	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	1	0	0	4	[è vero (.) è vero]	[è vero {P} è vero]	è vero {P} è vero
+478	TO086	1493.43	1496.77	3.34	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	poi quando ti abitui anche alla verdi inizi=a:: [sentirti]	poi quando ti abitui anche alla verdi inizi=a:: [sentirti]	poi quando ti abitui anche alla verdi inizi a sentirti
+479	TO085	1495.853	1496.77	0.917	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[è vero]	[è vero]	è vero
+480	TO085	1496.956	1499.256	2.3	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	ma c' avevo fatto caso::	ma c' avevo fatto caso::	ma c' avevo fatto caso
+481	TO085	1499.373	1500.877	1.504	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	l' altro giorno	l' altro giorno	l' altro giorno
+482	TO085	1518.178	1521.707	3.529	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+483	TO086	1519.351	1520.379	1.028	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	cosa?	cosa?	cosa
+484	TO086	1521.739	1523.984	2.245	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	485=0.936,486=0.003	True	1	0	0	3	[xx sono] (.) sono pie::na	[xx sono] {P} sono pie::na	x sono {P} sono piena
+485	TO085	1521.744	1522.68	0.936	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[hai gira~]	[hai gira~]	hai gira~
+486	TO085	1523.981	1526.246	2.265	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	484=0.003,487=0.489	False	0	1	0	5	hai girato la lattina come ((ride))	hai girato la lattina come {ride}	hai girato la lattina come {ride}
+487	TO086	1525.757	1526.251	0.494	True	False	0	0	0	0	0	0	0	0	False	False	False	False	True	486=0.489	False	0	0	0	1	°sì::°	°sì::°	sì
+488	TO086	1526.272	1527.316	1.044	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	[(ma questo)]	[(ma questo)]	ma questo
+489	TO085	1526.275	1528.484	2.209	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	[come se fosse un c]alice di vino	[come se fosse un c]alice di vino	come se fosse un calice di vino
+490	TO086	1528.501	1530.952	2.451	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	penso che a vo~ che sia una cosa che faccio	penso che a vo~ che sia una cosa che faccio	penso che a vo~ che sia una cosa che faccio
+491	TO085	1530.834	1531.873	1.039	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+492	TO085	1534.055	1535.312	1.257	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	e:: vabbè	e:: vabbè	e vabbè
+493	TO085	1541.193	1543.546	2.353	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	oggi c' era:: l' incontro	oggi c' era:: l' incontro	oggi c' era l' incontro
+494	TO085	1544.948	1547.735	2.787	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	con i:: <candidati::>	con i:: <candidati::>	con i candidati
+495	TO085	1548.288	1549.747	1.459	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	1	per::	per::	per
+496	TO085	1550.031	1552.42	2.389	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	il nuovo posto di:: rettore	il nuovo posto di:: rettore	il nuovo posto di rettore
+497	TO086	1552.715	1555.624	2.909	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ah sì l' ave~ forse ci hanno mandato un' email	ah sì l' ave~ forse ci hanno mandato un' email	ah sì l' ave~ forse ci hanno mandato un' email
+498	TO085	1555.631	1557.722	2.091	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	e::h io volevo proprio andare però::	e::h io volevo proprio andare però::	eh io volevo proprio andare però
+499	TO085	1558.13	1560.806	2.676	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ci sono andati i miei amici dell' udu	ci sono andati i miei amici dell' udu	ci sono andati i miei amici dell' udu
+500	TO085	1562.304	1566.269	3.965	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	11	infatti:: mi leggerà il resoconto vediamo un po' come siamo messi	infatti:: mi leggerà il resoconto vediamo un po' come siamo messi	infatti mi leggerà il resoconto vediamo un po' come siamo messi
+501	TO085	1570.62	1572.411	1.791	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	mi sa male comunque	mi sa male comunque	mi sa male comunque
+502	TO085	1574.549	1576.731	2.182	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	(mi sa) che sono molto di destra	(mi sa) che sono molto di destra	mi sa che sono molto di destra
+503	TO085	1581.505	1583.09	1.585	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	ma questa qui?	ma questa qui?	ma questa qui
+504	TO086	1586.576	1589.011	2.435	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	°non ce la faccio son pienissima°	°non ce la faccio son pienissima°	non ce la faccio son pienissima
+505	TO086	1589.182	1591.807	2.625	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	7	la crosta è un po' me::glio forse	la crosta è un po' me::glio forse	la crosta è un po' meglio forse
+506	TO086	1592.152	1594.697	2.545	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	6	un po' mi sembra più croccanti:na	un po' mi sembra più croccanti:na	un po' mi sembra più croccantina
+507	TO086	1595.846	1598.209	2.363	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	>cioè< sempre croccante stopposo eh	>cioè< sempre croccante stopposo eh	cioè sempre croccante stopposo eh
+508	TO086	1598.228	1600.173	1.945	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	non:: non ti aspettare	non:: non ti aspettare	non non ti aspettare
+509	TO085	1604.078	1606.232	2.154	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	4	preferisco la parte rossa	preferisco la parte rossa	preferisco la parte rossa
+510	TO086	1610.965	1614.126	3.161	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	8	ho comprato un cioccolato che questo è veramente::	ho comprato un cioccolato che questo è veramente::	ho comprato un cioccolato che questo è veramente
+511	TO086	1614.147	1615.418	1.271	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	sub standard	sub standard	sub standard
+512	TO085	1615.422	1616.691	1.269	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	1	0	0	((ride))	{ride}	{ride}
+513	TO086	1616.754	1619.529	2.775	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	5	°(anzi) di qualità sub standard°	°(anzi) di qualità sub standard°	anzi di qualità sub standard
+514	TO086	1623.738	1626.335	2.597	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	10	ma aspetta ma da dove l' hai persa la pila?	ma aspetta ma da dove l' hai persa la pila?	ma aspetta ma da dove l' hai persa la pila
+515	TO085	1626.695	1627.905	1.21	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	3	era:: tipo dentro	era:: tipo dentro	era tipo dentro
+516	TO086	1627.912	1628.92	1.008	True	False	0	0	0	0	0	0	0	0	False	False	False	False	False	_	False	0	0	0	2	°m:h mh°	°m:h mh°	mh mh
